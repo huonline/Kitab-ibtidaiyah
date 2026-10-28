@@ -1,0 +1,103 @@
+/* Pengaturan Dasar */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #2c3e50;
+    color: white;
+    text-align: center;
+    padding: 1.5rem 1rem;
+}
+header h1 { margin: 0; font-size: 1.8rem; }
+header p { margin: 5px 0 0; font-size: 0.9rem; color: #bdc3c7; }
+main { max-width: 800px; margin: 20px auto; padding: 0 15px; }
+
+/* Grid Menu Kitab */
+#menu-kitab {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 15px;
+}
+.kartu-kitab {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    cursor: pointer;
+    font-weight: bold;
+    border: 2px solid transparent;
+    transition: 0.3s;
+}
+.kartu-kitab:hover { border-color: #3498db; }
+
+/* Navigasi Dalam Kitab */
+.navigasi-atas {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+#tombol-kembali {
+    padding: 8px 12px;
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+select { padding: 5px; font-size: 1rem; }
+
+/* Tabel 2 Kolom Gaya Kamus */
+.fashal-container { margin-bottom: 30px; background: white; padding: 15px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+.fashal-judul { text-align: center; color: #2980b9; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 15px; }
+.baris-terjemah {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #f0f0f0;
+    padding: 12px 0;
+    cursor: pointer; /* Memberi sinyal bisa diklik */
+    transition: background-color 0.2s;
+}
+.baris-terjemah:hover { background-color: #f9f9f9; }
+.kolom-arab {
+    width: 45%;
+    text-align: right;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: "Traditional Arabic", serif;
+    direction: rtl;
+    color: #2c3e50;
+}
+.kolom-arti {
+    width: 50%;
+    text-align: left;
+    font-size: 1rem;
+    line-height: 1.5;
+    display: flex;
+    align-items: center;
+}
+
+/* Modal / Pop-up Nahwu */
+.modal {
+    position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    display: flex; justify-content: center; align-items: center;
+}
+.isi-modal {
+    background-color: white; padding: 20px; border-radius: 8px;
+    width: 80%; max-width: 400px; text-align: center; position: relative;
+}
+.tutup-modal {
+    position: absolute; top: 10px; right: 15px; font-size: 24px;
+    cursor: pointer; color: #aaa;
+}
+.tutup-modal:hover { color: #333; }
+#teks-nahwu { font-size: 1.1rem; color: #c0392b; font-weight: bold; margin-top: 15px; }
+
+/* Utilitas */
+.sembunyi { display: none !important; }
