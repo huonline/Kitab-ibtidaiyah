@@ -3,8 +3,7 @@
 // Tambah baris: {sd:"terjemah kalimat Sunda",id:"terjemah kalimat Indonesia",segs:[ [..],[..] ]}
 // "lat" = kata kunci Latin untuk pencarian. lines:null = fashl belum diisi.
 (window.KITAB=window.KITAB||[]).push({judul:"Safinatun Naja",ar:"سَفِينَةُ النَّجَا",ket:"Fikih dasar",fashl:[
-
-  {ar:"مُقَدِّمَةٌ",lat:"muqaddimah pembukaan",judul:"Pembukaan",lines:[
+{ar:"مُقَدِّمَةٌ",lat:"muqaddimah pembukaan",judul:"Pembukaan",lines:[
 {segs:[
 ["الْحَمْدُ","Mubtada’ marfū‘","Ari sadaya puji","Segala puji"],
 ["لِلّٰهِ","Jār majrūr, khabar mubtada’","Éta tetep kagungan Allah","bagi Allah"],
@@ -28,10 +27,7 @@
 ["الْعَلِيِّ","Na‘at (sifat) ti lafadz Allah, majrūr","(Sifatna Allah) Nu Maha Luhur","Yang Maha Tinggi"],
 ["الْعَظِيمِ","Na‘at (sifat) kadua majrūr","Tur Nu Maha Agung","lagi Maha Agung"]]}
 ]}
-
-  
-   
-  {ar:"أَرْكَانُ الْإِسْلَامِ",lat:"arkanul islam rukun islam",judul:"Rukun Islam",lines:[
+{ar:"أَرْكَانُ الْإِسْلَامِ",lat:"arkanul islam rukun islam",judul:"Rukun Islam",lines:[
 {sd:"Ari rukun Islam, éta lima perkara.",id:"Rukun Islam itu ada lima.",segs:[
 ["أَرْكَانُ الْإِسْلَامِ","Mubtada’ marfū‘ dan muḍāf; الإسلام muḍāf ilaih majrūr","Ari rukun-rukun Islam","Rukun-rukun Islam"],
 ["خَمْسَةٌ","Khabar marfū‘","Éta lima perkara","ada lima"]]},
