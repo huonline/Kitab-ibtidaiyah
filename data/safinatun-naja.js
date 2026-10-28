@@ -343,7 +343,208 @@
           ]
         }
       ]
+    },
+        {
+      ar: "النِّيَّةُ وَالتَّرْتِيبُ",
+      lat: "niat tartib makna niat",
+      judul: "Makna Niat & Tartib",
+      lines: [
+        {
+          sd: "Ari niat éta nyengaja hiji perkara halna bareng jeung migawéna,",
+          id: "Niat adalah menyengaja sesuatu berbarengan dengan pengerjaannya,",
+          segs: [
+            ["النِّيَّةُ","Mubtada'","Ari niat","Niat itu"],
+            ["قَصْدُ الشَّيْءِ","Khobar jeung Mudhof Ilaih","Éta nyengaja hiji perkara","menyengaja sesuatu"],
+            ["مُقْتَرِنًا","Hal (Manshub)","halna bareng","berbarengan"],
+            ["بِفِعْلِهِ","Jar Majrur jeung Mudhof Ilaih","jeung migawéna (éta perkara),","dengan pengerjaannya,"]
+          ]
+        },
+        {
+          sd: "Jeung ari tempatna niat éta dina haté, jeung ari ngucapkeun kana niat éta sunah,",
+          id: "Dan tempatnya niat itu di dalam hati, dan melafalkannya adalah sunnah,",
+          segs: [
+            ["وَمَحَلُّهَا","Wawu Athaf/Isti'naf, Mubtada' jeung Mudhof Ilaih","Jeung ari tempatna éta niat","Dan tempatnya (niat)"],
+            ["الْقَلْبُ","Khobar","Éta dina haté,","di dalam hati,"],
+            ["وَالتَّلَفُّظُ","Wawu Athaf, Mubtada'","Jeung ari ngucapkeun","dan melafalkannya"],
+            ["بِهَا","Jar Majrur","kana éta niat","akan niat itu"],
+            ["سُنَّةٌ","Khobar","Éta sunah,","adalah sunnah,"]
+          ]
+        },
+        {
+          sd: "Jeung ari waktuna niat éta (nalika) ngumbah awal bagéan tina beungeut,",
+          id: "Dan waktunya adalah ketika membasuh awal bagian dari wajah,",
+          segs: [
+            ["وَوَقْتُهَا","Wawu Athaf, Mubtada' jeung Mudhof Ilaih","Jeung ari waktuna éta niat","Dan waktunya"],
+            ["عِنْدَ غَسْلِ","Dzhorof Zaman jeung Mudhof Ilaih","Éta (nalika) ngumbah","ketika membasuh"],
+            ["أَوَّلِ جُزْءٍ","Mudhof jeung Mudhof Ilaih","awal bagéan","awal bagian"],
+            ["مِنَ الْوَجْهِ","Jar Majrur","tina beungeut,","dari wajah,"]
+          ]
+        },
+        {
+          sd: "Jeung ari nu ngaran tartib, nyaéta yén ulah miheulakeun kana hiji anggota ngéléhkeun ka anggota nu séjén.",
+          id: "Dan tertib, yaitu tidak mendahulukan suatu anggota tubuh atas anggota lainnya.",
+          segs: [
+            ["وَالتَّرْتِيبُ","Wawu Athaf, Mubtada'","Jeung ari nu ngaran tartib,","Dan tertib,"],
+            ["أَنْ لَا يُقَدِّمَ","An Mashdariyah, Laa Nafiyah, Fi'il Mudhori' (Khobar)","nyaéta yén ulah miheulakeun","yaitu tidak mendahulukan"],
+            ["عُضْوًا","Maf'ul Bih","kana hiji anggota","suatu anggota"],
+            ["عَلَى عُضْوٍ","Jar Majrur","ka anggota nu séjén.","atas anggota (lainnya)."]
+          ]
+        }
+      ]
+    },
+
+    {
+      ar: "أَقْسَامُ الْمَاءِ",
+      lat: "aqsamul ma air sedikit banyak",
+      judul: "Air Sedikit & Air Banyak",
+      lines: [
+        {
+          sd: "Ari cai éta aya cai saeutik jeung cai loba. Ari cai nu saeutik éta cai anu kurang ti dua qullah, jeung ari cai loba éta dua qullah tuluy leuwih loba.",
+          id: "Air itu ada sedikit dan banyak. Air sedikit adalah air yang kurang dari dua qullah, dan air banyak adalah dua qullah atau lebih.",
+          segs: [
+            ["الْمَاءُ","Mubtada'","Ari cai","Air itu"],
+            ["قَلِيلٌ وَكَثِيرٌ","Khobar jeung Athaf","Éta cai saeutik jeung loba:","ada sedikit dan banyak:"],
+            ["الْقَلِيلُ","Mubtada'","Ari cai nu saeutik","Air yang sedikit"],
+            ["مَا دُونَ","Isim Maushul (Khobar) jeung Dzhorof Makan","Éta cai anu kurang","adalah air yang kurang"],
+            ["الْقُلَّتَيْنِ","Mudhof Ilaih (Majrur ku Ya')","ti dua qullah,","dari dua qullah,"],
+            ["وَالْكَثِيرُ","Wawu Athaf, Mubtada'","Jeung ari cai anu loba","dan air yang banyak"],
+            ["قُلَّتَانِ فَأَكْثَرُ","Khobar, Fa Athaf, Isim Tafdhil","Éta dua qullah tuluy leuwih loba.","adalah dua qullah atau lebih."]
+          ]
+        },
+        {
+          sd: "Ari cai nu saeutik éta bisa jadi najis sabab ragragan najis ka jerona sanajan teu robah (warna, rasa, ambeuna).",
+          id: "Air sedikit menjadi najis sebab kejatuhan najis ke dalamnya meskipun ia tidak berubah.",
+          segs: [
+            ["الْقَلِيلُ","Mubtada'","Ari cai nu saeutik","Air yang sedikit"],
+            ["يَتَنَجَّسُ","Fi'il Mudhori' (Khobar)","Éta bisa jadi najis","menjadi najis"],
+            ["بِوُقُوعِ النَّجَاسَةِ","Jar Majrur jeung Mudhof Ilaih","sabab ragragan najis","sebab kejatuhan najis"],
+            ["فِيهِ","Jar Majrur","ka jerona,","ke dalamnya,"],
+            ["وَإِنْ لَمْ يَتَغَيَّرْ","Wawu Hal/Ghoyah, In Syarthiyah, Lam Nafi, Fi'il Mudhori' Majzum","sanajan teu robah.","meskipun tidak berubah."]
+          ]
+        },
+        {
+          sd: "Jeung ari cai anu loba éta moal jadi najis, anging lamun robah rasana, atawa warnana, atawa ambeuna.",
+          id: "Dan air banyak tidak menjadi najis, kecuali jika berubah rasanya, atau warnanya, atau baunya.",
+          segs: [
+            ["وَالْمَاءُ الْكَثِيرُ","Wawu Athaf, Mubtada' jeung Na'at","Jeung ari cai anu loba","Dan air yang banyak"],
+            ["لَا يَتَنَجَّسُ","Laa Nafiyah, Fi'il Mudhori' (Khobar)","Éta moal jadi najis,","tidak menjadi najis,"],
+            ["إِلَّا إِذَا تَغَيَّرَ","Adat Istitsna, Dzhorof, Fi'il Madhi","anging lamun robah","kecuali jika berubah"],
+            ["طَعْمُهُ","Fa'il jeung Mudhof Ilaih","rasana,","rasanya,"],
+            ["أَوْ لَوْنُهُ","Athaf jeung Mudhof Ilaih","atawa warnana,","atau warnanya,"],
+            ["أَوْ رِيحُهُ","Athaf jeung Mudhof Ilaih","atawa ambeuna.","atau baunya."]
+          ]
+        }
+      ]
+    },
+
+    {
+      ar: "مُوجِبَاتُ الْغُسْلِ",
+      lat: "mujibatul ghusli wajib mandi",
+      judul: "Perkara yang Mewajibkan Mandi",
+      lines: [
+        {
+          sd: "Ari pirang-pirang nu ngawajibkeun mandi éta aya genep:",
+          id: "Perkara yang mewajibkan mandi itu ada enam:",
+          segs: [
+            ["مُوجِبَاتُ الْغُسْلِ","Mubtada' jeung Mudhof Ilaih","Ari pirang-pirang nu ngawajibkeun mandi","Perkara yang mewajibkan mandi"],
+            ["سِتَّةٌ","Khobar","Éta aya genep:","ada enam:"]
+          ]
+        },
+        {
+          sd: "Nyaéta ngasupkeun hasyafah (pucuk dzakar) kana farji, jeung kaluar mani, jeung haid,",
+          id: "Yaitu memasukkan hasyafah ke dalam farji, keluarnya mani, dan haid,",
+          segs: [
+            ["إِيلَاجُ الْحَشَفَةِ","Badal ti sittatun jeung Mudhof Ilaih","Nyaéta ngasupkeun hasyafah","Yaitu memasukkan hasyafah"],
+            ["فِي الْفَرْجِ","Jar Majrur","kana farji,","ke dalam farji,"],
+            ["وَخُرُوجُ الْمَنِيِّ","Athaf jeung Mudhof Ilaih","jeung kaluar mani,","dan keluarnya mani,"],
+            ["وَالْحَيْضُ","Athaf","jeung haid,","dan haid,"]
+          ]
+        },
+        {
+          sd: "Jeung nifas, jeung ngalahirkeun, jeung maot.",
+          id: "Dan nifas, dan melahirkan, dan mati.",
+          segs: [
+            ["وَالنِّفَاسُ","Athaf","jeung nifas,","dan nifas,"],
+            ["وَالْوِلَادَةُ","Athaf","jeung ngalahirkeun,","dan melahirkan,"],
+            ["وَالْمَوْتُ","Athaf","jeung maot.","dan mati."]
+          ]
+        }
+      ]
+    },
+
+    {
+      ar: "فُرُوضُ الْغُسْلِ",
+      lat: "furudhul ghusli fardhu mandi",
+      judul: "Fardhu-fardhu Mandi",
+      lines: [
+        {
+          sd: "Ari pirang-pirang farduna mandi éta aya dua: Nyaéta niat, jeung ngaratakeun cai ka sakujur badan.",
+          id: "Fardhu-fardhu mandi itu ada dua: Yaitu niat, dan meratakan air ke seluruh badan.",
+          segs: [
+            ["فُرُوضُ الْغُسْلِ","Mubtada' jeung Mudhof Ilaih","Ari pirang-pirang farduna mandi","Fardhu-fardhu mandi"],
+            ["اثْنَانِ","Khobar","Éta aya dua:","ada dua:"],
+            ["النِّيَّةُ","Badal ti itsnani","Nyaéta niat,","Yaitu niat,"],
+            ["وَتَعْمِيمُ الْبَدَنِ","Athaf jeung Mudhof Ilaih","jeung ngaratakeun badan","dan meratakan badan"],
+            ["بِالْمَاءِ","Jar Majrur","ku cai.","dengan air."]
+          ]
+        }
+      ]
+    },
+
+    {
+      ar: "شُرُوطُ الْوُضُوءِ",
+      lat: "syurutul wudhu syarat wudhu",
+      judul: "Syarat-syarat Wudhu",
+      lines: [
+        {
+          sd: "Ari pirang-pirang saratna wudu éta aya sapuluh:",
+          id: "Syarat-syarat wudhu itu ada sepuluh:",
+          segs: [
+            ["شُرُوطُ الْوُضُوءِ","Mubtada' jeung Mudhof Ilaih","Ari pirang-pirang saratna wudu","Syarat-syarat wudhu"],
+            ["عَشَرَةٌ","Khobar","Éta aya sapuluh:","ada sepuluh:"]
+          ]
+        },
+        {
+          sd: "Nyaéta Islam, jeung tamyiz, jeung bersih tina haid jeung nifas,",
+          id: "Yaitu Islam, dan tamyiz, dan suci dari haid dan nifas,",
+          segs: [
+            ["الْإِسْلَامُ","Badal","Nyaéta Islam,","Yaitu Islam,"],
+            ["وَالتَّمْيِيزُ","Athaf","jeung tamyiz,","dan tamyiz,"],
+            ["وَالنَّقَاءُ","Athaf","jeung bersih","dan suci"],
+            ["عَنِ الْحَيْضِ وَالنِّفَاسِ","Jar Majrur jeung Athaf","tina haid jeung nifas,","dari haid dan nifas,"]
+          ]
+        },
+        {
+          sd: "Jeung tina perkara anu bisa nyegah nepi cai kana kulit,",
+          id: "Dan dari perkara yang mencegah sampainya air ke kulit,",
+          segs: [
+            ["وَعَمَّا يَمْنَعُ","Athaf, Jar Majrur (An+Ma), Fi'il Mudhori' (Shilah)","Jeung tina perkara anu nyegah","Dan dari hal yang mencegah"],
+            ["وُصُولَ الْمَاءِ","Maf'ul Bih jeung Mudhof Ilaih","kana nepi cai","sampainya air"],
+            ["إِلَى الْبَشَرَةِ","Jar Majrur","kana kulit,","ke kulit,"]
+          ]
+        },
+        {
+          sd: "Jeung yén ulah aya dina anggota wudu naon perkara anu bisa ngarobah kana cai nu nyucikeun,",
+          id: "Dan bahwa tidak ada pada anggota wudhu sesuatu yang dapat merubah air yang mensucikan,",
+          segs: [
+            ["وَأَنْ لَا يَكُونَ","Athaf, An Mashdariyah, Laa Nafiyah, Fi'il Mudhori' Naqish","Jeung yén ulah aya","Dan bahwa tidak ada"],
+            ["عَلَى الْعُضْوِ","Jar Majrur (Khobar Yakuna muqoddam)","dina anggota wudu","pada anggota (wudhu)"],
+            ["مَا يُغَيِّرُ","Isim Maushul (Isim Yakuna), Fi'il Mudhori' (Shilah)","naon perkara anu ngarobah","sesuatu yang merubah"],
+            ["الْمَاءَ الطَّهُورَ","Maf'ul Bih jeung Na'at","kana cai nu nyucikeun,","air yang mensucikan,"]
+          ]
+        },
+        {
+          sd: "Jeung kudu asup waktu, jeung tuluy-tuluy (muwalah) khusus pikeun jalma nu langgeng hadasna.",
+          id: "Dan masuknya waktu, dan berturut-turut (muwalah) khusus bagi orang yang langgeng hadatsnya.",
+          segs: [
+            ["وَدُخُولُ الْوَقْتِ","Athaf jeung Mudhof Ilaih","Jeung asup waktu,","Dan masuknya waktu,"],
+            ["وَالْمُوَالَاةُ","Athaf","jeung tuluy-tuluy,","dan berturut-turut,"],
+            ["لِدَائِمِ الْحَدَثِ","Jar Majrur jeung Mudhof Ilaih","pikeun jalma nu langgeng hadasna.","bagi orang yang langgeng hadatsnya."]
+          ]
+        }
+      ]
     }
+
 
 
   ] // Penutup array fashl
