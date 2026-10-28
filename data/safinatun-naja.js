@@ -3,30 +3,6 @@
 // Tambah baris: {sd:"terjemah kalimat Sunda",id:"terjemah kalimat Indonesia",segs:[ [..],[..] ]}
 // "lat" = kata kunci Latin untuk pencarian. lines:null = fashl belum diisi.
 (window.KITAB=window.KITAB||[]).push({judul:"Safinatun Naja",ar:"سَفِينَةُ النَّجَا",ket:"Fikih dasar",fashl:[
-{ar:"مُقَدِّمَةٌ",lat:"muqaddimah pembukaan",judul:"Pembukaan",lines:[
-{segs:[
-["الْحَمْدُ","Mubtada’ marfū‘","Ari sadaya puji","Segala puji"],
-["لِلّٰهِ","Jār majrūr, khabar mubtada’","Éta tetep kagungan Allah","bagi Allah"],
-["رَبِّ الْعَالَمِينَ","Na‘at atawa badal ti lafadz Allah, muḍāf jeung muḍāf ilaih majrūr","(Sifatna Allah) Pangéran nu murbéng alam","Tuhan semesta alam"],
-["وَبِهِ","Wawu ‘athaf, jār majrūr muta‘alliq ka lafadz nasta‘īn","Jeung ngan ka Manten-Na (Allah)","Dan hanya kepada-Nya"],
-["نَسْتَعِينُ","Fi‘il muḍāri‘ marfū‘, fā‘ilna mustatir (naḥnu)","Abdi sadaya nyuhunkeun pitulung","kami memohon pertolongan"],
-["عَلَىٰ أُمُورِ الدُّنْيَا","Jār majrūr, muḍāf jeung muḍāf ilaih","Dina (nyanghareupan) pirang-pirang urusan dunya","atas (segala) urusan dunia"],
-["وَالدِّينِ","Wawu ‘athaf, ma‘thūf ka lafadz ad-dunyā","Jeung urusan agama","dan agama"]]},
-{segs:[
-["وَصَلَّى اللهُ","Wawu ‘athaf, fi‘il māḍī jeung fā‘il marfū‘","Jeung muga maparin rahmat ta'dhim saha Allah","Dan semoga Allah melimpahkan rahmat"],
-["وَسَلَّمَ","Wawu ‘athaf, fi‘il māḍī (ma‘thūf ka shallā)","Jeung muga maparin kasalametan (Allah)","dan (semoga) melimpahkan keselamatan"],
-["عَلَىٰ سَيِّدِنَا مُحَمَّدٍ","Jār majrūr, muḍāf jeung muḍāf ilaih, badal","Ka gusti urang sadaya, nyaéta Nabi Muhammad","kepada gusti kita, (yakni) Nabi Muhammad"],
-["خَاتَمِ النَّبِيِّينَ","Na‘at ti sayyidinā, muḍāf jeung muḍāf ilaih majrūr","(Anu janten) panutup pirang-pirang nabi","penutup para nabi"],
-["وَآلِهِ","Wawu ‘athaf, ma‘thūf ka sayyidinā, muḍāf jeung muḍāf ilaih","Jeung ka kulawargana (Nabi)","dan kepada keluarganya"],
-["وَصَحْبِهِ","Wawu ‘athaf, ma‘thūf ka sayyidinā, muḍāf jeung muḍāf ilaih","Jeung ka para sahabatna (Nabi)","dan kepada para sahabatnya"],
-["أَجْمَعِينَ","Taukīd ma‘nawī majrūr","Sadayana","sekalian"]]},
-{segs:[
-["وَلَا حَوْلَ","Wawu isti'nāf/athaf, lā nāfiyah lil jins, isim lā mabnī fathah","Jeung teu aya daya (pisan)","Dan tiada daya (upaya)"],
-["وَلَا قُوَّةَ","Wawu ‘athaf, lā nāfiyah lil jins, isim lā mabnī fathah","Jeung teu aya kakuatan (pisan)","dan tiada kekuatan"],
-["إِلَّا بِاللّٰهِ","Adāt istitsnā', jār majrūr muta‘alliq ka khabar lā nu dibuang","Anging kalawan (pitulung) Allah","melainkan dengan (pertolongan) Allah"],
-["الْعَلِيِّ","Na‘at (sifat) ti lafadz Allah, majrūr","(Sifatna Allah) Nu Maha Luhur","Yang Maha Tinggi"],
-["الْعَظِيمِ","Na‘at (sifat) kadua majrūr","Tur Nu Maha Agung","lagi Maha Agung"]]}
-]}
 {ar:"أَرْكَانُ الْإِسْلَامِ",lat:"arkanul islam rukun islam",judul:"Rukun Islam",lines:[
 {sd:"Ari rukun Islam, éta lima perkara.",id:"Rukun Islam itu ada lima.",segs:[
 ["أَرْكَانُ الْإِسْلَامِ","Mubtada’ marfū‘ dan muḍāf; الإسلام muḍāf ilaih majrūr","Ari rukun-rukun Islam","Rukun-rukun Islam"],
