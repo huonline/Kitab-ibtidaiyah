@@ -277,8 +277,7 @@
         }
       ]
     },
-
-    {
+   {
       ar: "فُرُوضُ الْوُضُوءِ",
       lat: "furudhul wudhu fardhu wudhu",
       judul: "Fardhu-Fardhu Wudhu",
