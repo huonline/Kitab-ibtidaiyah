@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -5,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kitab Ibtidaiyah</title>
     <link rel="stylesheet" href="style.css">
+    <!-- Font Arab untuk tampilan optimal -->
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
     <header>
@@ -13,17 +16,21 @@
     </header>
 
     <main>
-        <!-- Tampilan Awal: Menu Pilihan Kitab -->
+        <!-- Tampilan Awal: Menu Pilihan Kitab (Judul Arab) -->
         <section id="menu-kitab">
-            <!-- Daftar kitab akan dimuat otomatis oleh JavaScript -->
+            <!-- Tombol kitab akan dimuat otomatis di sini -->
         </section>
 
-        <!-- Tampilan Isi Kitab (Tabel 2 Kolom) -->
+        <!-- Tampilan Isi Kitab (Tabel 2 Kolom Bergaris) -->
         <section id="isi-kitab" class="sembunyi">
             <div class="navigasi-atas">
-                <button id="tombol-kembali">⬅ Kembali</button>
+                <button id="tombol-kembali">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8z"/>
+                    </svg>
+                    Kembali
+                </button>
                 <div class="pilihan-bahasa">
-                    <label>Terjemahan: </label>
                     <select id="pilih-bahasa">
                         <option value="sunda">Lugot Sunda</option>
                         <option value="indo">Indonesia</option>
@@ -31,9 +38,11 @@
                 </div>
             </div>
             
-            <h2 id="judul-kitab">Judul Kitab</h2>
+            <!-- Judul kitab yang sedang dibuka -->
+            <h2 id="judul-kitab" class="font-arab"></h2>
+            
             <div id="konten-tabel">
-                <!-- Tabel fashal akan dimuat otomatis di sini -->
+                <!-- Tabel fashal bergaris akan dimuat otomatis di sini -->
             </div>
         </section>
     </main>
@@ -42,13 +51,23 @@
     <div id="modal-nahwu" class="modal sembunyi">
         <div class="isi-modal">
             <span class="tutup-modal">&times;</span>
-            <h3>Kedudukan Nahwu</h3>
+            <div class="teks-arab-modal" id="teks-arab-modal" dir="rtl"></div>
+            <div class="label-nahwu">Kedudukan Nahwu:</div>
             <p id="teks-nahwu"></p>
         </div>
     </div>
 
-    <!-- Urutan script penting: data dimuat dulu, baru logika aplikasinya -->
-    <script src="data.js"></script>
+    <!-- ======================================================= -->
+    <!-- BAGIAN IMPORT DATA KITAB -->
+    <!-- Jika ada kitab baru, tambahkan file js-nya di bawah ini -->
+    <!-- ======================================================= -->
+    <script src="data_safinah.js"></script>
+    <script src="data_jurumiyah.js"></script>
+    <script src="data_sulam.js"></script>
+    <script src="data_akhlak.js"></script>
+    
+    <!-- Script logika utama harus dipanggil paling terakhir -->
     <script src="script.js"></script>
 </body>
 </html>
+```
