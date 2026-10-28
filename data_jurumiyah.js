@@ -1,4 +1,3 @@
-```javascript
 window.kumpulanKitab = window.kumpulanKitab || {};
 
 window.kumpulanKitab['jurumiyah'] = {
