@@ -1,4 +1,3 @@
-```javascript
 // Pastikan variabel global siap
 window.kumpulanKitab = window.kumpulanKitab || {};
 
