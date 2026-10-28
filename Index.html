@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kitab Ibtidaiyah</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Kitab Ibtidaiyah</h1>
+        <p>Kajian Terjemah & Kedudukan Nahwu</p>
+    </header>
+
+    <main>
+        <!-- Tampilan Awal: Menu Pilihan Kitab -->
+        <section id="menu-kitab">
+            <!-- Daftar kitab akan dimuat otomatis oleh JavaScript -->
+        </section>
+
+        <!-- Tampilan Isi Kitab (Tabel 2 Kolom) -->
+        <section id="isi-kitab" class="sembunyi">
+            <div class="navigasi-atas">
+                <button id="tombol-kembali">⬅ Kembali</button>
+                <div class="pilihan-bahasa">
+                    <label>Terjemahan: </label>
+                    <select id="pilih-bahasa">
+                        <option value="sunda">Lugot Sunda</option>
+                        <option value="indo">Indonesia</option>
+                    </select>
+                </div>
+            </div>
+            
+            <h2 id="judul-kitab">Judul Kitab</h2>
+            <div id="konten-tabel">
+                <!-- Tabel fashal akan dimuat otomatis di sini -->
+            </div>
+        </section>
+    </main>
+
+    <!-- Modal / Pop-up Nahwu -->
+    <div id="modal-nahwu" class="modal sembunyi">
+        <div class="isi-modal">
+            <span class="tutup-modal">&times;</span>
+            <h3>Kedudukan Nahwu</h3>
+            <p id="teks-nahwu"></p>
+        </div>
+    </div>
+
+    <!-- Urutan script penting: data dimuat dulu, baru logika aplikasinya -->
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
