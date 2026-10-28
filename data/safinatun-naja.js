@@ -118,7 +118,167 @@
     },
     
     // --- TEMPAT FASHAL BERIKUTNYA ---
-    {ar:"أَرْكَانُ الْإِيمَانِ",lat:"arkanul iman rukun iman",judul:"Rukun Iman",lines:null}
+     {
+      ar: "أَرْكَانُ الْإِيمَانِ",
+      lat: "arkanul iman rukun iman",
+      judul: "Rukun Iman",
+      lines: [
+        {
+          sd: "Ari rukun iman éta genep perkara:",
+          id: "Rukun iman itu ada enam:",
+          segs: [
+            ["(فَصْلٌ)","Khobar ti Mubtada anu dibuang","(Ari ieu) Éta hiji fashal","Ini adalah sebuah fasal"],
+            ["أَرْكَانُ الْإِيمَانِ","Mubtada' jeung Mudhof Ilaih","Ari rukun-rukun iman","Rukun iman itu"],
+            ["سِتَّةٌ","Khobar","Éta aya genep:","ada enam:"]
+          ]
+        },
+        {
+          sd: "Nyaéta yén kudu iman anjeun ka Allah, ka para malaikat-Na, ka pirang-pirang kitab-Na, jeung ka poé ahir,",
+          id: "Yaitu engkau beriman kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya, dan hari akhir,",
+          segs: [
+            ["أَنْ تُؤْمِنَ","An mashdariyah, fi'il mudhori' (Badal ti sittatun)","Nyaéta yén kudu iman anjeun","Yaitu engkau beriman"],
+            ["بِاللّٰهِ","Jar majrur (muta'alliq ka tu'mina)","ka Allah,","kepada Allah,"],
+            ["وَمَلَائِكَتِهِ","Athaf jeung Mudhof Ilaih","jeung ka para malaikat-Na,","dan malaikat-malaikat-Nya,"],
+            ["وَكُتُبِهِ","Athaf jeung Mudhof Ilaih","jeung ka pirang-pirang kitab-Na,","dan kitab-kitab-Nya,"],
+            ["وَبِالْيَوْمِ الْآخِرِ","Athaf, jar majrur, na'at","jeung ka poé ahir,","dan kepada hari akhir,"]
+          ]
+        },
+        {
+          sd: "Jeung kana pesti (takdir) alusna jeung goréngna ti Allah Ta'ala.",
+          id: "Dan kepada takdir, baik dan buruknya dari Allah Ta'ala.",
+          segs: [
+            ["وَبِالْقَدَرِ","Athaf jeung jar majrur","jeung kana takdir (pesti)","dan kepada takdir,"],
+            ["خَيْرِهِ","Badal jeung Mudhof Ilaih","(nyaéta) alusna éta takdir","baiknya takdir"],
+            ["وَشَرِّهِ","Athaf jeung Mudhof Ilaih","jeung goréngna éta takdir","dan buruknya takdir"],
+            ["مِنَ اللّٰهِ","Jar majrur","(anu asalna) ti Allah","dari Allah"],
+            ["تَعَالَى","Fi'il madhi (hal/sifat)","Maha Luhur Allah.","Maha Tinggi Allah."]
+          ]
+        }
+      ]
+    },
+        {
+      ar: "مَعْنَى لَا إِلٰهَ إِلَّا اللّٰهُ",
+      lat: "makna la ilaha illallah",
+      judul: "Makna Lā ilāha illallāh",
+      lines: [
+        {
+          sd: "Jeung ari makna Laa ilaaha illallaah: Éta teu aya nu wajib diibadahan kalawan haq dina kanyataanana anging Allah.",
+          id: "Dan makna La ilaha illallah: Tiada yang disembah dengan haq (benar) di dalam wujud (kenyataan) melainkan Allah.",
+          segs: [
+            ["(فَصْلٌ)","Khobar ti Mubtada anu dibuang","(Ari ieu) Éta hiji fashal","Ini adalah sebuah fasal"],
+            ["وَمَعْنَى لَا إِلٰهَ إِلَّا اللّٰهُ","Wawu athaf/isti'naf, Mubtada' jeung Mudhof Ilaih","Jeung ari makna laa ilaaha illallaah:","Dan makna la ilaha illallah:"],
+            ["لَا مَعْبُودَ","Laa nafi lil jins, isim laa","Éta teu aya nu diibadahan","Tiada yang disembah"],
+            ["بِحَقٍّ","Jar majrur","kalawan haq (bener)","dengan haq (benar)"],
+            ["فِي الْوُجُودِ","Jar majrur (Khobar laa)","dina wujudna (kanyataanana)","di dalam wujud (kenyataan)"],
+            ["إِلَّا اللّٰهُ","Adat istitsna jeung Badal marfu'","anging Allah.","melainkan Allah."]
+          ]
+        }
+      ]
+    },
+    {
+      ar: "عَلَامَاتُ الْبُلُوغِ",
+      lat: "alamat alamatul bulugh tanda baligh",
+      judul: "Tanda-Tanda Baligh",
+      lines: [
+        {
+          sd: "Ari pirang-pirang tanda baligh éta aya tilu:",
+          id: "Tanda-tanda baligh itu ada tiga:",
+          segs: [
+            ["(فَصْلٌ)","Khobar ti Mubtada anu dibuang","(Ari ieu) Éta hiji fashal","Ini adalah sebuah fasal"],
+            ["عَلَامَاتُ الْبُلُوغِ","Mubtada' jeung Mudhof Ilaih","Ari pirang-pirang tanda baligh","Tanda-tanda baligh itu"],
+            ["ثَلَاثٌ","Khobar","Éta aya tilu:","ada tiga:"]
+          ]
+        },
+        {
+          sd: "Nyaéta sampurna umur lima belas taun, di lalaki jeung awéwé,",
+          id: "Yaitu sempurna umur lima belas tahun bagi laki-laki dan perempuan,",
+          segs: [
+            ["تَمَامُ","Badal ti thalathun (marfu')","Nyaéta sampurna","sempurna"],
+            ["خَمْسَ عَشْرَةَ سَنَةً","Adad murokkab, tamyiz","umur lima belas taun","lima belas tahun"],
+            ["فِي الذَّكَرِ","Jar majrur","di pameget (lalaki)","pada laki-laki"],
+            ["وَالْأُنْثَى","Athaf","jeung istri (awéwé),","dan perempuan,"]
+          ]
+        },
+        {
+          sd: "Jeung ngimpi sapatemon (kaluar mani) di lalaki jeung awéwé pikeun (nu geus nincak) umur salapan taun,",
+          id: "Dan mimpi basah bagi laki-laki dan perempuan pada usia sembilan tahun,",
+          segs: [
+            ["وَالِاحْتِلَامُ","Athaf ka tamaamu (marfu')","Jeung ngimpi sapatemon","Dan mimpi basah"],
+            ["فِي الذَّكَرِ وَالْأُنْثَى","Jar majrur jeung athaf","di lalaki jeung awéwé","bagi laki-laki dan perempuan"],
+            ["لِتِسْعِ سِنِينَ","Jar majrur jeung mudhof ilaih","pikeun umur salapan taun,","pada usia sembilan tahun,"]
+          ]
+        },
+        {
+          sd: "Jeung haid (kaluar getih) di awéwé pikeun (nu geus nincak) umur salapan taun.",
+          id: "Dan haid bagi perempuan pada usia sembilan tahun.",
+          segs: [
+            ["وَالْحَيْضُ","Athaf (marfu')","Jeung haid","Dan haid"],
+            ["فِي الْأُنْثَى","Jar majrur","di awéwé","bagi perempuan"],
+            ["لِتِسْعِ سِنِينَ","Jar majrur jeung mudhof ilaih","pikeun umur salapan taun.","pada usia sembilan tahun."]
+          ]
+        }
+      ]
+    },
+    {
+      ar: "شُرُوطُ إِجْزَاءِ الْحَجَرِ",
+      lat: "syurutu ijzail hajar syarat istinja batu",
+      judul: "Syarat Istinja dengan Batu",
+      lines: [
+        {
+          sd: "Ari pirang-pirang sarat nyukupkeun (istinja) ku batu éta aya dalapan:",
+          id: "Syarat-syarat mencukupinya (istinja) dengan batu ada delapan:",
+          segs: [
+            ["(فَصْلٌ)","Khobar ti Mubtada anu dibuang","(Ari ieu) Éta hiji fashal","Ini adalah sebuah fasal"],
+            ["شُرُوطُ إِجْزَاءِ الْحَجَرِ","Mubtada', mudhof, mudhof ilaih","Ari pirang-pirang sarat nyukupkeun ku batu","Syarat-syarat mencukupinya dengan batu"],
+            ["ثَمَانِيَةٌ","Khobar","Éta aya dalapan:","ada delapan:"]
+          ]
+        },
+        {
+          sd: "Nyaéta yén aya éta istinja ku tilu batu, jeung yén kudu ngabersihkeun éta batu kana tempatna,",
+          id: "Yaitu harus menggunakan tiga batu, dan harus membersihkan tempat (keluarnya najis),",
+          segs: [
+            ["أَنْ يَكُونَ","An mashdariyah, fi'il mudhori' naqish (Badal)","Nyaéta yén aya (éta istinja)","Yaitu harus ada/menggunakan"],
+            ["بِثَلَاثَةِ أَحْجَارٍ","Jar majrur, mudhof ilaih (Khobar yakuna)","ku tilu pirang-pirang batu,","tiga batu,"],
+            ["وَأَنْ يُنْقِيَ","Athaf, an mashdariyah, fi'il mudhori'","jeung yén kudu ngabersihkeun (éta batu)","dan harus membersihkan"],
+            ["الْمَحَلَّ","Maf'ul bih (manshub)","kana tempatna (kaluar najis),","tempat (keluarnya najis),"]
+          ]
+        },
+        {
+          sd: "Jeung yén ulah garing éta najis, jeung ulah pindah éta najis,",
+          id: "Dan najis tersebut tidak (belum) kering, dan tidak berpindah,",
+          segs: [
+            ["وَأَنْ لَا يَجِفَّ","Athaf, an mashdariyah, laa nafiyah, fi'il mudhori'","Jeung yén ulah garing","Dan tidak kering"],
+            ["النَّجَسُ","Fa'il (marfu')","éta najis,","najis tersebut,"],
+            ["وَلَا يَنْتَقِلَ","Athaf, laa nafiyah, fi'il mudhori'","jeung ulah pindah (éta najis),","dan tidak berpindah,"]
+          ]
+        },
+        {
+          sd: "Jeung ulah datang (ti luar) kana éta tempat najis séjén, jeung ulah ngaliwatan éta najis kana bobokongna jeung hulu dzakarna,",
+          id: "Dan tidak kedatangan najis lain, dan tidak melewati lipatan pantat dan kepala dzakarnya,",
+          segs: [
+            ["وَلَا يَطْرَأَ","Athaf, laa nafiyah, fi'il mudhori'","Jeung ulah datang (ti luar)","Dan tidak kedatangan"],
+            ["عَلَيْهِ","Jar majrur","kana éta tempat","kepadanya (tempat itu)"],
+            ["آخَرُ","Fa'il (marfu')","najis séjén,","najis lain,"],
+            ["وَلَا يُجَاوِزَ","Athaf, laa nafiyah, fi'il mudhori'","jeung ulah ngaliwatan (éta najis)","dan tidak melewati"],
+            ["صَفْحَتَهُ","Maf'ul bih jeung Mudhof Ilaih","kana bobokongna","lipatan pantatnya"],
+            ["وَحَشَفَتَهُ","Athaf jeung Mudhof Ilaih","jeung hulu dzakarna,","dan kepala dzakarnya,"]
+          ]
+        },
+        {
+          sd: "Jeung ulah keuna kana éta najis naon cai, jeung yén aya éta pirang-pirang batu éta suci.",
+          id: "Dan tidak terkena air, dan batunya harus suci.",
+          segs: [
+            ["وَلَا يُصِيبَهُ","Athaf, laa nafiyah, fi'il mudhori' jeung Maf'ul bih","Jeung ulah keuna kana éta najis","Dan tidak mengenainya"],
+            ["مَاءٌ","Fa'il (marfu')","naon cai,","air,"],
+            ["وَأَنْ تَكُونَ","Athaf, an mashdariyah, fi'il mudhori' naqish","jeung yén aya","dan harus ada"],
+            ["الْأَحْجَارُ","Isim takuna (marfu')","éta pirang-pirang batu","batu-batu tersebut"],
+            ["طَاهِرَةً","Khobar takuna (manshub)","éta suci.","suci."]
+          ]
+        }
+      ]
+    }
+
+
 
   ] // Penutup array fashl
 }); // Penutup push
