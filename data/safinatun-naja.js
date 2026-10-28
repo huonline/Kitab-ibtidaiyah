@@ -426,7 +426,374 @@
           ]
         }
       ]
+    },
+        // --- FASHAL 7: FARDHU WUDHU ---
+    {
+      ar: "فُرُوضُ الْوُضُوءِ",
+      lat: "furudhul wudhu fardhu wudhu",
+      judul: "Fardhu-Fardhu Wudhu",
+      lines: [
+        {
+          sd: "Ari pirang-pirang farduna wudu, éta aya genep perkara:",
+          id: "Fardhu-fardhu wudhu itu ada enam:",
+          segs: [
+            ["فُرُوضُ","Mubtada' marfū' sarta mudhof. (Jamak Taksir tina فَرْضٌ, Tsulatsi Mujarrad Bab 2: فَرَضَ - يَفْرِضُ)","Ari pirang-pirang farduna","Fardhu-fardhu"],
+            ["الْوُضُوءِ","Mudhof Ilaih majrūr. (Sighat Isim Masdar, Tsulatsi Mujarrad Bab 5: وَضُؤَ - يَوْضُؤُ)","wudu,","wudhu itu"],
+            ["سِتَّةٌ","Khobar marfū'. (Isim Adad)","éta aya genep perkara:","ada enam:"]
+          ]
+        },
+        {
+          sd: "Ari nu kahiji, éta niat.",
+          id: "Yang pertama adalah niat.",
+          segs: [
+            ["الْأَوَّلُ","Mubtada' marfū'. (Isim Adad Tartibi)","Ari nu kahiji,","Yang pertama"],
+            ["النِّيَّةُ","Khobar marfū'. (Sighat Isim Masdar)","éta niat.","adalah niat."]
+          ]
+        },
+        {
+          sd: "Ari nu kadua, éta ngumbah beungeut.",
+          id: "Yang kedua adalah membasuh wajah.",
+          segs: [
+            ["الثَّانِي","Mubtada' marfū' muqoddaroh. (Isim Adad Tartibi)","Ari nu kadua,","Yang kedua"],
+            ["غَسْلُ","Khobar marfū' sarta mudhof. (Sighat Isim Masdar, Tsulatsi Mujarrad Bab 2: غَسَلَ - يَغْسِلُ)","éta ngumbah","membasuh"],
+            ["الْوَجْهِ","Mudhof Ilaih majrūr. (Sighat Isim Jamid)","beungeut.","wajah."]
+          ]
+        },
+        {
+          sd: "Ari nu katilu, éta ngumbah dua leungeun sarta dua sikuna.",
+          id: "Yang ketiga adalah membasuh kedua tangan beserta kedua sikunya.",
+          segs: [
+            ["الثَّالِثُ","Mubtada' marfū'. (Isim Adad Tartibi)","Ari nu katilu,","Yang ketiga"],
+            ["غَسْلُ","Khobar marfū' sarta mudhof. (Sighat Isim Masdar)","éta ngumbah","membasuh"],
+            ["الْيَدَيْنِ","Mudhof Ilaih majrūr ku Yaa. (Isim Mutsanna)","dua leungeun","kedua tangan"],
+            ["مَعَ","Dzhorof Makan manshūb sarta mudhof.","sarta (bareng)","beserta"],
+            ["الْمِرْفَقَيْنِ","Mudhof Ilaih majrūr ku Yaa. (Isim Makan Mutsanna)","dua sikuna.","kedua sikunya."]
+          ]
+        },
+        {
+          sd: "Ari nu kaopat, éta ngusap hiji perkara (saeutik) tina (rambut) sirah.",
+          id: "Yang keempat adalah mengusap sebagian dari kepala.",
+          segs: [
+            ["الرَّابِعُ","Mubtada' marfū'. (Isim Adad Tartibi)","Ari nu kaopat,","Yang keempat"],
+            ["مَسْحُ","Khobar marfū' sarta mudhof. (Sighat Isim Masdar, Tsulatsi Mujarrad Bab 3: مَسَحَ - يَمْسَحُ)","éta ngusap","mengusap"],
+            ["شَيْءٍ","Mudhof Ilaih majrūr. (Isim Jamid)","hiji perkara (saeutik)","sebagian (sesuatu)"],
+            ["مِنَ","Harf Jar mabni fathah.","tina (rambut)","dari"],
+            ["الرَّأْسِ","Majrūr. (Sighat Isim Jamid)","sirah.","kepala."]
+          ]
+        },
+        {
+          sd: "Ari nu kalima, éta ngumbah dua suku sarta dua muncanganna.",
+          id: "Yang kelima adalah membasuh kedua kaki beserta kedua mata kakinya.",
+          segs: [
+            ["الْخَامِسُ","Mubtada' marfū'. (Isim Adad Tartibi)","Ari nu kalima,","Yang kelima"],
+            ["غَسْلُ","Khobar marfū' sarta mudhof. (Sighat Isim Masdar)","éta ngumbah","membasuh"],
+            ["الرِّجْلَيْنِ","Mudhof Ilaih majrūr ku Yaa. (Isim Mutsanna)","dua suku","kedua kaki"],
+            ["مَعَ","Dzhorof Makan manshūb sarta mudhof.","sarta","beserta"],
+            ["الْكَعْبَيْنِ","Mudhof Ilaih majrūr ku Yaa. (Isim Mutsanna)","dua muncanganna.","kedua mata kakinya."]
+          ]
+        },
+        {
+          sd: "Ari nu kagenep, éta tartib (runtuy).",
+          id: "Yang keenam adalah tertib (berurutan).",
+          segs: [
+            ["السَّادِسُ","Mubtada' marfū'. (Isim Adad Tartibi)","Ari nu kagenep,","Yang keenam"],
+            ["التَّرْتِيبُ","Khobar marfū'. (Sighat Isim Masdar, Tsulatsi Mazid Warna 1 Bab 2: رَتَّبَ - يُرَتِّبُ - تَرْتِيبًا)","éta tartib (runtuy).","adalah tertib."]
+          ]
+        }
+      ]
+    },
+
+    // --- FASHAL 8: MAKNA NIAT & TARTIB ---
+    {
+      ar: "النِّيَّةُ وَالتَّرْتِيبُ",
+      lat: "niat tartib makna niat",
+      judul: "Makna Niat & Tartib",
+      lines: [
+        {
+          sd: "Ari niat, éta nyengaja hiji perkara barina bareng jeung migawéna éta perkara.",
+          id: "Niat adalah menyengaja sesuatu berbarengan dengan pengerjaannya.",
+          segs: [
+            ["النِّيَّةُ","Mubtada' marfū'. (Sighat Isim Masdar)","Ari niat,","Niat itu"],
+            ["قَصْدُ","Khobar marfū' sarta mudhof. (Sighat Isim Masdar, Tsulatsi Mujarrad Bab 2: قَصَدَ - يَقْصِدُ)","éta nyengaja","menyengaja"],
+            ["الشَّيْءِ","Mudhof Ilaih majrūr. (Isim Jamid)","hiji perkara","sesuatu"],
+            ["مُقْتَرِنًا","Hal, manshūb. (Sighat Isim Fa'il, Tsulatsi Mazid Warna 2 Bab 2: اقْتَرَنَ - يَقْتَرِنُ)","barina bareng","berbarengan"],
+            ["بِـ","Harf Jar mabni kasrah.","jeung","dengan"],
+            ["فِعْلِـ","Majrūr sarta mudhof. (Sighat Isim Masdar, Tsulatsi Mujarrad Bab 3)","migawéna","pengerjaan"],
+            ["ـهِ","Mudhof Ilaih majrūr/mabni. (Isim Dhomir Haa)","éta perkara.","(-nya)."]
+          ]
+        },
+        {
+          sd: "Jeung ari tempatna éta niat, éta dina haté. Jeung ari ngucapkeun kana éta niat, éta sunah.",
+          id: "Dan tempatnya niat itu di dalam hati. Dan melafalkannya adalah sunnah.",
+          segs: [
+            ["وَ","Harf Athaf/Isti'naf mabni fathah.","Jeung","Dan"],
+            ["مَحَلُّـ","Mubtada' marfū' sarta mudhof. (Sighat Isim Makan ti حَلَّ)","ari tempatna","tempat"],
+            ["ـهَا","Mudhof Ilaih mabni sukun. (Isim Dhomir Haa)","éta niat,","(niat) itu"],
+            ["الْقَلْبُ","Khobar marfū'. (Sighat Isim Jamid)","éta dina haté.","di dalam hati."],
+            ["وَ","Harf Athaf mabni fathah.","Jeung","Dan"],
+            ["التَّلَفُّظُ","Mubtada' marfū'. (Sighat Isim Masdar, Tsulatsi Mazid Warna 2 Bab 4: تَفَلَّظَ - يَتَلَفَّظُ)","ari ngucapkeun","melafalkan"],
+            ["بِـ","Harf Jar mabni kasrah.","kana","akan"],
+            ["ـهَا","Majrūr. (Isim Dhomir Haa)","éta niat,","niat itu,"],
+            ["سُنَّةٌ","Khobar marfū'. (Sighat Isim Sifat)","éta sunah.","adalah sunnah."]
+          ]
+        },
+        {
+          sd: "Jeung ari waktuna éta niat, éta (nalika) ngumbah awal bagéan tina beungeut.",
+          id: "Dan waktunya adalah ketika membasuh awal bagian dari wajah.",
+          segs: [
+            ["وَ","Harf Athaf mabni fathah.","Jeung","Dan"],
+            ["وَقْتُـ","Mubtada' marfū' sarta mudhof. (Sighat Isim Zaman)","ari waktuna","waktunya"],
+            ["ـهَا","Mudhof Ilaih. (Isim Dhomir Haa)","éta niat,","(niat) itu,"],
+            ["عِنْدَ","Dzhorof Zaman manshūb sarta mudhof. (Muta'alliq kana Khobar mahdzuf)","éta (nalika)","ketika"],
+            ["غَسْلِ","Mudhof Ilaih majrūr sarta mudhof deui. (Sighat Isim Masdar)","ngumbah","membasuh"],
+            ["أَوَّلِ","Mudhof Ilaih majrūr sarta mudhof deui. (Isim Tafdhil)","awal","awal"],
+            ["جُزْءٍ","Mudhof Ilaih majrūr. (Isim Jamid)","bagéan","bagian"],
+            ["مِنَ","Harf Jar mabni fathah.","tina","dari"],
+            ["الْوَجْهِ","Majrūr. (Sighat Isim Jamid)","beungeut.","wajah."]
+          ]
+        },
+        {
+          sd: "Jeung ari nu ngaran tartib, nyaéta yén ulah miheulakeun (hiji jalma) kana hiji anggota ngéléhkeun ka anggota nu séjén.",
+          id: "Dan tertib, yaitu tidak mendahulukan suatu anggota tubuh atas anggota lainnya.",
+          segs: [
+            ["وَ","Harf Athaf mabni fathah.","Jeung","Dan"],
+            ["التَّرْتِيبُ","Mubtada' marfū'. (Sighat Isim Masdar)","ari nu ngaran tartib,","tertib (itu),"],
+            ["أَنْ","Harf Mashdariyah mabni sukun.","nyaéta yén","yaitu bahwa"],
+            ["لَا","Laa Nafiyah mabni sukun.","ulah","tidak"],
+            ["يُقَدِّمَ","Fi'il Mudhori' Khobar (Kaluar tina An). (Tsulatsi Mazid Warna 1 Bab 2: قَدَّمَ - يُقَدِّمُ)","miheulakeun (hiji jalma)","mendahulukan"],
+            ["عُضْوًا","Maf'ul Bih manshūb. (Sighat Isim Jamid)","kana hiji anggota","suatu anggota"],
+            ["عَلَى","Harf Jar mabni sukun.","ngéléhkeun ka","atas"],
+            ["عُضْوٍ","Majrūr. (Sighat Isim Jamid)","anggota nu séjén.","anggota (lain)."]
+          ]
+        }
+      ]
+    },
+
+    // --- FASHAL 9: AIR SEDIKIT & BANYAK ---
+    {
+      ar: "أَقْسَامُ الْمَاءِ",
+      lat: "aqsamul ma air sedikit banyak",
+      judul: "Air Sedikit & Air Banyak",
+      lines: [
+        {
+          sd: "Ari cai, éta aya cai saeutik jeung cai loba:",
+          id: "Air itu ada sedikit dan banyak:",
+          segs: [
+            ["الْمَاءُ","Mubtada' marfū'. (Sighat Isim Jamid)","Ari cai,","Air itu"],
+            ["قَلِيلٌ","Khobar marfū'. (Sifat Musyabbahah)","éta cai saeutik","ada sedikit"],
+            ["وَ","Harf Athaf mabni fathah.","jeung","dan"],
+            ["كَثِيرٌ","Ma'thuf marfū'. (Sifat Musyabbahah)","cai loba:","banyak:"]
+          ]
+        },
+        {
+          sd: "Ari cai nu saeutik, éta cai anu kurang ti dua qullah. Jeung ari cai anu loba, éta dua qullah tuluy (nepika nu) leuwih loba.",
+          id: "Air sedikit adalah air yang kurang dari dua qullah. Dan air banyak adalah dua qullah atau lebih.",
+          segs: [
+            ["الْقَلِيلُ","Mubtada' marfū'. (Sifat Musyabbahah)","Ari cai nu saeutik,","Air yang sedikit,"],
+            ["مَا","Isim Maushul mabni sukun, mahal rofa' (Khobar).","éta cai anu","adalah air yang"],
+            ["دُونَ","Dzhorof Makan (Shilah Maushul) manshūb, sarta mudhof.","kurang","kurang (di bawah)"],
+            ["الْقُلَّتَيْنِ","Mudhof Ilaih, majrūr ku Yaa. (Isim Mutsanna tina قُلَّةٌ)","ti dua qullah.","dari dua qullah."],
+            ["وَ","Harf Athaf mabni fathah.","Jeung","Dan"],
+            ["الْكَثِيرُ","Mubtada' marfū'. (Sifat Musyabbahah)","ari cai anu loba,","air yang banyak,"],
+            ["قُلَّتَانِ","Khobar marfū' ku Alif. (Isim Mutsanna)","éta dua qullah","adalah dua qullah"],
+            ["فَـ","Harf Athaf (Ta'qib) mabni fathah.","tuluy","kemudian (atau)"],
+            ["أَكْثَرُ","Ma'thuf marfū' (Ghoiru Munshorif). (Isim Tafdhil)","leuwih loba.","lebih banyak."]
+          ]
+        },
+        {
+          sd: "Ari cai nu saeutik, éta bisa jadi najis sabab ragragan najis ka jerona, sanajan teu robah éta cai.",
+          id: "Air sedikit menjadi najis sebab kejatuhan najis ke dalamnya, meskipun ia tidak berubah.",
+          segs: [
+            ["الْقَلِيلُ","Mubtada' marfū'. (Sifat Musyabbahah)","Ari cai nu saeutik,","Air yang sedikit,"],
+            ["يَتَنَجَّسُ","Fi'il Mudhori' marfū', (Jumlahna janten Khobar). (Tsulatsi Mazid Warna 2 Bab 4: تَنَجَّسَ - يَتَنَجَّسُ)","éta bisa jadi najis","menjadi najis"],
+            ["بِـ","Harf Jar mabni kasrah.","sabab","sebab"],
+            ["وُقُوعِ","Majrūr sarta mudhof. (Sighat Isim Masdar, Tsulatsi Mujarrad Bab 3: وَقَعَ - يَقَعُ)","ragragan (ragragna)","kejatuhan"],
+            ["النَّجَاسَةِ","Mudhof Ilaih majrūr. (Sighat Isim Masdar/Jamid)","najis","najis"],
+            ["فِيـ","Harf Jar mabni sukun.","ka jero","ke dalam"],
+            ["ـهِ","Majrūr. (Isim Dhomir Haa)","(éta cai),","(-nya),"],
+            ["وَ","Wawu Hal/Ghoyah mabni fathah.","sanajan","meskipun"],
+            ["إِنْ","Harf Syarot mabni sukun.","yén","jika"],
+            ["لَمْ","Harf Jazm mabni sukun.","teu","tidak"],
+            ["يَتَغَيَّرْ","Fi'il Mudhori' Majzum ku Lam. (Tsulatsi Mazid Warna 2 Bab 4: تَغَيَّرَ - يَتَغَيَّرُ)","robah (éta cai).","berubah."]
+          ]
+        },
+        {
+          sd: "Jeung ari cai anu loba, éta moal jadi najis, anging lamun robah rasana, atawa warnana, atawa ambeuna.",
+          id: "Dan air banyak tidak menjadi najis, kecuali jika berubah rasanya, atau warnanya, atau baunya.",
+          segs: [
+            ["وَ","Harf Athaf mabni fathah.","Jeung","Dan"],
+            ["الْمَاءُ","Mubtada' marfū'. (Sighat Isim Jamid)","ari cai","air"],
+            ["الْكَثِيرُ","Na'at marfū'. (Sifat Musyabbahah)","anu loba,","yang banyak,"],
+            ["لَا","Laa Nafiyah mabni sukun.","éta moal","tidak"],
+            ["يَتَنَجَّسُ","Fi'il Mudhori' marfū', (Jumlahna Khobar). (Tsulatsi Mazid Warna 2 Bab 4: تَنَجَّسَ - يَتَنَجَّسُ)","jadi najis,","menjadi najis,"],
+            ["إِلَّا","Adat Istitsna mabni sukun.","anging","kecuali"],
+            ["إِذَا","Dzhorof Zaman mabni sukun.","lamun","jika"],
+            ["تَغَيَّرَ","Fi'il Madhi mabni fathah. (Tsulatsi Mazid Warna 2 Bab 4: تَغَيَّرَ - يَتَغَيَّرُ)","robah","berubah"],
+            ["طَعْمُـ","Fa'il marfū' sarta mudhof. (Sighat Isim Masdar)","rasa","rasa"],
+            ["ـهُ","Mudhof Ilaih. (Isim Dhomir Haa)","(éta cai),","(-nya),"],
+            ["أَوْ","Harf Athaf mabni sukun.","atawa","atau"],
+            ["لَوْنُـ","Ma'thuf marfū' sarta mudhof. (Sighat Isim Jamid)","warna","warna"],
+            ["ـهُ","Mudhof Ilaih. (Isim Dhomir Haa)","(éta cai),","(-nya),"],
+            ["أَوْ","Harf Athaf mabni sukun.","atawa","atau"],
+            ["رِيحُـ","Ma'thuf marfū' sarta mudhof. (Sighat Isim Jamid)","ambeu","bau"],
+            ["ـهُ","Mudhof Ilaih. (Isim Dhomir Haa)","(éta cai).","(-nya)."]
+          ]
+        }
+      ]
+    },
+
+    // --- FASHAL 10: WAJIB MANDI ---
+    {
+      ar: "مُوجِبَاتُ الْغُسْلِ",
+      lat: "mujibatul ghusli wajib mandi",
+      judul: "Perkara yang Mewajibkan Mandi",
+      lines: [
+        {
+          sd: "Ari pirang-pirang nu ngawajibkeun mandi, éta aya genep perkara:",
+          id: "Perkara yang mewajibkan mandi itu ada enam:",
+          segs: [
+            ["مُوجِبَاتُ","Mubtada' marfū' sarta mudhof. (Jamak Muannats Salim, Isim Fa'il, Tsulatsi Mazid Warna 1 Bab 1: أَوْجَبَ - يُوجِبُ)","Ari pirang-pirang nu ngawajibkeun","Perkara yang mewajibkan"],
+            ["الْغُسْلِ","Mudhof Ilaih majrūr. (Sighat Isim Masdar, Tsulatsi Mujarrad Bab 2: غَسَلَ - يَغْسِلُ)","mandi,","mandi,"],
+            ["سِتَّةٌ","Khobar marfū'. (Isim Adad)","éta aya genep perkara:","ada enam:"]
+          ]
+        },
+        {
+          sd: "Nyaéta ngasupkeun hasyafah (pucuk dzakar) kana farji, jeung kaluar mani, jeung haid,",
+          id: "Yaitu memasukkan hasyafah ke dalam farji, keluarnya mani, dan haid,",
+          segs: [
+            ["إِيلَاجُ","Badal ti Sittatun, marfū' sarta mudhof. (Sighat Isim Masdar, Tsulatsi Mazid Warna 1 Bab 1: أَوْلَجَ - يُولِجُ - إِيلَاجًا)","Nyaéta ngasupkeun","Yaitu memasukkan"],
+            ["الْحَشَفَةِ","Mudhof Ilaih majrūr. (Sighat Isim Jamid)","hasyafah (pucuk dzakar)","hasyafah"],
+            ["فِي","Harf Jar mabni sukun.","kana","ke dalam"],
+            ["الْفَرْجِ","Majrūr. (Sighat Isim Masdar)","farji,","farji,"],
+            ["وَ","Harf Athaf mabni fathah.","jeung","dan"],
+            ["خُرُوجُ","Ma'thuf marfū' sarta mudhof. (Sighat Isim Masdar, Tsulatsi Mujarrad Bab 1: خَرَجَ - يَخْرُجُ)","kaluar","keluarnya"],
+            ["الْمَنِيِّ","Mudhof Ilaih majrūr. (Sighat Isim Jamid)","mani,","mani,"],
+            ["وَ","Harf Athaf mabni fathah.","jeung","dan"],
+            ["الْحَيْضُ","Ma'thuf marfū'. (Sighat Isim Masdar, Tsulatsi Mujarrad Bab 2: حَاضَ - يَحِيضُ)","haid,","haid,"]
+          ]
+        },
+        {
+          sd: "Jeung nifas, jeung ngalahirkeun, jeung maot.",
+          id: "Dan nifas, dan melahirkan, dan mati.",
+          segs: [
+            ["وَ","Harf Athaf mabni fathah.","Jeung","Dan"],
+            ["النِّفَاسُ","Ma'thuf marfū'. (Sighat Isim Masdar, Tsulatsi Mujarrad: نَفُسَ - يَنْفُسُ)","nifas,","nifas,"],
+            ["وَ","Harf Athaf mabni fathah.","jeung","dan"],
+            ["الْوِلَادَةُ","Ma'thuf marfū'. (Sighat Isim Masdar, Tsulatsi Mujarrad Bab 2: وَلَدَ - يَلِدُ)","ngalahirkeun,","melahirkan,"],
+            ["وَ","Harf Athaf mabni fathah.","jeung","dan"],
+            ["الْمَوْتُ","Ma'thuf marfū'. (Sighat Isim Masdar, Tsulatsi Mujarrad Bab 1: مَاتَ - يَمُوتُ)","maot.","mati."]
+          ]
+        }
+      ]
+    },
+
+    // --- FASHAL 11: FARDHU MANDI ---
+    {
+      ar: "فُرُوضُ الْغُسْلِ",
+      lat: "furudhul ghusli fardhu mandi",
+      judul: "Fardhu-fardhu Mandi",
+      lines: [
+        {
+          sd: "Ari pirang-pirang farduna mandi, éta aya dua perkara:",
+          id: "Fardhu-fardhu mandi itu ada dua:",
+          segs: [
+            ["فُرُوضُ","Mubtada' marfū' sarta mudhof. (Jamak Taksir tina فَرْضٌ)","Ari pirang-pirang farduna","Fardhu-fardhu"],
+            ["الْغُسْلِ","Mudhof Ilaih majrūr. (Sighat Isim Masdar)","mandi,","mandi,"],
+            ["اثْنَانِ","Khobar marfū' ku Alif. (Isim Adad Mutsanna)","éta aya dua perkara:","ada dua:"]
+          ]
+        },
+        {
+          sd: "Nyaéta niat, jeung ngaratakeun cai ka sakujur badan.",
+          id: "Yaitu niat, dan meratakan air ke seluruh badan.",
+          segs: [
+            ["النِّيَّةُ","Badal ti Itsnani, marfū'. (Sighat Isim Masdar)","Nyaéta niat,","Yaitu niat,"],
+            ["وَ","Harf Athaf mabni fathah.","jeung","dan"],
+            ["تَعْمِيمُ","Ma'thuf marfū' sarta mudhof. (Sighat Isim Masdar, Tsulatsi Mazid Warna 1 Bab 2: عَمَّمَ - يُعَمِّمُ - تَعْمِيمًا)","ngaratakeun","meratakan"],
+            ["الْبَدَنِ","Mudhof Ilaih majrūr. (Sighat Isim Jamid)","badan","badan"],
+            ["بِـ","Harf Jar mabni kasrah.","ku","dengan"],
+            ["ـالْمَاءِ","Majrūr. (Sighat Isim Jamid)","cai.","air."]
+          ]
+        }
+      ]
+    },
+
+    // --- FASHAL 12: SYARAT WUDHU ---
+    {
+      ar: "شُرُوطُ الْوُضُوءِ",
+      lat: "syurutul wudhu syarat wudhu",
+      judul: "Syarat-syarat Wudhu",
+      lines: [
+        {
+          sd: "Ari pirang-pirang saratna wudu, éta aya sapuluh perkara:",
+          id: "Syarat-syarat wudhu itu ada sepuluh:",
+          segs: [
+            ["شُرُوطُ","Mubtada' marfū' sarta mudhof. (Jamak Taksir tina شَرْطٌ)","Ari pirang-pirang saratna","Syarat-syarat"],
+            ["الْوُضُوءِ","Mudhof Ilaih majrūr. (Sighat Isim Masdar)","wudu,","wudhu,"],
+            ["عَشَرَةٌ","Khobar marfū'. (Isim Adad)","éta aya sapuluh perkara:","ada sepuluh:"]
+          ]
+        },
+        {
+          sd: "Nyaéta Islam, jeung tamyiz, jeung bersih tina haid jeung nifas,",
+          id: "Yaitu Islam, dan tamyiz, dan suci dari haid dan nifas,",
+          segs: [
+            ["الْإِسْلَامُ","Badal marfū'. (Sighat Isim Masdar, Tsulatsi Mazid Warna 1 Bab 1: أَسْلَمَ - يُسْلِمُ)","Nyaéta Islam,","Yaitu Islam,"],
+            ["وَ","Harf Athaf mabni fathah.","jeung","dan"],
+            ["التَّمْيِيزُ","Ma'thuf marfū'. (Sighat Isim Masdar, Tsulatsi Mazid Warna 1 Bab 2: مَيَّزَ - يُمَيِّزُ - تَمْيِيزًا)","tamyiz,","tamyiz,"],
+            ["وَ","Harf Athaf mabni fathah.","jeung","dan"],
+            ["النَّقَاءُ","Ma'thuf marfū'. (Sighat Isim Masdar, Tsulatsi Mujarrad Bab 2: نَقِيَ - يَنْقَى)","bersih","suci"],
+            ["عَنِ","Harf Jar mabni fathah (asalna sukun).","tina","dari"],
+            ["الْحَيْضِ","Majrūr. (Sighat Isim Masdar)","haid","haid"],
+            ["وَ","Harf Athaf mabni fathah.","jeung","dan"],
+            ["النِّفَاسِ","Ma'thuf majrūr. (Sighat Isim Masdar)","nifas,","nifas,"]
+          ]
+        },
+        {
+          sd: "Jeung (bersih) tina perkara anu nyegah éta perkara kana nepina cai kana kulit,",
+          id: "Dan dari sesuatu yang mencegah sampainya air ke kulit,",
+          segs: [
+            ["وَ","Harf Athaf mabni fathah.","Jeung","Dan"],
+            ["عَنْ","Harf Jar mabni sukun. (Diidghomkeun kana Ma)","tina","dari"],
+            ["مَا","Isim Maushul, mahal majrūr.","perkara anu","sesuatu yang"],
+            ["يَمْنَعُ","Fi'il Mudhori' (Jumlah Shilah). (Tsulatsi Mujarrad Bab 3: مَنَعَ - يَمْنَعُ)","nyegah (éta perkara)","mencegah"],
+            ["وُصُولَ","Maf'ul Bih manshūb sarta mudhof. (Sighat Isim Masdar, Tsulatsi Mujarrad Bab 2: وَصَلَ - يَصِلُ)","kana nepina","sampainya"],
+            ["الْمَاءِ","Mudhof Ilaih majrūr. (Sighat Isim Jamid)","cai","air"],
+            ["إِلَى","Harf Jar mabni sukun.","kana","ke"],
+            ["الْبَشَرَةِ","Majrūr. (Sighat Isim Jamid)","kulit,","kulit,"]
+          ]
+        },
+        {
+          sd: "Jeung yén ulah kabuktian aya dina anggota wudu, naon perkara anu bisa ngarobah (éta perkara) kana cai nu nyucikeun,",
+          id: "Dan bahwa tidak ada pada anggota wudhu, sesuatu yang dapat merubah air yang mensucikan,",
+          segs: [
+            ["وَ","Harf Athaf mabni fathah.","Jeung","Dan"],
+            ["أَنْ","Harf Mashdariyah mabni sukun.","yén","bahwa"],
+            ["لَا","Laa Nafiyah mabni sukun.","ulah","tidak"],
+            ["يَكُونَ","Fi'il Mudhori' Naqish (Akhwat Kana) manshub. (Tsulatsi Mujarrad Bab 1: كَانَ - يَكُونُ)","kabuktian aya","ada"],
+            ["عَلَى","Harf Jar mabni sukun.","dina","pada"],
+            ["الْعُضْوِ","Majrūr (Khobar Yakuna Muqoddam). (Sighat Isim Jamid)","anggota (wudu),","anggota (wudhu),"],
+            ["مَا","Isim Maushul, mahal rofa' (Isim Yakuna Muakhkhor).","naon perkara anu","sesuatu yang"],
+            ["يُغَيِّرُ","Fi'il Mudhori' (Jumlah Shilah). (Tsulatsi Mazid Warna 1 Bab 2: غَيَّرَ - يُغَيِّرُ)","bisa ngarobah (éta perkara)","dapat merubah"],
+            ["الْمَاءَ","Maf'ul Bih manshūb. (Sighat Isim Jamid)","kana cai","air"],
+            ["الطَّهُورَ","Na'at manshūb. (Sighat Mubalaghah ti طَهُرَ)","nu nyucikeun,","yang mensucikan,"]
+          ]
+        },
+        {
+          sd: "Jeung (kudu) asup waktu, jeung tuluy-tuluy, khusus pikeun jalma nu langgeng hadasna.",
+          id: "Dan masuknya waktu, dan berturut-turut, khusus bagi orang yang langgeng hadatsnya.",
+          segs: [
+            ["وَ","Harf Athaf mabni fathah.","Jeung","Dan"],
+            ["دُخُولُ","Ma'thuf marfū' sarta mudhof. (Sighat Isim Masdar, Tsulatsi Mujarrad Bab 1: دَخَلَ - يَدْخُلُ)","(kudu) asup","masuknya"],
+            ["الْوَقْتِ","Mudhof Ilaih majrūr. (Sighat Isim Zaman)","waktu,","waktu,"],
+            ["وَ","Harf Athaf mabni fathah.","jeung","dan"],
+            ["الْمُوَالَاةُ","Ma'thuf marfū'. (Sighat Isim Masdar, Tsulatsi Mazid Warna 1 Bab 3: وَالَى - يُوَالِي - مُوَالَاةً)","tuluy-tuluy,","berturut-turut,"],
+            ["لِـ","Harf Jar mabni kasrah.","khusus pikeun","bagi"],
+            ["ـدَائِمِ","Majrūr sarta mudhof. (Sighat Isim Fa'il, Tsulatsi Mujarrad Ajwaf: دَامَ - يَدُومُ)","jalma nu langgeng","orang yang langgeng"],
+            ["الْحَدَثِ","Mudhof Ilaih majrūr. (Sighat Isim Masdar)","hadasna.","hadatsnya."]
+          ]
+        }
+      ]
     }
+
 
   ] // Penutup array fashl
 }); // Penutup push
