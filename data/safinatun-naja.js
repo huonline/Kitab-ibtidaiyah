@@ -278,6 +278,73 @@
       ]
     }
 
+    {
+      ar: "فُرُوضُ الْوُضُوءِ",
+      lat: "furudhul wudhu fardhu wudhu",
+      judul: "Fardhu-Fardhu Wudhu",
+      lines: [
+        {
+          sd: "Ari fardu wudu éta aya genep:",
+          id: "Fardhu wudhu itu ada enam:",
+          segs: [
+            ["(فَصْلٌ)","Khobar ti Mubtada anu dibuang","(Ari ieu) Éta hiji fashal","Ini adalah sebuah fasal"],
+            ["فُرُوضُ الْوُضُوءِ","Mubtada' jeung Mudhof Ilaih","Ari fardu-farduna wudu","Fardhu-fardhu wudhu"],
+            ["سِتَّةٌ","Khobar","Éta aya genep:","ada enam:"]
+          ]
+        },
+        {
+          sd: "Ari nu kahiji éta niat,",
+          id: "Yang pertama adalah niat,",
+          segs: [
+            ["الْأَوَّلُ","Mubtada'","Ari nu kahiji","Yang pertama"],
+            ["النِّيَّةُ","Khobar","Éta niat,","adalah niat,"]
+          ]
+        },
+        {
+          sd: "Ari nu kadua éta ngumbah beungeut,",
+          id: "Yang kedua adalah membasuh wajah,",
+          segs: [
+            ["الثَّانِي","Mubtada'","Ari nu kadua","Yang kedua"],
+            ["غَسْلُ الْوَجْهِ","Khobar jeung Mudhof Ilaih","Éta ngumbah beungeut,","membasuh wajah,"]
+          ]
+        },
+        {
+          sd: "Ari nu katilu éta ngumbah dua leungeun sarta dua sikuna,",
+          id: "Yang ketiga adalah membasuh kedua tangan beserta kedua sikunya,",
+          segs: [
+            ["الثَّالِثُ","Mubtada'","Ari nu katilu","Yang ketiga"],
+            ["غَسْلُ الْيَدَيْنِ","Khobar jeung Mudhof Ilaih (majrur ku Ya')","Éta ngumbah dua leungeun","membasuh kedua tangan"],
+            ["مَعَ الْمِرْفَقَيْنِ","Dzhorof jeung Mudhof Ilaih","sarta dua sikuna,","beserta kedua sikunya,"]
+          ]
+        },
+        {
+          sd: "Ari nu kaopat éta ngusap hiji perkara (saeutik) tina (rambut) sirah,",
+          id: "Yang keempat adalah mengusap sebagian dari (rambut) kepala,",
+          segs: [
+            ["الرَّابِعُ","Mubtada'","Ari nu kaopat","Yang keempat"],
+            ["مَسْحُ شَيْءٍ","Khobar jeung Mudhof Ilaih","Éta ngusap hiji perkara (saeutik)","mengusap sesuatu (sebagian)"],
+            ["مِنَ الرَّأْسِ","Jar Majrur","tina sirah,","dari kepala,"]
+          ]
+        },
+        {
+          sd: "Ari nu kalima éta ngumbah dua suku sarta dua muncanganna,",
+          id: "Yang kelima adalah membasuh kedua kaki beserta kedua mata kakinya,",
+          segs: [
+            ["الْخَامِسُ","Mubtada'","Ari nu kalima","Yang kelima"],
+            ["غَسْلُ الرِّجْلَيْنِ","Khobar jeung Mudhof Ilaih (majrur ku Ya')","Éta ngumbah dua suku","membasuh kedua kaki"],
+            ["مَعَ الْكَعْبَيْنِ","Dzhorof jeung Mudhof Ilaih","sarta dua muncanganna,","beserta kedua mata kakinya,"]
+          ]
+        },
+        {
+          sd: "Ari nu kagenep éta tartib (runtuy).",
+          id: "Yang keenam adalah tertib (berurutan).",
+          segs: [
+            ["السَّادِسُ","Mubtada'","Ari nu kagenep","Yang keenam"],
+            ["التَّرْتِيبُ","Khobar","Éta tartib (runtuy).","adalah tertib."]
+          ]
+        }
+      ]
+    }
 
 
   ] // Penutup array fashl
