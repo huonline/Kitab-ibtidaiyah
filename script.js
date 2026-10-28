@@ -1,5 +1,3 @@
-```javascript
-// Inisialisasi wadah global jika belum ada
 window.kumpulanKitab = window.kumpulanKitab || {};
 
 const menuKitab = document.getElementById('menu-kitab');
