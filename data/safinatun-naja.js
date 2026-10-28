@@ -344,7 +344,7 @@
           ]
         }
       ]
-    },
+    }
 
 
   ] // Penutup array fashl
