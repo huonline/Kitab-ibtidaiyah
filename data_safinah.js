@@ -1,11 +1,9 @@
-// Pastikan variabel global siap
-window.kumpulanKitab = window.kumpulanKitab || {};
+// Pastikan variabel global siap dan namanya sesuai dengan script.js
+window.dataKitab = window.dataKitab || {};
 
-// Tambahkan data Safinah ke kumpulanKitab
-window.kumpulanKitab['safinah'] = {
-    id: 'safinah',
-    judulArab: 'سفينة النجاة',
-    judulLatin: 'Safinatun Najah',
+// Tambahkan data Safinah ke dataKitab
+window.dataKitab['safinah'] = {
+    judul: 'سفينة النجاة',
     fashal: [
         {
             namaFashal: "Fashal Rukun Islam",
@@ -24,6 +22,5 @@ window.kumpulanKitab['safinah'] = {
                 { arab: "سَبِيْلًا", nahwu: "Tamyiz (Penjelas dari kata mampu)", sunda: "(Apana) jalanna atawa ongkosna.", indo: "jalannya (biaya dan perjalanannya)." }
             ]
         }
-        // Fashal safinah berikutnya bisa ditambah di bawah sini nanti
     ]
 };
