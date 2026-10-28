@@ -27,4 +27,3 @@ window.kumpulanKitab['safinah'] = {
         // Fashal safinah berikutnya bisa ditambah di bawah sini nanti
     ]
 };
-```
