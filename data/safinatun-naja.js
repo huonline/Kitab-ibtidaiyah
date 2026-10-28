@@ -270,13 +270,13 @@
           segs: [
             ["وَلَا يُصِيبَهُ","Athaf, laa nafiyah, fi'il mudhori' jeung Maf'ul bih","Jeung ulah keuna kana éta najis","Dan tidak mengenainya"],
             ["مَاءٌ","Fa'il (marfu')","naon cai,","air,"],
-            ["وَأَنْ تَكُونَ","Athaf, an mashdariyah, fi'il mudhori' naqish","jeung yén aya","dan harus ada"],
-            ["الْأَحْجَارُ","Isim takuna (marfu')","éta pirang-pirang batu","batu-batu tersebut"],
+            ["وَأَنْ تَكُونَ","Athaf, an mashdariyah, fi'il mudhori' naqish","jeung yén kabuktian","dan harus ada"],
+            ["الْأَحْجَارُ","Isim takuna (marfu')","pirang-pirang batu na","batu-batu tersebut"],
             ["طَاهِرَةً","Khobar takuna (manshub)","éta suci.","suci."]
           ]
         }
       ]
-    }
+    },
 
     {
       ar: "فُرُوضُ الْوُضُوءِ",
@@ -344,7 +344,7 @@
           ]
         }
       ]
-    }
+    },
 
 
   ] // Penutup array fashl
