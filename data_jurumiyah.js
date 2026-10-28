@@ -8,4 +8,3 @@ window.kumpulanKitab['jurumiyah'] = {
         // Data Jurumiyah akan dimasukkan di sini nanti
     ]
 };
-```
