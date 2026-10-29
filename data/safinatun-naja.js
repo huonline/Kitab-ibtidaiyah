@@ -315,6 +315,217 @@
         id: ["Niat wajib dihadirkan di dalam hati bersamaan dengan awal membasuh wajah. Sementara membasuh kepala menurut mazhab Syafi'i dianggap sah meskipun hanya mengenai beberapa helai rambut di batas wilayah kepala."],
       },
     },
+    /* ---------------------- Hakikat Niat & Tertib ---------------------- */
+    {
+      judul: "Hakikat Niat dan Tertib",
+      ar:    "النِّيَّةُ وَالتَّرْتِيبُ",
+      lat:   "niat tertib hakikat wudu",
+
+      lines: [
+        {
+          ar: "النِّيَّةُ : قَصْدُ الشَّيْءِ مُقْتَرِنًا بِفِعْلِهِ",
+          sd: "Ari nu ngaran niat, éta neja hiji perkara bari dibarengkeun jeung migawéna éta perkara.",
+          id: "Niat adalah menyengaja sesuatu bersamaan dengan mengerjakannya.",
+        },
+        {
+          ar: "وَمَحَلُّهَا الْقَلْبُ",
+          sd: "Jeung ari tempatna niat, éta tetep dina haté.",
+          id: "Dan tempat niat itu di dalam hati.",
+        },
+        {
+          ar: "وَالتَّلَفُّظُ بِهَا سُنَّةٌ",
+          sd: "Jeung ari ngucapkeun kana niat, éta sunah hukumnya.",
+          id: "Dan melafalkan niat adalah sunah.",
+        },
+        {
+          ar: "وَوَقْتُهَا عِنْدَ غَسْلِ أَوَّلِ جُزْءٍ مِنَ الْوَجْهِ",
+          sd: "Jeung ari waktuna niat (dina wudu), éta tetep nalika ngabasuh mimitina bagian tina beungeut.",
+          id: "Dan waktu niat (dalam wudu) adalah ketika membasuh bagian pertama dari wajah.",
+        },
+        {
+          ar: "وَالتَّرْتِيبُ أَنْ لَا يُقَدِّمَ عُضْوًا عَلَى عُضْوٍ",
+          sd: "Jeung ari nu ngaran tertib, éta yén teu miheulakeun sahiji anggota (wudu) kana anggota anu séjén.",
+          id: "Dan tertib adalah tidak mendahulukan suatu anggota (wudu) atas anggota yang lain.",
+        },
+      ],
+
+      catatan: {
+        sd: ["Niat anu sah tur jadi fardu ayana dina jero haté. Ngucapkeun ku lisan (saperti 'Nawaitul wudhu-a...') hukumnya ukur sunah pikeun mantuan haté."],
+        id: ["Niat yang sah dan berstatus fardu tempatnya di dalam hati. Melafalkan dengan lisan hukumnya sunah untuk membantu hati hadir."],
+      }
+    },
+
+    /* ---------------------- Pembagian Air ---------------------- */
+    {
+      judul: "Air Sedikit dan Air Banyak",
+      ar:    "الْمَاءُ قَلِيلٌ وَكَثِيرٌ",
+      lat:   "air cai saeutik loba qullah najis",
+
+      lines: [
+        {
+          ar: "الْمَاءُ قَلِيلٌ وَكَثِيرٌ",
+          sd: "Ari cai, éta aya cai saeutik jeung cai loba.",
+          id: "Air itu terbagi dua: air sedikit dan air banyak.",
+        },
+        {
+          ar: "الْقَلِيلُ مَا دُونَ الْقُلَّتَيْنِ",
+          sd: "Ari cai anu saeutik, éta cai anu kurang tina dua qullah.",
+          id: "Air sedikit adalah air yang volumenya kurang dari dua qullah.",
+        },
+        {
+          ar: "وَالْكَثِيرُ قُلَّتَانِ فَأَكْثَرُ",
+          sd: "Jeung ari cai anu loba, éta dua qullah atawa leuwih.",
+          id: "Dan air banyak adalah dua qullah atau lebih.",
+        },
+        {
+          ar: "الْقَلِيلُ يَتَنَجَّسُ بِوُقُوعِ النَّجَاسَةِ فِيهِ وَإِنْ لَمْ يَتَغَيَّرْ",
+          sd: "Ari cai anu saeutik, éta bisa jadi najis sabab ragragan najis ka jerona, sanajan éta cai henteu robah (warna, rasa, atawa ambeuna).",
+          id: "Air sedikit menjadi najis dengan jatuhnya najis ke dalamnya, meskipun air tersebut tidak berubah.",
+        },
+        {
+          ar: "وَالْمَاءُ الْكَثِيرُ لَا يَتَنَجَّسُ إِلَّا إِذَا تَغَيَّرَ طَعْمُهُ أَوْ لَوْنُهُ أَوْ رِيحُهُ",
+          sd: "Jeung ari cai anu loba, éta moal jadi najis iwal lamun robah rasana, atawa warnana, atawa ambeuna.",
+          id: "Dan air banyak tidak menjadi najis kecuali jika berubah rasanya, atau warnanya, atau baunya.",
+        },
+      ],
+
+      catatan: {
+        sd: ["Ukuran dua qullah upama ditakar maké literan jaman ayeuna kira-kira 216 liter (atawa wadah kubus ukuran 60x60x60 cm)."],
+        id: ["Ukuran dua qullah jika dikonversi setara dengan kurang lebih 216 liter (atau bak berukuran 60x60x60 cm)."],
+      }
+    },
+
+    /* ---------------------- Perkara yang Mewajibkan Mandi ---------------------- */
+    {
+      judul: "Perkara yang Mewajibkan Mandi",
+      ar:    "مُوجِبَاتُ الْغُسْلِ",
+      lat:   "mewajibkan mandi adus mujibatul ghusli",
+
+      lines: [
+        {
+          ar: "مُوجِبَاتُ الْغُسْلِ سِتَّةٌ",
+          sd: "Ari pirang-pirang perkara anu ngawajibkeun kana mandi, éta aya genep perkara.",
+          id: "Perkara-perkara yang mewajibkan mandi itu ada enam.",
+        },
+        {
+          ar: "إِيلَاجُ الْحَشَفَةِ فِي الْفَرْجِ",
+          sd: "(Anu ka-1) Nyaéta ngasupkeun sirah lélépé (kémaluan lalaki) kana farji.",
+          id: "(Yang ke-1) Yaitu memasukkan kepala zakar ke dalam farji (bersetubuh).",
+        },
+        {
+          ar: "وَخُرُوجُ الْمَنِيِّ",
+          sd: "Jeung (anu ka-2) kaluar cai mani.",
+          id: "Dan (yang ke-2) keluar air mani.",
+        },
+        {
+          ar: "وَالْحَيْضُ",
+          sd: "Jeung (anu ka-3) kaluar getih haid.",
+          id: "Dan (yang ke-3) haid.",
+        },
+        {
+          ar: "وَالنِّفَاسُ",
+          sd: "Jeung (anu ka-4) kaluar getih nifas.",
+          id: "Dan (yang ke-4) nifas.",
+        },
+        {
+          ar: "وَالْوِلَادَةُ",
+          sd: "Jeung (anu ka-5) ngalahirkeun (wiladah).",
+          id: "Dan (yang ke-5) melahirkan (wiladah).",
+        },
+        {
+          ar: "وَالْمَوْتُ",
+          sd: "Jeung (anu ka-6) maot.",
+          id: "Dan (yang ke-6) meninggal dunia.",
+        },
+      ]
+      // Catatan dihapus karena sudah cukup jelas
+    },
+
+    /* ---------------------- Fardu Mandi ---------------------- */
+    {
+      judul: "Fardu Mandi",
+      ar:    "فُرُوضُ الْغُسْلِ",
+      lat:   "fardu mandi rukun adus furudhul ghusli",
+
+      lines: [
+        {
+          ar: "فُرُوضُ الْغُسْلِ اثْنَانِ",
+          sd: "Ari pirang-pirang fardu mandi, éta aya dua perkara.",
+          id: "Fardu (rukun) mandi itu ada dua perkara.",
+        },
+        {
+          ar: "النيَّةُ",
+          sd: "(Anu ka-1) Nyaéta niat.",
+          id: "(Yang ke-1) Yaitu niat.",
+        },
+        {
+          ar: "وَتَعْمِيمُ الْبَدَنِ بِالْمَاءِ",
+          sd: "Jeung (anu ka-2) ngaratakeun kana sakabéh awak kalawan cai.",
+          id: "Dan (yang ke-2) meratakan air ke seluruh badan.",
+        },
+      ]
+      // Catatan dihapus karena sudah cukup jelas
+    },
+
+    /* ---------------------- Syarat Wudu ---------------------- */
+    {
+      judul: "Syarat Wudu",
+      ar:    "شُرُوطُ الْوُضُوءِ",
+      lat:   "syarat wudu syurutul wudhu",
+
+      lines: [
+        {
+          ar: "شُرُوطُ الْوُضُوءِ عَشَرَةٌ",
+          sd: "Ari pirang-pirang syarat wudu, éta aya sapuluh perkara.",
+          id: "Syarat-syarat wudu itu ada sepuluh perkara.",
+        },
+        {
+          ar: "الْإِسْلَامُ",
+          sd: "(Anu ka-1) Nyaéta kudu Islam.",
+          id: "(Yang ke-1) Yaitu Islam.",
+        },
+        {
+          ar: "وَالتَّمْيِيزُ",
+          sd: "Jeung (anu ka-2) tamyiz (bisa ngabédakeun hadé jeung goréng).",
+          id: "Dan (yang ke-2) tamyiz (bisa membedakan mana yang baik dan buruk).",
+        },
+        {
+          ar: "وَالنَّقَاءُ عَنِ الْحَيْضِ وَالنِّفَاسِ",
+          sd: "Jeung (anu ka-3) bersih tina getih haid sarta nifas.",
+          id: "Dan (yang ke-3) bersih/suci dari haid dan nifas.",
+        },
+        {
+          ar: "وَعَمَّا يَمْنَعُ وُصُولَ الْمَاءِ إِلَى الْبَشَرَةِ",
+          sd: "Jeung (anu ka-4) bersih tina perkara anu bisa nyegah kana tepina cai kana kulit.",
+          id: "Dan (yang ke-4) bersih dari sesuatu yang menghalangi sampainya air ke kulit.",
+        },
+        {
+          ar: "وَأَنْ لَا يَكُونَ عَلَى الْعُضْوِ مَا يُغَيِّرُ الْمَاءَ",
+          sd: "Jeung (anu ka-5) yén ulah aya dina anggota wudu hiji perkara anu bisa ngarobah kana cai.",
+          id: "Dan (yang ke-5) tidak ada pada anggota wudu sesuatu yang bisa merubah kemurnian air.",
+        },
+        {
+          ar: "الطَّهُورُ",
+          sd: "Jeung (anu ka-6) caina kudu suci tur nyucikeun.",
+          id: "Dan (yang ke-6) air yang digunakan harus suci dan mensucikan.",
+        },
+        {
+          ar: "وَدُخُولُ الْوَقْتِ",
+          sd: "Jeung (anu ka-7) kudu asup waktu (salat).",
+          id: "Dan (yang ke-7) masuk waktu (salat).",
+        },
+        {
+          ar: "وَالْمُوَالَاةُ لِدَائِمِ الْحَدَثِ",
+          sd: "Jeung (anu ka-8) kudu tuluy-tuluy (muwalah), husus pikeun jalma anu mayeng boga hadas.",
+          id: "Dan (yang ke-8) muwalah (berkesinambungan tanpa jeda lama), khusus bagi orang yang selalu berhadas.",
+        },
+      ],
+
+      catatan: {
+        sd: ["Dina matan (naskah) ieu disebutkeun aya 10 syarat, tapi upama diitung ukur nyampak 8. Ieu téh lantaran dina naskah ieu aya kalimah anu ragrag (teu kacatet). Dua syarat anu henteu kasebut nyaéta: (9) Nyaho kana farduna wudu (العلم بفرضيته), jeung (10) Ulah boga itikad yén fardu wudu dianggap sunah (وأن لا يعتقد فرضا من فروضه سنة). Kasus ragragna kalimah ieu ilahar kapanggih dina sababaraha citakan kitab Safinah."],
+        id: ["Dalam naskah gambar ini disebutkan ada 10 syarat, namun yang tertulis/terhitung hanya 8. Hal ini terjadi karena ada kalimat matan yang terpotong (hilang) pada cetakan tersebut. Dua syarat yang tidak tertulis adalah: (9) Mengetahui kefarduan wudu, dan (10) Tidak meyakini salah satu fardu wudu sebagai sunah. Catatan: Syarat masuk waktu dan muwalah (poin 7 & 8) hanya diwajibkan bagi orang yang berhadas terus-menerus (daimul hadats, misal: beser/istihadah)."],
+      }
+    },
 
   ],
 });
