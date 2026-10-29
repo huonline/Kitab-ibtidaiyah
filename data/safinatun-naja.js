@@ -536,6 +536,171 @@
         id: ["Syarat nomor 9 dan 10 (masuk waktu salat dan muwalah/berkesinambungan tanpa jeda lama) ini hanya diwajibkan bagi dâimul hadats, yaitu orang yang terus-menerus berhadas (seperti beser atau wanita istihadah)."]
       }
     },
+    /* ---------------------- Batal Wudu ---------------------- */
+    {
+      judul: "Perkara yang Membatalkan Wudu",
+      ar:    "نَوَاقِضُ الْوُضُوءِ",
+      lat:   "nawaqidhul wudhu batal wudu",
+
+      lines: [
+        {
+          ar: "نَوَاقِضُ الْوُضُوءِ أَرْبَعَةُ أَشْيَاءَ",
+          sd: "Ari pirang-pirang perkara anu ngabatalkeun kana wudu, éta aya opat pirang-pirang perkara.",
+          id: "Perkara-perkara yang membatalkan wudu itu ada empat perkara."
+        },
+        {
+          ar: "الْأَوَّلُ : الْخَارِجُ مِنْ أَحَدِ السَّبِيلَيْنِ مِنْ قُبُلٍ أَوْ دُبُرٍ رِيحٌ أَوْ غَيْرُهُ",
+          sd: "(Anu ka-1) Nyaéta perkara anu kaluar tina salah sahiji jalan dua, tina qubul atawa dubur, mangrupa angin (hitut) atawa lianna.",
+          id: "(Yang ke-1) Yaitu sesuatu yang keluar dari salah satu dua jalan, dari qubul atau dubur, baik berupa angin (kentut) atau selainnya."
+        },
+        {
+          ar: "إِلَّا الْمَنِيَّ",
+          sd: "Iwal cai mani.",
+          id: "Kecuali air mani."
+        },
+        {
+          ar: "الثَّانِي : زَوَالُ الْعَقْلِ بِنَوْمٍ أَوْ غَيْرِهِ",
+          sd: "Jeung (anu ka-2) leungit akal, sabab saré atawa lianna (kawas gélo atawa mabok).",
+          id: "Dan (yang ke-2) hilangnya akal, sebab tidur atau lainnya (seperti gila atau mabuk)."
+        },
+        {
+          ar: "إِلَّا نَوْمَ قَاعِدٍ مُمَكِّنٍ مَقْعَدَهُ مِنَ الْأَرْضِ",
+          sd: "Iwal saréna jalma anu diuk, bari netepkeun kana bujurna tina luhur bumi (tempat diukna).",
+          id: "Kecuali tidurnya orang yang duduk, seraya menetapkan pantatnya di atas bumi (tempat duduknya)."
+        },
+        {
+          ar: "الثَّالِثُ : الْتِقَاءُ بَشَرَتَيْ رَجُلٍ وَامْرَأَةٍ كَبِيرَيْنِ أَجْنَبِيَّيْنِ مِنْ غَيْرِ حَائِلٍ",
+          sd: "Jeung (anu ka-3) patepungna dua kulit lalaki jeung awéwé, anu duanana geus gedé (baligh), tur duanana ajnabi (lain mahram), tina tanpa hahalang.",
+          id: "Dan (yang ke-3) bersentuhannya dua kulit laki-laki dan perempuan, yang keduanya sudah besar (baligh/dewasa), dan keduanya ajnabi (bukan mahram), tanpa adanya penghalang."
+        },
+        {
+          ar: "الرَّابِعُ : مَسُّ قُبُلِ الْآدَمِيِّ أَوْ حَلْقَةِ دُبُرِهِ",
+          sd: "Jeung (anu ka-4) nyabak kana qubul jalma (manusa) atawa kana buleudan duburna.",
+          id: "Dan (yang ke-4) menyentuh qubul manusia atau lingkaran duburnya."
+        },
+        {
+          ar: "بِبَطْنِ الرَّاحَةِ أَوْ بُطُونِ الْأَصَابِعِ",
+          sd: "Kalawan maké dampal leungeun atawa pirang-pirang dampal ramo.",
+          id: "Dengan menggunakan telapak tangan atau telapak jari-jemari."
+        }
+      ],
+
+      catatan: {
+        sd: ["Kaluar cai mani (sendiri) henteu ngabatalkeun wudu, tapi ngawajibkeun mandi adus. Sedengkeun nyabak lélépé sato henteu matak batal kana wudu, sabab syarat batalna nyaéta nyabak qubul/dubur manusa (al-âdamiy)."],
+        id: ["Keluar air mani (sendiri) tidak membatalkan wudu, melainkan mewajibkan mandi besar. Sementara menyentuh kemaluan hewan tidak membatalkan wudu, karena syarat batalnya adalah menyentuh qubul/dubur manusia (al-âdamiy)."]
+      }
+    },
+    /* ---------------------- Haram Sebab Batal Wudu ---------------------- */
+    {
+      judul: "Perkara yang Diharamkan Sebab Batal Wudu",
+      ar:    "مَا يَحْرُمُ بِالْحَدَثِ الْأَصْغَرِ",
+      lat:   "haram batal wudu hadas kecil",
+
+      lines: [
+        {
+          ar: "مَنْ انْتَقَضَ وُضُوءُهُ حَرُمَ عَلَيْهِ أَرْبَعَةُ أَشْيَاءَ",
+          sd: "Saha-saha anu batal wuduna, mangka diharamkeun ka manéhna opat pirang-pirang perkara.",
+          id: "Barangsiapa yang batal wudunya (berhadas kecil), maka diharamkan atasnya empat perkara."
+        },
+        {
+          ar: "الصَّلَاةُ",
+          sd: "(Anu ka-1) Nyaéta salat.",
+          id: "(Yang ke-1) Yaitu salat."
+        },
+        {
+          ar: "وَالطَّوَافُ",
+          sd: "Jeung (anu ka-2) tawaf.",
+          id: "Dan (yang ke-2) tawaf."
+        },
+        {
+          ar: "وَمَسُّ الْمُصْحَفِ",
+          sd: "Jeung (anu ka-3) nyabak mushaf (Al-Qur'an).",
+          id: "Dan (yang ke-3) menyentuh mushaf (Al-Qur'an)."
+        },
+        {
+          ar: "وَحَمْلُهُ",
+          sd: "Jeung (anu ka-4) mawa kana mushaf.",
+          id: "Dan (yang ke-4) membawanya."
+        }
+      ]
+      // Catatan dihapus karena terjemahannya sudah maklum dan jelas
+    },
+
+    /* ---------------------- Haram Sebab Junub ---------------------- */
+    {
+      judul: "Perkara yang Diharamkan Sebab Junub",
+      ar:    "مَا يَحْرُمُ عَلَى الْجُنُبِ",
+      lat:   "haram junub adus hadas besar",
+
+      lines: [
+        {
+          ar: "وَيَحْرُمُ عَلَى الْجُنُبِ سِتَّةُ أَشْيَاءَ",
+          sd: "Jeung diharamkeun ka jalma anu junub téh, genep pirang-pirang perkara.",
+          id: "Dan diharamkan bagi orang yang junub itu enam perkara."
+        },
+        {
+          ar: "الصَّلَاةُ وَالطَّوَافُ وَمَسُّ الْمُصْحَفِ وَحَمْلُهُ",
+          sd: "(Anu ka-1) Nyaéta salat, jeung (anu ka-2) tawaf, jeung (anu ka-3) nyabak mushaf, jeung (anu ka-4) mawana.",
+          id: "(Yang ke-1) Yaitu salat, dan (yang ke-2) tawaf, dan (yang ke-3) menyentuh mushaf, dan (yang ke-4) membawanya."
+        },
+        {
+          ar: "وَاللُّبْثُ فِي الْمَسْجِدِ",
+          sd: "Jeung (anu ka-5) cicing di jero masjid.",
+          id: "Dan (yang ke-5) berdiam diri di dalam masjid."
+        },
+        {
+          ar: "وَقِرَاءَةُ الْقُرْآنِ",
+          sd: "Jeung (anu ka-6) maca Al-Qur'an.",
+          id: "Dan (yang ke-6) membaca Al-Qur'an."
+        }
+      ]
+      // Catatan dihapus karena terjemahannya sudah maklum dan jelas
+    },
+
+    /* ---------------------- Haram Sebab Haid ---------------------- */
+    {
+      judul: "Perkara yang Diharamkan Sebab Haid",
+      ar:    "مَا يَحْرُمُ بِالْحَيْضِ",
+      lat:   "haram haid nifas",
+
+      lines: [
+        {
+          ar: "وَيَحْرُمُ بِالْحَيْضِ عَشَرَةُ أَشْيَاءَ",
+          sd: "Jeung diharamkeun sabab haid téh, sapuluh pirang-pirang perkara.",
+          id: "Dan diharamkan sebab haid itu sepuluh perkara."
+        },
+        {
+          ar: "الصَّلَاةُ وَالطَّوَافُ وَمَسُّ الْمُصْحَفِ وَحَمْلُهُ وَاللُّبْثُ فِي الْمَسْجِدِ وَقِرَاءَةُ الْقُرْآنِ",
+          sd: "(Anu ka-1) Nyaéta salat, jeung (anu ka-2) tawaf, jeung (anu ka-3) nyabak mushaf, jeung (anu ka-4) mawana, jeung (anu ka-5) cicing di jero masjid, jeung (anu ka-6) maca Al-Qur'an.",
+          id: "(Yang ke-1) Yaitu salat, dan (yang ke-2) tawaf, dan (yang ke-3) menyentuh mushaf, dan (yang ke-4) membawanya, dan (yang ke-5) berdiam diri di dalam masjid, dan (yang ke-6) membaca Al-Qur'an."
+        },
+        {
+          ar: "وَالصَّوْمُ",
+          sd: "Jeung (anu ka-7) puasa.",
+          id: "Dan (yang ke-7) puasa."
+        },
+        {
+          ar: "وَالطَّلَاقُ",
+          sd: "Jeung (anu ka-8) ditulak (ditalak).",
+          id: "Dan (yang ke-8) ditalak (dicerai)."
+        },
+        {
+          ar: "وَالْمُرُورُ فِي الْمَسْجِدِ إِنْ خَافَتْ تَلْوِيثَهُ",
+          sd: "Jeung (anu ka-9) ngaliwat di jero masjid lamun éta awéwé sieun ngotoran kana masjid.",
+          id: "Dan (yang ke-9) lewat/berjalan di dalam masjid jika ia khawatir mengotorinya."
+        },
+        {
+          ar: "وَالِاسْتِمْتَاعُ بِمَا بَيْنَ السُّرَّةِ وَالرُّكْبَةِ",
+          sd: "Jeung (anu ka-10) dialap suka (dicumbuan ku salaki) kana bagian awak antara bujal sarta tuur.",
+          id: "Dan (yang ke-10) bersenang-senang (dicumbu suami) pada bagian tubuh di antara pusar dan lutut."
+        }
+      ],
+
+      catatan: {
+        sd: ["Aturan sapuluh perkara ieu ogé lumaku sarua (diharamkeun) pikeun awéwé anu keur nifas."],
+        id: ["Ketentuan sepuluh perkara ini juga berlaku sama (diharamkan) bagi wanita yang sedang nifas."]
+      }
+    },
 
   ],
 });
