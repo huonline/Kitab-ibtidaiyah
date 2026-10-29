@@ -701,6 +701,295 @@
         id: ["Ketentuan sepuluh perkara ini juga berlaku sama (diharamkan) bagi wanita yang sedang nifas."]
       }
     },
+    /* ---------------------- Sebab Tayamum ---------------------- */
+    {
+      judul: "Sebab Tayamum & Hewan Ghairu Muhtaram",
+      ar:    "أَسْبَابُ التَّيَمُّمِ",
+      lat:   "sebab tayamum hewan ghairu muhtaram anjing babi",
+
+      lines: [
+        {
+          ar: "أَسْبَابُ التَّيَمُّمِ ثَلَاثَةٌ",
+          sd: "Ari pirang-pirang sababna tayamum, éta aya tilu perkara.",
+          id: "Sebab-sebab tayamum itu ada tiga perkara."
+        },
+        {
+          ar: "فَقْدُ الْمَاءِ",
+          sd: "(Anu ka-1) Nyaéta euweuh cai.",
+          id: "(Yang ke-1) Yaitu tidak ada air."
+        },
+        {
+          ar: "وَالْمَرَضُ",
+          sd: "Jeung (anu ka-2) gering.",
+          id: "Dan (yang ke-2) sakit."
+        },
+        {
+          ar: "وَالِاحْتِيَاجُ إِلَيْهِ لِعَطَشِ حَيَوَانٍ مُحْتَرَمٍ",
+          sd: "Jeung (anu ka-3) butuh kana cai, sabab hausna sato anu dimulyakeun.",
+          id: "Dan (yang ke-3) membutuhkan air karena hausnya hewan yang dimuliakan."
+        },
+        {
+          ar: "غَيْرُ الْمُحْتَرَمِ سِتَّةٌ",
+          sd: "Ari (jalma jeung sato) anu henteu dimulyakeun téh, éta aya genep.",
+          id: "Adapun (manusia/hewan) yang tidak dimuliakan itu ada enam."
+        },
+        {
+          ar: "تَارِكُ الصَّلَاةِ",
+          sd: "(Anu ka-1) Nyaéta jalma anu ninggalkeun salat.",
+          id: "(Yang ke-1) Yaitu orang yang meninggalkan salat."
+        },
+        {
+          ar: "وَالزَّانِي الْمُحْصَنُ",
+          sd: "Jeung (anu ka-2) jalma anu jinah muhsan (jinah sabada kawin sah).",
+          id: "Dan (yang ke-2) pezina muhsan (sudah menikah)."
+        },
+        {
+          ar: "وَالْمُرْتَدُّ",
+          sd: "Jeung (anu ka-3) jalma murtad.",
+          id: "Dan (yang ke-3) orang murtad."
+        },
+        {
+          ar: "وَالْكَافِرُ الْحَرْبِيُّ",
+          sd: "Jeung (anu ka-4) kafir harbi.",
+          id: "Dan (yang ke-4) kafir harbi (yang memerangi Islam)."
+        },
+        {
+          ar: "وَالْكَلْبُ الْعَقُورُ",
+          sd: "Jeung (anu ka-5) anjing anu galak.",
+          id: "Dan (yang ke-5) anjing yang galak."
+        },
+        {
+          ar: "وَالْخِنْزِيرُ",
+          sd: "Jeung (anu ka-6) babi.",
+          id: "Dan (yang ke-6) babi."
+        }
+      ],
+      
+      catatan: {
+        sd: ["Sato/jalma 'ghairu muhtaram' hartina upama aya cai ngan ukur saeutik tur dipikabutuh ku maranéhna keur nginum, urang leuwih wajib maké éta cai pikeun wudu/adus tinimbang méré nginum ka maranéhna. Sabab hak hirupna teu dijaga ku syara'."],
+        id: ["Hewan/manusia 'ghairu muhtaram' artinya jika ada air sedikit dan mereka butuh minum, kita lebih wajib menggunakan air itu untuk wudu/mandi daripada memberi minum mereka. Karena hak hidup mereka tidak dijaga oleh syariat."]
+      }
+    },
+
+    /* ---------------------- Syarat Tayamum ---------------------- */
+    {
+      judul: "Syarat Tayamum",
+      ar:    "شُرُوطُ التَّيَمُّمِ",
+      lat:   "syarat tayamum debu taneuh",
+
+      lines: [
+        {
+          ar: "شُرُوطُ التَّيَمُّمِ عَشَرَةٌ",
+          sd: "Ari pirang-pirang syarat tayamum, éta aya sapuluh perkara.",
+          id: "Syarat-syarat tayamum itu ada sepuluh perkara."
+        },
+        {
+          ar: "أَنْ يَكُونَ بِتُرَابٍ",
+          sd: "(Anu ka-1) Nyaéta yén bukti tayamumna kudu maké taneuh.",
+          id: "(Yang ke-1) Yaitu tayamum harus menggunakan debu/tanah."
+        },
+        {
+          ar: "وَأَنْ يَكُونَ التُّرَابُ طَاهِرًا",
+          sd: "Jeung (anu ka-2) yén bukti taneuhna kudu suci.",
+          id: "Dan (yang ke-2) debunya harus suci."
+        },
+        {
+          ar: "وَأَنْ لَا يَكُونَ مُسْتَعْمَلًا",
+          sd: "Jeung (anu ka-3) yén ulah bukti taneuhna urut maké (musta'mal).",
+          id: "Dan (yang ke-3) debunya tidak musta'mal (telah dipakai bersuci)."
+        },
+        {
+          ar: "وَلَا يُخَالِطَهُ دَقِيقٌ وَنَحْوُهُ",
+          sd: "Jeung (anu ka-4) ulah kacampuran éta taneuh ku tipung atawa sapadana.",
+          id: "Dan (yang ke-4) debunya tidak bercampur dengan tepung atau sejenisnya."
+        },
+        {
+          ar: "وَأَنْ يَقْصِدَهُ",
+          sd: "Jeung (anu ka-5) yén manéhna ngahaja kana éta taneuh.",
+          id: "Dan (yang ke-5) menyengaja pada debu tersebut."
+        },
+        {
+          ar: "وَأَنْ يَمْسَحَ وَجْهَهُ وَيَدَيْهِ بِضَرْبَتَيْنِ",
+          sd: "Jeung (anu ka-6) yén ngusap beungeut jeung dua leungeunna kalawan dua teunggeulan (dampal leungeun kana taneuh).",
+          id: "Dan (yang ke-6) mengusap wajah dan kedua tangan dengan dua kali tepukan."
+        },
+        {
+          ar: "وَأَنْ يُزِيلَ النَّجَاسَةَ أَوَّلًا",
+          sd: "Jeung (anu ka-7) yén kudu ngilangkeun najis heula (saméméh tayamum).",
+          id: "Dan (yang ke-7) menghilangkan najis terlebih dahulu (sebelum tayamum)."
+        },
+        {
+          ar: "وَأَنْ يَجْتَهِدَ فِي الْقِبْلَةِ قَبْلَهُ",
+          sd: "Jeung (anu ka-8) yén manéhna kudu ijtihad (neangan arah) kiblat saméméh tayamum.",
+          id: "Dan (yang ke-8) ijtihad (mencari) arah kiblat sebelum tayamum."
+        },
+        {
+          ar: "وَأَنْ يَكُونَ التَّيَمُّمُ بَعْدَ دُخُولِ الْوَقْتِ",
+          sd: "Jeung (anu ka-9) yén bukti tayamumna kudu sanggeus asup waktu (salat).",
+          id: "Dan (yang ke-9) tayamum harus dilakukan setelah masuk waktu (salat)."
+        },
+        {
+          ar: "وَأَنْ يَتَيَمَّمَ لِكُلِّ فَرْضٍ",
+          sd: "Jeung (anu ka-10) yén kudu tayamum keur saban-saban (salat) fardu.",
+          id: "Dan (yang ke-10) bertayamum untuk setiap kali melaksanakan salat fardu."
+        }
+      ]
+      // Catatan dihapus karena terjemahannya sudah maklum dan jelas
+    },
+
+    /* ---------------------- Fardu Tayamum ---------------------- */
+    {
+      judul: "Fardu Tayamum",
+      ar:    "فُرُوضُ التَّيَمُّمِ",
+      lat:   "fardu tayamum rukun",
+
+      lines: [
+        {
+          ar: "فُرُوضُ التَّيَمُّمِ خَمْسَةٌ",
+          sd: "Ari pirang-pirang fardu tayamum, éta aya lima perkara.",
+          id: "Fardu-fardu tayamum itu ada lima perkara."
+        },
+        {
+          ar: "الْأَوَّلُ : نَقْلُ التُّرَابِ",
+          sd: "(Anu ka-1) Nyaéta mindahkeun taneuh (kana anggota tayamum).",
+          id: "(Yang ke-1) Yaitu memindahkan debu (ke anggota tayamum)."
+        },
+        {
+          ar: "الثَّانِي : النِّيَّةُ",
+          sd: "Jeung (anu ka-2) niat.",
+          id: "Dan (yang ke-2) niat."
+        },
+        {
+          ar: "الثَّالِثُ : مَسْحُ الْوَجْهِ",
+          sd: "Jeung (anu ka-3) ngusap beungeut.",
+          id: "Dan (yang ke-3) mengusap wajah."
+        },
+        {
+          ar: "الرَّابِعُ : مَسْحُ الْيَدَيْنِ إِلَى الْمِرْفَقَيْنِ",
+          sd: "Jeung (anu ka-4) ngusap dua leungeun nepi ka dua sikuna.",
+          id: "Dan (yang ke-4) mengusap kedua tangan sampai kedua sikunya."
+        },
+        {
+          ar: "الْخَامِسُ : التَّرْتِيبُ بَيْنَ الْمَسْحَتَيْنِ",
+          sd: "Jeung (anu ka-5) tertib antara dua usapan (ngausap beungeut heula, tuluy leungeun).",
+          id: "Dan (yang ke-5) tertib antara dua usapan (mendahulukan usapan wajah lalu tangan)."
+        }
+      ]
+      // Catatan dihapus karena terjemahannya sudah maklum dan jelas
+    },
+
+    /* ---------------------- Batal Tayamum ---------------------- */
+    {
+      judul: "Perkara yang Membatalkan Tayamum",
+      ar:    "مُبْطِلَاتُ التَّيَمُّمِ",
+      lat:   "batal tayamum mubthilatut tayammum",
+
+      lines: [
+        {
+          ar: "مُبْطِلَاتُ التَّيَمُّمِ أَرْبَعَةٌ",
+          sd: "Ari pirang-pirang perkara anu ngabatalkeun tayamum, éta aya opat.",
+          id: "Perkara-perkara yang membatalkan tayamum itu ada empat."
+        },
+        {
+          ar: "مَا أَبْطَلَ الْوُضُوءَ",
+          sd: "(Anu ka-1) Nyaéta perkara anu ngabatalkeun wudu.",
+          id: "(Yang ke-1) Yaitu segala perkara yang membatalkan wudu."
+        },
+        {
+          ar: "وَالرِّدَّةُ",
+          sd: "Jeung (anu ka-2) murtad.",
+          id: "Dan (yang ke-2) murtad."
+        },
+        {
+          ar: "وَتَوَهُّمُ الْمَاءِ إِنْ تَيَمَّمَ لِفَقْدِهِ",
+          sd: "Jeung (anu ka-3) nyangka aya cai, lamun manéhna tayamum pédah euweuh cai.",
+          id: "Dan (yang ke-3) menyangka adanya air, jika ia bertayamum karena ketiadaan air."
+        },
+        {
+          ar: "وَالشَّكُّ",
+          sd: "Jeung (anu ka-4) mangmang (kana ayana cai).",
+          id: "Dan (yang ke-4) ragu-ragu (akan adanya air)."
+        }
+      ]
+      // Catatan dihapus karena terjemahannya sudah maklum dan jelas
+    },
+
+    /* ---------------------- Benda Najis yang Menjadi Suci ---------------------- */
+    {
+      judul: "Benda Najis yang Menjadi Suci",
+      ar:    "الَّذِي يَطْهُرُ مِنَ النَّجَاسَةِ",
+      lat:   "najis suci cuka kulit bangké",
+
+      lines: [
+        {
+          ar: "الَّذِي يَطْهُرُ مِنَ النَّجَاسَةِ ثَلَاثَةٌ",
+          sd: "Ari barang najis anu bisa jadi suci, éta aya tilu perkara.",
+          id: "Barang najis yang dapat menjadi suci itu ada tiga perkara."
+        },
+        {
+          ar: "الْخَمْرُ إِذَا تَخَلَّلَتْ بِنَفْسِهَا",
+          sd: "(Anu ka-1) Nyaéta arak (khomar) nalika jadi cuka ku soranganna.",
+          id: "(Yang ke-1) Yaitu arak/khamar jika berubah menjadi cuka dengan sendirinya."
+        },
+        {
+          ar: "وَجِلْدُ الْمَيْتَةِ إِذَا دُبِغَ",
+          sd: "Jeung (anu ka-2) kulit bangké nalika disamak.",
+          id: "Dan (yang ke-2) kulit bangkai jika disamak."
+        },
+        {
+          ar: "وَمَا صَارَ حَيَوَانًا",
+          sd: "Jeung (anu ka-3) najis (getih/bangkong) anu robah jadi sato.",
+          id: "Dan (yang ke-3) sesuatu najis yang berubah menjadi hewan (seperti belatung)."
+        }
+      ]
+      // Catatan dihapus karena terjemahannya sudah maklum dan jelas
+    },
+
+    /* ---------------------- Pembagian Najis ---------------------- */
+    {
+      judul: "Pembagian Najis",
+      ar:    "أَقْسَامُ النَّجَاسَةِ",
+      lat:   "najis pembagian mughallazhah mukhaffafah mutawassithah anjing",
+
+      lines: [
+        {
+          ar: "النَّجَاسَةُ ثَلَاثَةٌ",
+          sd: "Ari najis éta kabagi kana tilu bagian.",
+          id: "Najis itu terbagi menjadi tiga."
+        },
+        {
+          ar: "مُغَلَّظَةٌ",
+          sd: "(Anu ka-1) Nyaéta najis mughallazhah (beurat).",
+          id: "(Yang ke-1) Yaitu najis mughallazhah (berat)."
+        },
+        {
+          ar: "وَمُخَفَّفَةٌ",
+          sd: "Jeung (anu ka-2) najis mukhaffafah (hampang).",
+          id: "Dan (yang ke-2) najis mukhaffafah (ringan)."
+        },
+        {
+          ar: "وَمُتَوَسِّطَةٌ",
+          sd: "Jeung (anu ka-3) najis mutawassithah (sedeng).",
+          id: "Dan (yang ke-3) najis mutawassithah (sedang)."
+        },
+        {
+          ar: "الْمُغَلَّظَةُ : نَجَاسَةُ الْكَلْبِ وَالْخِنْزِيرِ وَفَرْعِ أَحَدِهِمَا",
+          sd: "Ari najis mughallazhah, éta najisna anjing jeung babi, sarta anak tina salah sahijina.",
+          id: "Najis mughallazhah adalah najisnya anjing dan babi, serta keturunan dari salah satunya."
+        },
+        {
+          ar: "وَالْمُخَفَّفَةُ : بَوْلُ الصَّبِيِّ الَّذِي لَمْ يَطْعَمْ غَيْرَ اللَّبَنِ وَلَمْ يَبْلُغِ الْحَوْلَيْنِ",
+          sd: "Jeung ari najis mukhaffafah, éta ci kiih orok lalaki, anu can barangdahar kana lianna cai susu, tur can nepi kana umur dua taun.",
+          id: "Dan najis mukhaffafah adalah air kencing bayi laki-laki, yang belum makan selain air susu (ASI), dan belum mencapai usia dua tahun."
+        },
+        {
+          ar: "وَالْمُتَوَسِّطَةُ : سَائِرُ النَّجَاسَاتِ",
+          sd: "Jeung ari najis mutawassithah, éta sakabéh sésa pirang-pirang najis.",
+          id: "Dan najis mutawassithah adalah seluruh sisa macam najis lainnya."
+        }
+      ]
+      // Catatan dihapus karena terjemahannya sudah maklum dan jelas
+    },
 
   ],
 });
