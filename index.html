@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Ngaji Kitab · Safinatun Naja</title>
+<title>Ngaji Kitab</title>
 <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Source+Serif+4:wght@400;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
 </head>
@@ -11,32 +11,25 @@
 <div class="wrap">
 <header>
 <button id="nav" class="ic" aria-label="Kembali" style="visibility:hidden"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"/></svg></button>
-<h1>Ngaji Kitab<small id="sub">Perpustakaan kitab ibtidaiyah</small></h1>
+<h1>Ngaji Kitab<small id="sub"></small></h1>
 <button id="gear" class="ic" aria-label="Pengaturan"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h10M18 7h2M4 17h2M10 17h10"/><circle cx="16" cy="7" r="2"/><circle cx="8" cy="17" r="2"/></svg></button>
 </header>
-
-<div id="shelf">
-<p class="hint">Pilih kitab yang ingin dipelajari.</p>
-<div class="shelf" id="kitabs"></div>
-</div>
-
+<div id="shelf"><p class="hint">Pilih kitab yang ingin dipelajari.</p><div class="shelf" id="kitabs"></div></div>
 <div id="home" hidden>
-<h2 id="kt"></h2>
-<div class="search"><input id="q" type="search" placeholder="Cari fashl atau bab, contoh: rukun islam / أركان" aria-label="Cari fashl atau bab"></div>
-<p class="hint" id="hint">Pilih fashl untuk mulai membaca.</p>
-<div class="list" id="list"></div>
+<div class="search"><input id="q" type="search" placeholder="Cari fashl atau bab, contoh: rukun iman / أركان" aria-label="Cari fashl atau bab"></div>
+<p class="hint" id="hint"></p><div class="list" id="list"></div>
 </div>
+<div id="read" hidden><div class="fashl" id="fashl"></div></div>
+<p class="foot">Contoh tampilan. Teks, terjemah, dan catatan mohon diperiksa guru sebelum dipakai belajar.</p>
+</div>
+<div class="pager" id="pager" hidden>
+<button id="pv" class="ic" aria-label="Fashl sebelumnya"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"/></svg></button>
+<button id="pl" class="pg" aria-label="Daftar fashl"></button>
+<button id="pn" class="ic" aria-label="Fashl berikutnya"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 5l7 7-7 7"/></svg></button>
+</div>
+<div class="ov" id="ov" role="dialog" aria-modal="true"><div class="pop" id="pop"></div></div>
 
-<div id="read" hidden>
-<div class="fashl" id="fashl"></div>
-</div>
-<p class="note">Contoh tampilan. Teks dan i’rab mohon diperiksa guru sebelum dipakai belajar.</p>
-</div>
-
-<div class="ov" id="ov" role="dialog" aria-modal="true">
-<div class="pop" id="pop"></div>
-</div>
-
+<!-- Data kitab: satu file per kitab. Urutan baris = urutan kartu di halaman awal -->
 <script src="data/safinatun-naja.js"></script>
 <script src="data/ajurumiyyah.js"></script>
 <script src="data/taqrib.js"></script>
