@@ -18,20 +18,20 @@ b.innerHTML='<span class="ar">'+ar(k.ar)+'</span><b>'+k.judul+'</b><small>'+k.ke
 b.onclick=()=>{if(!k.fashl.length)return alert("Kitab ini belum diisi.");K=k;$("q").value="";list();view("home")};S_.appendChild(b)})}
 function items(el,t,pick){el.innerHTML="";let n=0;K.fashl.forEach((f,x)=>{if(t&&!strip(f.ar).includes(t)&&!strip(f.lat+" "+f.judul).includes(t))return;n++;
 const b=document.createElement("button");b.className="item"+(x===i&&mode()==="read"?" cur":"")+(f.lines?"":" dim");
-b.innerHTML='<span><b>'+f.judul+'</b><br><small>Fashl '+(x+1)+(f.lines?"":" · belum diisi")+'</small></span><span class="ar">'+ar(f.ar)+'</span>';
+b.innerHTML='<span><b>'+f.judul+'</b><br><small>Halaman '+(x+1)+(f.lines?"":" · belum diisi")+'</small></span><span class="ar">'+ar(f.ar)+'</span>';
 b.onclick=()=>pick(x);el.appendChild(b)});if(!n)el.innerHTML='<div class="empty">Tidak ada fashl yang cocok. Coba kata lain, misalnya “rukun”.</div>';return n}
 function list(){const t=strip($("q").value.trim()),n=items($("list"),t,x=>open(x,0));$("hint").textContent=t?n+" hasil ditemukan.":"Pilih fashl untuk mulai membaca."}
 $("q").oninput=list;
 
 function open(x,dir){i=x;page(dir);view("read")}
 function page(dir){const f=K.fashl[i],b=$("fashl");b.className="fashl"+(S.trans?"":" noT");
-let h='<div class="ftitle">'+ar("فَصْلٌ: "+f.ar)+'</div>';
+let h='<div class="ftitle">'+ar((f.tanpaFashl?"":"فَصْلٌ: ")+f.ar)+'</div>';
 if(!f.lines)h+='<p class="empty">Fashl ini belum diisi.</p>';
 else if(!S.trans)h+='<p class="para">'+f.lines.map(l=>ar(l.ar)).join(" ")+'</p>';
 else f.lines.forEach(l=>{h+='<div class="row"><div class="arab">'+ar(l.ar)+'</div><div class="trans">'+(l[S.lang]||l.id||"")+'</div></div>'});
 if(S.notes&&f.catatan){let c=typeof f.catatan==="string"||Array.isArray(f.catatan)?f.catatan:(f.catatan[S.lang]||f.catatan.id||"");if(Array.isArray(c))c=c.join("\n");h+='<aside class="catatan"><h3>Catatan</h3>'+c.split("\n").map(p=>"<p>"+p+"</p>").join("")+'</aside>'}
 b.innerHTML=h;b.style.animation="none";void b.offsetWidth;b.style.animation=dir?"":"none";b.style.setProperty("--dx",(dir||0)*16+"px");
-$("pl").textContent="Fashl "+(i+1)+" / "+K.fashl.length+" · Daftar";$("pv").disabled=i===0;$("pn").disabled=i===K.fashl.length-1;
+$("pl").textContent="Halaman "+(i+1)+" / "+K.fashl.length+" · Daftar";$("pv").disabled=i===0;$("pn").disabled=i===K.fashl.length-1;
 if(mode()==="read")$("sub").textContent=f.judul}
 function go(d){const j=i+d;if(j<0||j>=K.fashl.length)return;i=j;page(d);scrollTo(0,0)}
 $("pv").onclick=()=>go(-1);$("pn").onclick=()=>go(1);
