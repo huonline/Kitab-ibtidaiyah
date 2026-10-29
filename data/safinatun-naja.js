@@ -467,7 +467,7 @@
       // Catatan dihapus karena sudah cukup jelas
     },
 
-    /* ---------------------- Syarat Wudu ---------------------- */
+        /* ---------------------- Syarat Wudu ---------------------- */
     {
       judul: "Syarat Wudu",
       ar:    "شُرُوطُ الْوُضُوءِ",
@@ -477,53 +477,63 @@
         {
           ar: "شُرُوطُ الْوُضُوءِ عَشَرَةٌ",
           sd: "Ari pirang-pirang syarat wudu, éta aya sapuluh perkara.",
-          id: "Syarat-syarat wudu itu ada sepuluh perkara.",
+          id: "Syarat-syarat wudu itu ada sepuluh perkara."
         },
         {
           ar: "الْإِسْلَامُ",
           sd: "(Anu ka-1) Nyaéta kudu Islam.",
-          id: "(Yang ke-1) Yaitu Islam.",
+          id: "(Yang ke-1) Yaitu Islam."
         },
         {
           ar: "وَالتَّمْيِيزُ",
           sd: "Jeung (anu ka-2) tamyiz (bisa ngabédakeun hadé jeung goréng).",
-          id: "Dan (yang ke-2) tamyiz (bisa membedakan mana yang baik dan buruk).",
+          id: "Dan (yang ke-2) tamyiz (dapat membedakan baik dan buruk)."
         },
         {
           ar: "وَالنَّقَاءُ عَنِ الْحَيْضِ وَالنِّفَاسِ",
           sd: "Jeung (anu ka-3) bersih tina getih haid sarta nifas.",
-          id: "Dan (yang ke-3) bersih/suci dari haid dan nifas.",
+          id: "Dan (yang ke-3) bersih dari haid dan nifas."
         },
         {
           ar: "وَعَمَّا يَمْنَعُ وُصُولَ الْمَاءِ إِلَى الْبَشَرَةِ",
           sd: "Jeung (anu ka-4) bersih tina perkara anu bisa nyegah kana tepina cai kana kulit.",
-          id: "Dan (yang ke-4) bersih dari sesuatu yang menghalangi sampainya air ke kulit.",
+          id: "Dan (yang ke-4) bersih dari sesuatu yang menghalangi sampainya air ke kulit."
         },
         {
           ar: "وَأَنْ لَا يَكُونَ عَلَى الْعُضْوِ مَا يُغَيِّرُ الْمَاءَ",
-          sd: "Jeung (anu ka-5) yén ulah aya dina anggota wudu hiji perkara anu bisa ngarobah kana cai.",
-          id: "Dan (yang ke-5) tidak ada pada anggota wudu sesuatu yang bisa merubah kemurnian air.",
+          sd: "Jeung (anu ka-5) yén ulah bukti dina anggota wudu téh aya hiji perkara anu bisa ngarobah kana cai.",
+          id: "Dan (yang ke-5) tidak ada pada anggota wudu sesuatu yang dapat merubah kemurnian air."
         },
         {
-          ar: "الطَّهُورُ",
-          sd: "Jeung (anu ka-6) caina kudu suci tur nyucikeun.",
-          id: "Dan (yang ke-6) air yang digunakan harus suci dan mensucikan.",
+          ar: "وَالْعِلْمُ بِفَرْضِيَّتِهِ",
+          sd: "Jeung (anu ka-6) nyaho kana farduna wudu.",
+          id: "Dan (yang ke-6) mengetahui kefarduan wudu."
+        },
+        {
+          ar: "وَأَنْ لَا يَعْتَقِدَ فَرْضًا مِنْ فُرُوضِهِ سُنَّةً",
+          sd: "Jeung (anu ka-7) yén ulah nekadkeun anjeunna kana hiji fardu tina pirang-pirang farduna wudu, dianggap kana sunah.",
+          id: "Dan (yang ke-7) tidak meyakini satu fardu dari fardu-fardu wudu sebagai sunah."
+        },
+        {
+          ar: "وَالْمَاءُ الطَّهُورُ",
+          sd: "Jeung (anu ka-8) caina kudu suci tur nyucikeun.",
+          id: "Dan (yang ke-8) airnya suci dan mensucikan."
         },
         {
           ar: "وَدُخُولُ الْوَقْتِ",
-          sd: "Jeung (anu ka-7) kudu asup waktu (salat).",
-          id: "Dan (yang ke-7) masuk waktu (salat).",
+          sd: "Jeung (anu ka-9) asup waktu (salat).",
+          id: "Dan (yang ke-9) masuk waktu (salat)."
         },
         {
           ar: "وَالْمُوَالَاةُ لِدَائِمِ الْحَدَثِ",
-          sd: "Jeung (anu ka-8) kudu tuluy-tuluy (muwalah), husus pikeun jalma anu mayeng boga hadas.",
-          id: "Dan (yang ke-8) muwalah (berkesinambungan tanpa jeda lama), khusus bagi orang yang selalu berhadas.",
-        },
+          sd: "Jeung (anu ka-10) tuluy-tuluy (muwalah), husus pikeun jalma anu mayeng boga hadas.",
+          id: "Dan (yang ke-10) berkesinambungan (muwalah), khusus bagi orang yang selalu berhadas."
+        }
       ],
 
       catatan: {
-        sd: ["Dina matan (naskah) ieu disebutkeun aya 10 syarat, tapi upama diitung ukur nyampak 8. Ieu téh lantaran dina naskah ieu aya kalimah anu ragrag (teu kacatet). Dua syarat anu henteu kasebut nyaéta: (9) Nyaho kana farduna wudu (العلم بفرضيته), jeung (10) Ulah boga itikad yén fardu wudu dianggap sunah (وأن لا يعتقد فرضا من فروضه سنة). Kasus ragragna kalimah ieu ilahar kapanggih dina sababaraha citakan kitab Safinah."],
-        id: ["Dalam naskah gambar ini disebutkan ada 10 syarat, namun yang tertulis/terhitung hanya 8. Hal ini terjadi karena ada kalimat matan yang terpotong (hilang) pada cetakan tersebut. Dua syarat yang tidak tertulis adalah: (9) Mengetahui kefarduan wudu, dan (10) Tidak meyakini salah satu fardu wudu sebagai sunah. Catatan: Syarat masuk waktu dan muwalah (poin 7 & 8) hanya diwajibkan bagi orang yang berhadas terus-menerus (daimul hadats, misal: beser/istihadah)."],
+        sd: ["Syarat nomer 9 jeung 10 (asup waktu salat jeung muwalah/tuluy-tuluy) ieu ukur diwajibkeun pikeun dâimul hadats, nyaéta jalma anu terus-terusan boga hadas (saperti besér atawa awéwé anu istihadah)."],
+        id: ["Syarat nomor 9 dan 10 (masuk waktu salat dan muwalah/berkesinambungan tanpa jeda lama) ini hanya diwajibkan bagi dâimul hadats, yaitu orang yang terus-menerus berhadas (seperti beser atau wanita istihadah)."]
       }
     },
 
