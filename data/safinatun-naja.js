@@ -2553,7 +2553,7 @@
       ]
     },
 
-    /* ---------------------- Syarat Khutbah ---------------------- */
+      /* ---------------------- Syarat Khutbah (Perbaikan) ---------------------- */
     {
       judul: "Syarat Dua Khutbah",
       ar:    "شُرُوطُ الْخُطْبَتَيْنِ",
@@ -2562,60 +2562,66 @@
       lines: [
         {
           ar: "شُرُوطُ الْخُطْبَتَيْنِ عَشَرَةٌ",
-          sd: "Ari pirang-pirang syarat dua khutbah, éta aya sapuluh.", //[span_27](start_span)[span_27](end_span)
-          id: "Syarat-syarat dua khutbah itu ada sepuluh." //[span_28](start_span)[span_28](end_span)
+          sd: "Ari pirang-pirang syarat dua khutbah, éta aya sapuluh[span_1](start_span)[span_1](end_span).",
+          id: "Syarat-syarat dua khutbah itu ada sepuluh[span_2](start_span)[span_2](end_span)."
         },
         {
           ar: "الطَّهَارَةُ عَنِ الْحَدَثَيْنِ الْأَصْغَرِ وَالْأَكْبَرِ",
-          sd: "(Anu ka-1) Nyaéta suci tina dua hadas, hadas leutik jeung hadas badag.", //[span_29](start_span)[span_29](end_span)
-          id: "(Yang ke-1) Yaitu suci dari dua hadas (kecil dan besar)." //[span_30](start_span)[span_30](end_span)
+          sd: "(Anu ka-1) Nyaéta suci tina dua hadas (leutik jeung badag)[span_3](start_span)[span_3](end_span).",
+          id: "(Yang ke-1) Yaitu suci dari dua hadas (kecil dan besar)[span_4](start_span)[span_4](end_span)."
         },
         {
           ar: "وَالطَّهَارَةُ عَنِ النَّجَاسَةِ فِي الثَّوْبِ وَالْبَدَنِ وَالْمَكَانِ",
-          sd: "Jeung (anu ka-2) suci tina najis, tetep dina pakéan, sarta awak, jeung tempatna.", //[span_31](start_span)[span_31](end_span)
-          id: "Dan (yang ke-2) suci dari najis pada pakaian, badan, dan tempat." //[span_32](start_span)[span_32](end_span)
+          sd: "Jeung (anu ka-2) suci tina najis, tetep dina pakéan, sarta awak, jeung tempat[span_5](start_span)[span_5](end_span).",
+          id: "(Yang ke-2) Suci dari najis pada pakaian, badan, dan tempat[span_6](start_span)[span_6](end_span)."
         },
         {
           ar: "وَسَتْرُ الْعَوْرَةِ",
-          sd: "Jeung (anu ka-3) nutupan aurat.", //[span_33](start_span)[span_33](end_span)
-          id: "Dan (yang ke-3) menutup aurat." //[span_34](start_span)[span_34](end_span)
+          sd: "Jeung (anu ka-3) nutupan aurat[span_7](start_span)[span_7](end_span).",
+          id: "(Yang ke-3) Menutup aurat[span_8](start_span)[span_8](end_span)."
         },
         {
           ar: "وَالْقِيَامُ عَلَى الْقَادِرِ",
-          sd: "Jeung (anu ka-4) nangtung pikeun jalma anu mampuh.", //[span_35](start_span)[span_35](end_span)
-          id: "Dan (yang ke-4) berdiri bagi orang yang mampu." //[span_36](start_span)[span_36](end_span)
+          sd: "Jeung (anu ka-4) nangtung pikeun jalma anu mampuh[span_9](start_span)[span_9](end_span).",
+          id: "(Yang ke-4) Berdiri bagi orang yang mampu[span_10](start_span)[span_10](end_span)."
         },
         {
           ar: "وَالْجُلُوسُ بَيْنَهُمَا فَوْقَ طُمَأْنِينَةِ الصَّلَاةِ",
-          sd: "Jeung (anu ka-5) diuk di antara éta dua khutbah, (ukuranana) ngaleuwihan tumaninahna salat.", //[span_37](start_span)[span_37](end_span)
-          id: "Dan (yang ke-5) duduk di antara kedua khutbah dengan durasi melebihi batas tumaninah salat." //[span_38](start_span)[span_38](end_span)
+          sd: "Jeung (anu ka-5) diuk di antara éta dua khutbah, kalawan ngaleuwihan kana tumaninahna salat[span_11](start_span)[span_11](end_span).",
+          id: "(Yang ke-5) Duduk di antara kedua khutbah dengan durasi melebihi tumaninah salat[span_12](start_span)[span_12](end_span)."
+        },
+        {
+          ar: "وَالْمُوَالَاةُ بَيْنَهُمَا",
+          sd: "Jeung (anu ka-6) tuluy-tuluy (muwalah) di antara éta dua khutbah[span_13](start_span)[span_13](end_span).",
+          id: "(Yang ke-6) Berkesinambungan (tanpa jeda lama) di antara kedua khutbah[span_14](start_span)[span_14](end_span)."
         },
         {
           ar: "وَالْمُوَالَاةُ بَيْنَهُمَا وَبَيْنَ الصَّلَاةِ",
-          sd: "Jeung (anu ka-6) tuluy-tuluy antara éta dua khutbah jeung antara salat (Jumaah).", //[span_39](start_span)[span_39](end_span)
-          id: "Dan (yang ke-6) berkesinambungan antara kedua khutbah dan antara (khutbah dengan) salat Jumat." //[span_40](start_span)[span_40](end_span)
+          sd: "Jeung (anu ka-7) tuluy-tuluy di antara éta dua khutbah sarta salat (Jumaah)[span_15](start_span)[span_15](end_span).",
+          id: "(Yang ke-7) Berkesinambungan antara kedua khutbah dan pelaksanaan salat[span_16](start_span)[span_16](end_span)."
         },
         {
           ar: "وَأَنْ تَكُونَ بِالْعَرَبِيَّةِ",
-          sd: "Jeung (anu ka-7) yén bukti (naonna) khutbahna téh kalawan maké basa Arab.", //[span_41](start_span)[span_41](end_span)
-          id: "Dan (yang ke-7) khutbah tersebut menggunakan bahasa Arab." //[span_42](start_span)[span_42](end_span)
+          sd: "Jeung (anu ka-8) yén bukti (naonna) khutbahna téh kalawan maké basa Arab[span_17](start_span)[span_17](end_span).",
+          id: "(Yang ke-8) Khutbah tersebut harus menggunakan bahasa Arab[span_18](start_span)[span_18](end_span)."
         },
         {
           ar: "وَأَنْ يُسْمِعَهَا أَرْبَعُونَ",
-          sd: "Jeung (anu ka-8) yén bisa ngadéngékeun kana éta (khutbah) téh, (ku) opat puluh urang jamaah.", //[span_43](start_span)[span_43](end_span)
-          id: "Dan (yang ke-8) dapat diperdengarkan kepada empat puluh orang jamaah." //[span_44](start_span)[span_44](end_span)
+          sd: "Jeung (anu ka-9) yén bisa ngadéngékeun kana éta khutbah téh, ku opat puluh urang[span_19](start_span)[span_19](end_span).",
+          id: "(Yang ke-9) Bisa diperdengarkan bacaan khutbahnya kepada empat puluh orang[span_20](start_span)[span_20](end_span)."
         },
         {
           ar: "وَأَنْ تَكُونَ كُلُّهَا فِي وَقْتِ الظُّهْرِ",
-          sd: "Jeung (anu ka-9 & 10) yén bukti (naonna) sakabéh éta khutbah téh, tetep dina waktu Zuhur.", //[span_45](start_span)[span_45](end_span)
-          id: "Dan (yang ke-9 & 10) pelaksanaan seluruh khutbahnya harus berada di dalam waktu Zuhur." //[span_46](start_span)[span_46](end_span)
+          sd: "Jeung (anu ka-10) yén bukti sakabéhna khutbah téh, tetep dina waktu Zuhur[span_21](start_span)[span_21](end_span).",
+          id: "(Yang ke-10) Seluruh pelaksanaan khutbah harus berada di dalam waktu Zuhur[span_22](start_span)[span_22](end_span)."
         }
       ],
       catatan: {
-        sd: ["Dina matan nyebutkeun 10 syarat, tapi dina riyincian ukur ngitung 9, lantaran syarat ka-9 jeung ka-10 dipadukeun (jadi hiji kalam) numutkeun sababaraha naskah, atanapi aya ragragna kalimah dina seueur citakan."],
-        id: ["Dalam judul disebutkan ada 10 syarat, namun perinciannya hanya tampak 9. Hal ini dikarenakan syarat ke-9 dan ke-10 tergabung, atau ada redaksi yang hilang pada beberapa naskah cetakan."]
+        sd: ["Dina naskah ieu katingali jelas, poin ka-6 jeung ka-7 dipisahkeun nyaéta muwalah antara dua khutbah, sarta muwalah antara khutbah jeung salat, sahingga pas janten sapuluh syarat luyu sareng unina mukaddimah 'asyarah'."],
+        id: ["Pada naskah ini terlihat jelas rincian ke-10 syaratnya terpisah secara utuh, yaitu memisahkan antara syarat muwalah (berkesinambungan) di antara dua khutbah dengan muwalah antara khutbah dan salat."]
       }
     },
+
 
     /* ---------------------- Kawajiban Pulasara Mayit ---------------------- */
     {
