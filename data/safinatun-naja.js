@@ -2151,109 +2151,7 @@
         }
       ]
     },
-{
-  judul: "Perkara yang Membatalkan Salat",
-  ar: "مُبْطِلَاتُ الصَّلَاةِ",
-  lat: "mubthilatus shalah perkara yang membatalkan salat",
 
-  lines: [
-    {
-      ar: "تَبْطُلُ الصَّلَاةُ بِأَرْبَعَ عَشْرَةَ خَصْلَةٍ",
-      sd: "Ari salat, éta jadi batal ku sabab opat welas perkara.",
-      id: "Salat menjadi batal karena empat belas perkara.",
-    },
-    {
-      ar: "بِالْحَدَثِ",
-      sd: "Ku sabab aya hadas.",
-      id: "Karena terjadi hadas.",
-    },
-    {
-      ar: "وَبِوُقُوعِ النَّجَاسَةِ إِنْ لَمْ تُلْقَ حَالًا مِنْ غَيْرِ حَمْلٍ",
-      sd: "Jeung ku sabab ragragna najis kana awak atawa papakéan, lamun éta najis teu langsung dipiceun, bari najisna henteu kabawa ku manéhna.",
-      id: "Karena terkena najis apabila najis tersebut tidak segera dibuang, dengan syarat najis itu tidak terbawa olehnya.",
-    },
-    {
-      ar: "وَانْكِشَافِ الْعَوْرَةِ إِنْ لَمْ تُسْتَرْ حَالًا",
-      sd: "Jeung ku sabab kabukana aurat, lamun teu langsung ditutupan deui.",
-      id: "Karena terbukanya aurat apabila tidak segera ditutup kembali.",
-    },
-    {
-      ar: "وَالنُّطْقِ بِحَرْفَيْنِ أَوْ حَرْفٍ مُفْهِمٍ عَمْدًا",
-      sd: "Jeung ku sabab ngucapkeun dua hurup, atawa hiji hurup anu geus ngandung harti, kalawan dihaja.",
-      id: "Karena mengucapkan dua huruf atau satu huruf yang memiliki makna, dengan sengaja.",
-    },
-    {
-      ar: "وَبِالْمُفْطِرِ عَمْدًا",
-      sd: "Jeung ku sabab ngalakukeun perkara anu ngabatalkeun puasa, kalawan dihaja.",
-      id: "Karena melakukan sesuatu yang membatalkan puasa dengan sengaja.",
-    },
-    {
-      ar: "وَالْأَكْلِ الْكَثِيرِ نَاسِيًا",
-      sd: "Jeung ku sabab dahar loba, sanajan dina kaayaan poho.",
-      id: "Karena makan dalam jumlah banyak, meskipun dalam keadaan lupa.",
-    },
-    {
-      ar: "أَوْ ثَلَاثِ حَرَكَاتٍ مُتَوَالِيَاتٍ وَلَوْ سَهْوًا",
-      sd: "Atawa ngalakukeun tilu gerakan anu padeukeut jeung sambung-menyambung, sanajan teu dihaja.",
-      id: "Atau melakukan tiga gerakan berturut-turut, meskipun tidak disengaja.",
-    },
-    {
-      ar: "وَالْوَثْبَةِ الْفَاحِشَةِ",
-      sd: "Jeung ku sabab ngaluncat kalawan gerakan anu kacida gedéna.",
-      id: "Karena melakukan lompatan yang berlebihan.",
-    },
-    {
-      ar: "وَالضَّرْبَةِ الْمُفْرِطَةِ",
-      sd: "Jeung ku sabab ngalakukeun gerakan neunggeul anu kaleuleuwihi.",
-      id: "Karena melakukan pukulan atau gerakan memukul yang berlebihan.",
-    },
-    {
-      ar: "وَزِيَادَةِ رُكْنٍ فِعْلِيٍّ عَمْدًا",
-      sd: "Jeung ku sabab nambahan hiji rukun fi'li (gerakan salat), kalawan dihaja.",
-      id: "Karena menambahkan satu rukun fi'li (gerakan salat) dengan sengaja.",
-    },
-    {
-      ar: "وَالتَّقَدُّمِ عَلَى إِمَامِهِ بِرُكْنَيْنِ فِعْلِيَّيْنِ",
-      sd: "Jeung ku sabab makmum miheulaan imamna ku dua rukun fi'li.",
-      id: "Karena makmum mendahului imamnya dengan dua rukun fi'li.",
-    },
-    {
-      ar: "وَالتَّخَلُّفِ بِهِمَا بِغَيْرِ عُذْرٍ",
-      sd: "Jeung ku sabab katinggaleun ku dua rukun fi'li ti imam, tanpa aya uzur.",
-      id: "Karena tertinggal dari imam sebanyak dua rukun fi'li tanpa uzur.",
-    },
-    {
-      ar: "وَنِيَّةِ قَطْعِ الصَّلَاةِ",
-      sd: "Jeung ku sabab aya niat dina haté rék megatkeun salat.",
-      id: "Karena berniat untuk memutus salat.",
-    },
-    {
-      ar: "وَتَعْلِيقِ قَطْعِهَا بِشَيْءٍ",
-      sd: "Jeung ku sabab ngagantungkeun niat megatkeun salat kana hiji perkara.",
-      id: "Karena menggantungkan pemutusan salat pada suatu perkara.",
-    },
-    {
-      ar: "وَالتَّرَدُّدِ فِي قَطْعِهَا",
-      sd: "Jeung ku sabab aya rasa ragu rék megatkeun salat atawa henteu.",
-      id: "Karena ragu-ragu apakah akan memutus salat atau tidak.",
-    },
-  ],
-
-  catatan: {
-    sd: [
-      "Dina perkara najis, lamun najisna langsung dipiceun jeung henteu kabawa, salatna henteu batal. Kitu deui aurat anu kabuka teu kahaja, lamun langsung ditutupan deui, salatna henteu batal.",
-      "Dua hurup atawa hiji hurup anu miboga harti bisa ngabatalkeun salat lamun diucapkeun kalawan dihaja. Ari tilu gerakan anu padeukeut maksudna tilu gerakan anu sambung-menyambung sarta kaasup gerakan anu diitung dina hukum salat.",
-      "Rukun fi'li nyaéta rukun salat anu mangrupa gerakan awak, saperti ruku jeung sujud. Miheulaan atawa katinggaleun imam ku dua rukun fi'li tanpa uzur kaasup perkara anu ngabatalkeun salat makmum.",
-      "Niat megatkeun salat, ngagantungkeunana kana hiji kajadian, atawa masih ragu-ragu rék megatkeunana, kaasup perkara anu ngabatalkeun salat."
-    ],
-    id: [
-      "Dalam masalah najis, apabila najis segera dibuang dan tidak terbawa, salat tidak batal. Begitu pula aurat yang terbuka tanpa sengaja, apabila segera ditutup kembali, salat tidak batal.",
-      "Dua huruf atau satu huruf yang memiliki makna dapat membatalkan salat apabila diucapkan dengan sengaja. Adapun tiga gerakan berturut-turut maksudnya adalah tiga gerakan yang bersambung dan termasuk gerakan yang diperhitungkan dalam hukum salat.",
-      "Rukun fi'li adalah rukun salat berupa gerakan tubuh, seperti rukuk dan sujud. Mendahului atau tertinggal dari imam sebanyak dua rukun fi'li tanpa uzur termasuk perkara yang membatalkan salat makmum.",
-      "Berniat memutus salat, menggantungkan pemutusan salat pada suatu kejadian, atau masih ragu-ragu untuk memutuskannya, termasuk perkara yang membatalkan salat."
-    ],
-  },
-},
     /* ---------------------- Perkara yang Membatalkan Salat ---------------------- */
     {
       judul: "Perkara yang Membatalkan Salat",
@@ -2515,6 +2413,59 @@
       catatan: {
         sd: ["Banci (Khuntsa) anu dimaksud di dieu nyaéta jalma anu saprak gubrag ka dunya (sacara medis/biologis) boga dua alat kelamin sakaligus (Khuntsa Musykil), lain jalma anu ngahaja ngarobah kelamin atawa paripolahna."],
         id: ["Banci (Khuntsa) yang dimaksud di sini adalah orang yang sejak lahir (secara medis/biologis) memiliki dua alat kelamin sekaligus (Khuntsa Musykil), bukan orang yang sengaja merubah kelamin atau perilakunya (waria/transgender)."]
+      }
+    },
+    /* ---------------------- Syarat Qashar Salat ---------------------- */
+    {
+      judul: "Syarat Qashar Salat",
+      ar:    "شُرُوطُ الْقَصْرِ",
+      lat:   "syarat qashar qasar salat musafir",
+
+      lines: [
+        {
+          ar: "شُرُوطُ الْقَصْرِ سَبْعَةٌ",
+          sd: "Ari pirang-pirang syarat ngosor (ngaringkes) salat, éta aya tujuh.",
+          id: "Syarat-syarat meng-qashar (meringkas) salat itu ada tujuh."
+        },
+        {
+          ar: "أَنْ يَكُونَ سَفَرُهُ مَرْحَلَتَيْنِ",
+          sd: "(Anu ka-1) Nyaéta yén kabuktian (jarak) lalampahanana téh dua marhalah.",
+          id: "(Yang ke-1) Yaitu perjalanan(nya) mencapai jarak dua marhalah."
+        },
+        {
+          ar: "وَأَنْ يَكُونَ مُبَاحًا",
+          sd: "Jeung (anu ka-2) yén kabuktian lalampahanana téh (lalampahan) anu mubah (diwenangkeun).",
+          id: "Dan (yang ke-2) perjalanannya merupakan perjalanan mubah (bukan maksiat)."
+        },
+        {
+          ar: "وَالْعِلْمُ بِجَوَازِ الْقَصْرِ",
+          sd: "Jeung (anu ka-3) nyaho kana meunangna ngosor salat.",
+          id: "Dan (yang ke-3) mengetahui diperbolehkannya meng-qashar salat."
+        },
+        {
+          ar: "وَنِيَّةُ الْقَصْرِ عِنْدَ الْإِحْرَامِ",
+          sd: "Jeung (anu ka-4) niat ngosor nalika takbiratul ihram.",
+          id: "Dan (yang ke-4) berniat qashar ketika takbiratul ihram."
+        },
+        {
+          ar: "وَأَنْ تَكُونَ الصَّلَاةُ رُبَاعِيَّةً",
+          sd: "Jeung (anu ka-5) yén kabuktian éta salat téh anu opat rakaat.",
+          id: "Dan (yang ke-5) salat yang dikerjakan adalah salat yang empat rakaat (Zuhur, Asar, Isya)."
+        },
+        {
+          ar: "وَدَوَامُ السَّفَرِ إِلَى تَمَامِهَا",
+          sd: "Jeung (anu ka-6) langgengna (tetepna) dina lalampahan nepi ka sampurnana (bérésna) éta salat.",
+          id: "Dan (yang ke-6) perjalanannya masih berlanjut hingga salat tersebut selesai dilaksanakan."
+        },
+        {
+          ar: "وَأَنْ لَا يَقْتَدِيَ بِمُتِمٍّ فِي جُزْءٍ مِنْ صَلَاتِهِ",
+          sd: "Jeung (anu ka-7) yén ulah boga niat makmum ka jalma anu nyampurnakeun salat (anu henteu di-qashar) dina sagéblégan tina salatna.",
+          id: "Dan (yang ke-7) tidak bermakmum kepada orang yang menyempurnakan salat (muqim/tidak di-qashar) di bagian manapun dari salatnya."
+        }
+      ],
+      catatan: {
+        sd: ["Dua marhalah téh ukuranna kurang leuwih 82 km nepi ka 89 km luyu jeung pamadegan para ulama fiqih."],
+        id: ["Dua marhalah setara dengan jarak kurang lebih 82 km hingga 89 km menurut mayoritas ulama fikih."]
       }
     },
 
