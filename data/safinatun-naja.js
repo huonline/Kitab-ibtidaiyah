@@ -2254,52 +2254,127 @@
     ],
   },
 },
+    /* ---------------------- Perkara yang Membatalkan Salat ---------------------- */
+    {
+      judul: "Perkara yang Membatalkan Salat",
+      ar:    "مُبْطِلَاتُ الصَّلَاةِ",
+      lat:   "mubtilatus shalat batal salat",
 
-     {
-  judul: "Salat yang Mengharuskan Niat Imam",
-  ar: "مَا يَلْزَمُ فِيهِ نِيَّةُ الْإِمَامَةِ",
-  lat: "niat imamah niat menjadi imam shalat",
+      lines: [
+        {
+          ar: "تَبْطُلُ الصَّلَاةُ بِأَرْبَعَ عَشْرَةَ خَصْلَةً",
+          sd: "Batal salat téh, ku sabab opat belas perkara.", 
+          id: "Salat itu batal sebab empat belas perkara." 
+        },
+        {
+          ar: "بِالْحَدَثِ",
+          sd: "(Anu ka-1) Nyaéta ku sabab hadas.", 
+          id: "(Yang ke-1) Yaitu sebab hadas." 
+        },
+        {
+          ar: "وَبِوُقُوعِ النَّجَاسَةِ إِنْ لَمْ تُلْقَ حَالًا مِنْ غَيْرِ حَمْلٍ",
+          sd: "Jeung (anu ka-2) ku sabab ragragna najis, lamun henteu dibalangkeun (éta najis) harita kénéh, bari teu dibawa (najisna).", 
+          id: "Dan (yang ke-2) sebab kejatuhan najis, jika tidak langsung dibuang seketika tanpa membawanya." 
+        },
+        {
+          ar: "وَانْكِشَافِ الْعَوْرَةِ إِنْ لَمْ تُسْتَرَ حَالًا",
+          sd: "Jeung (anu ka-3) ku sabab mukana aurat, lamun henteu ditutupan harita kénéh.", 
+          id: "Dan (yang ke-3) sebab terbuka aurat, jika tidak langsung ditutupi seketika." 
+        },
+        {
+          ar: "وَالنَّطْقِ بِحَرْفَيْنِ أَوْ حَرْفٍ مُفْهِمٍ عَمْدًا",
+          sd: "Jeung (anu ka-4) ku sabab ngucapkeun dua huruf atawa sahiji huruf anu mapahamkeun, bari dihaja.", 
+          id: "Dan (yang ke-4) sebab mengucapkan dua huruf atau satu huruf yang memahamkan, dalam keadaan sengaja." 
+        },
+        {
+          ar: "وَبِالْمُفْطِرِ عَمْدًا",
+          sd: "Jeung (anu ka-5) ku sabab perkara anu ngabatalkeun puasa, bari dihaja.", 
+          id: "Dan (yang ke-5) sebab melakukan hal yang membatalkan puasa, dalam keadaan sengaja." 
+        },
+        {
+          ar: "وَالْأَكْلِ الْكَثِيرِ نَاسِيًا",
+          sd: "Jeung (anu ka-6) ku sabab dahar anu loba, bari poho (keur salat).", 
+          id: "Dan (yang ke-6) sebab makan yang banyak, dalam keadaan lupa." 
+        },
+        {
+          ar: "أَوْ ثَلَاثِ حَرَكَاتٍ مُتَوَالِيَاتٍ وَلَوْ سَهْوًا",
+          sd: "Atawa (anu ka-7) ku sabab tilu usikan anu tuluy-tuluy, sanajan bari poho.", 
+          id: "Atau (yang ke-7) sebab tiga gerakan berturut-turut, walaupun dalam keadaan lupa." 
+        },
+        {
+          ar: "وَالْوَثْبَةِ الْفَاحِشَةِ",
+          sd: "Jeung (anu ka-8) ku sabab luncat anu parna.", 
+          id: "Dan (yang ke-8) sebab lompatan yang berlebihan." 
+        },
+        {
+          ar: "وَالضَّرْبَةِ الْمُفْرِطَةِ",
+          sd: "Jeung (anu ka-9) ku sabab teunggeulan anu ngaleuwihan batas.", 
+          id: "Dan (yang ke-9) sebab pukulan yang berlebihan." 
+        },
+        {
+          ar: "وَزِيَادَةِ رُكْنٍ فِعْلِيٍّ عَمْدًا",
+          sd: "Jeung (anu ka-10) ku sabab nambahan rukun fi'li (pagawéan), bari dihaja.", 
+          id: "Dan (yang ke-10) sebab menambah rukun perbuatan, dalam keadaan sengaja." 
+        },
+        {
+          ar: "وَالتَّقَدُّمِ عَلَى إِمَامِهِ بِرُكْنَيْنِ فِعْلِيَّيْنِ",
+          sd: "Jeung (anu ka-11) ku sabab miheulaan ka imamna, ku dua rukun fi'li.", 
+          id: "Dan (yang ke-11) sebab mendahului imamnya dengan dua rukun perbuatan." 
+        },
+        {
+          ar: "وَالتَّخَلُّفِ بِهِمَا بِغَيْرِ عُذْرٍ",
+          sd: "Jeung (anu ka-12) ku sabab katinggaleun ku éta dua rukun (fi'li), kalawan tanpa uzur.", 
+          id: "Dan (yang ke-12) sebab tertinggal oleh dua rukun perbuatan, tanpa adanya uzur." 
+        },
+        {
+          ar: "وَنِيَّةِ قَطْعِ الصَّلَاةِ",
+          sd: "Jeung (anu ka-13) ku sabab niat megatkeun salat.", 
+          id: "Dan (yang ke-13) sebab niat memutus salat." 
+        },
+        {
+          ar: "وَتَعْلِيقِ قَطْعِهَا بِشَيْءٍ وَالتَّرَدُّدِ فِي قَطْعِهَا",
+          sd: "Jeung (anu ka-14) ku sabab ngagantungkeun megatkeun salat kana hiji perkara, sarta bimbang dina megatkeunana.", 
+          id: "Dan (yang ke-14) sebab menggantungkan pembatalan salat pada sesuatu, serta ragu-ragu dalam memutusnya." 
+        }
+      ]
+    },
 
-  lines: [
+    /* ---------------------- Salat yang Mewajibkan Niat Berjamaah ---------------------- */
     {
-      ar: "الَّذِي يَلْزَمُ فِيهِ نِيَّةُ الْإِمَامَةِ أَرْبَعٌ",
-      sd: "Ari perkara anu diwajibkeun niat jadi imam di jerona, éta aya opat.",
-      id: "Perkara yang mengharuskan niat menjadi imam ada empat.",
-    },
-    {
-      ar: "الْجُمُعَةُ",
-      sd: "Anu kahiji, salat Jumat.",
-      id: "Pertama, salat Jumat.",
-    },
-    {
-      ar: "وَالْمُعَادَةُ",
-      sd: "Jeung salat anu diulang deui.",
-      id: "Dan salat yang diulang kembali.",
-    },
-    {
-      ar: "وَالْمَنْدُورَةُ جَمَاعَةً",
-      sd: "Jeung salat anu dinazarkeun kudu dilaksanakeun sacara berjamaah.",
-      id: "Dan salat yang dinazarkan untuk dilaksanakan secara berjamaah.",
-    },
-    {
-      ar: "وَالْمُتَقَدِّمَةُ فِي الْمَطَرِ",
-      sd: "Jeung salat anu dilaksanakeun ku cara jamak taqdim lantaran hujan.",
-      id: "Dan salat yang dilaksanakan dengan jamak taqdim karena hujan.",
-    },
-  ],
+      judul: "Salat yang Mewajibkan Niat Berjamaah",
+      ar:    "الَّذِي يَلْزَمُ فِيهِ نِيَّةُ الْإِمَامَةِ",
+      lat:   "jamaah jumat mu'adah mandzurah mukhtarah",
 
-  catatan: {
-    sd: [
-      "Niat imamah nyaéta niat dina haté yén dirina jadi imam pikeun jalma anu ngilu salat di tukangeunana. Dina opat perkara ieu, imam wajib nangtukeun niat imamah.",
-      "Salat mu'adah nyaéta salat fardu anu diulang deui pikeun kadua kalina, contona jalma anu geus salat sorangan tuluy ngulang deui salatna sacara berjamaah.",
-      "Salat mandurah jama'ah nyaéta salat anu dinazarkeun ku hiji jalma pikeun dilaksanakeun sacara berjamaah. Sedengkeun salat mutaqaddimah fil mathar nyaéta salat anu dijamak taqdim lantaran aya hujan, kalayan nyumponan sarat-saratna dina mazhab Syafi'i."
-    ],
-    id: [
-      "Niat imamah adalah niat dalam hati bahwa dirinya menjadi imam bagi orang yang mengikuti salat di belakangnya. Dalam empat perkara ini, imam wajib menetapkan niat sebagai imam.",
-      "Salat mu'adah adalah salat fardu yang diulang untuk kedua kalinya, misalnya seseorang yang telah salat sendirian kemudian mengulang salatnya secara berjamaah.",
-      "Salat mandurah jama'ah adalah salat yang dinazarkan oleh seseorang untuk dilaksanakan secara berjamaah. Adapun salat mutaqaddimah fil mathar adalah salat yang dijamak taqdim karena hujan, dengan memenuhi syarat-syaratnya menurut mazhab Syafi'i."
-    ],
-  },
-},
+      lines: [
+        {
+          ar: "الَّذِي يَلْزَمُ فِيهِ نِيَّةُ الْإِمَامَةِ أَرْبَعٌ",
+          sd: "Ari salat anu wajib dina éta salat niat jemaah (pikeun imam), éta aya opat.", 
+          id: "Salat yang diwajibkan di dalamnya niat berjamaah (bagi imam) itu ada empat." 
+        },
+        {
+          ar: "الْجُمُعَةُ",
+          sd: "(Anu ka-1) Nyaéta salat Jumaah.", 
+          id: "(Yang ke-1) Yaitu salat Jumat." 
+        },
+        {
+          ar: "وَالْمُعَادَاةُ",
+          sd: "Jeung (anu ka-2) salat mu'adah (anu diulang deui).", 
+          id: "Dan (yang ke-2) salat mu'adah (salat yang diulang)." 
+        },
+        {
+          ar: "وَالْمَنْذُورَةُ جَمَاعَةً",
+          sd: "Jeung (anu ka-3) salat anu dinazarkeun bari (kudu) jamaah.", 
+          id: "Dan (yang ke-3) salat yang dinazarkan secara berjamaah." 
+        },
+        {
+          ar: "وَالْمُتَقَدِّمَةُ فِي الْمَطَرِ",
+          sd: "Jeung (anu ka-4) salat anu diheulakeun (jamak taqdim) dina (waktu) hujan.", 
+          id: "Dan (yang ke-4) salat yang didahulukan (jamak taqdim) pada waktu hujan." 
+        }
+      ]
+    },
+
+   
+
   ],
 });
