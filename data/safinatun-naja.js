@@ -1095,6 +1095,144 @@
       ]
       // Catatan dihilangkan karena penjabarannya sudah jelas
     },
+    /* ---------------------- Uzur Salat ---------------------- */
+    {
+      judul: "Uzur Salat",
+      ar:    "أَعْذَارُ الصَّلَاةِ",
+      lat:   "uzur salat sare poho",
+
+      lines: [
+        {
+          ar: "أَعْذَارُ الصَّلَاةِ اثْنَانِ",
+          sd: "Ari pirang-pirang uzur (halangan) salat, éta aya dua perkara.",
+          id: "Uzur (halangan yang dimaafkan) dalam salat itu ada dua."
+        },
+        {
+          ar: "النَّوْمُ وَالنِّسْيَانُ",
+          sd: "(Anu ka-1) Nyaéta saré, jeung (anu ka-2) poho.",
+          id: "(Yang ke-1) Yaitu tidur, dan (yang ke-2) lupa."
+        }
+      ]
+      // Catatan dihilangkan karena penjabarannya sudah jelas
+    },
+
+    /* ---------------------- Syarat Sah Salat ---------------------- */
+    {
+      judul: "Syarat Sah Salat",
+      ar:    "شُرُوطُ الصَّلَاةِ",
+      lat:   "syarat sah salat aurat kiblat",
+
+      lines: [
+        {
+          ar: "شُرُوطُ الصَّلَاةِ ثَمَانِيَةٌ",
+          sd: "Ari pirang-pirang syarat sahna salat, éta aya dalapan perkara.",
+          id: "Syarat-syarat sah salat itu ada delapan perkara."
+        },
+        {
+          ar: "طَهَارَةُ الْحَدَثَيْنِ",
+          sd: "(Anu ka-1) Nyaéta suci tina dua hadas (leutik jeung badag).",
+          id: "(Yang ke-1) Yaitu suci dari dua hadas (kecil dan besar)."
+        },
+        {
+          ar: "وَالطَّهَارَةُ عَنِ النَّجَاسَةِ فِي الثَّوْبِ وَالْبَدَنِ وَالْمَكَانِ",
+          sd: "Jeung (anu ka-2) suci tina najis, dina pakéan, sarta awak, sarta tempat (salat).",
+          id: "Dan (yang ke-2) suci dari najis pada pakaian, badan, dan tempat (salat)."
+        },
+        {
+          ar: "وَسَتْرُ الْعَوْرَةِ",
+          sd: "Jeung (anu ka-3) nutupan aurat.",
+          id: "Dan (yang ke-3) menutup aurat."
+        },
+        {
+          ar: "وَاسْتِقْبَالُ الْقِبْلَةِ",
+          sd: "Jeung (anu ka-4) madep ka kiblat.",
+          id: "Dan (yang ke-4) menghadap kiblat."
+        },
+        {
+          ar: "وَدُخُولُ الْوَقْتِ",
+          sd: "Jeung (anu ka-5) asup waktu (salat).",
+          id: "Dan (yang ke-5) masuk waktu (salat)."
+        },
+        {
+          ar: "وَالْعِلْمُ بِفَرْضِيَّتِهَا",
+          sd: "Jeung (anu ka-6) nyaho kana farduna éta salat.",
+          id: "Dan (yang ke-6) mengetahui kefarduan salat tersebut."
+        },
+        {
+          ar: "وَأَنْ لَا يَعْتَقِدَ فَرْضًا مِنْ فُرُوضِهَا سُنَّةً",
+          sd: "Jeung (anu ka-7) yén ulah nekadkeun anjeunna kana hiji fardu tina pirang-pirang farduna salat, dianggap kana sunah.",
+          id: "Dan (yang ke-7) tidak meyakini satu fardu dari fardu-fardu salat sebagai sunah."
+        },
+        {
+          ar: "وَاجْتِنَابُ الْمُبْطِلَاتِ",
+          sd: "Jeung (anu ka-8) ngajauhan pirang-pirang perkara anu ngabatalkeun (kana salat).",
+          id: "Dan (yang ke-8) menjauhi segala perkara yang membatalkan (salat)."
+        }
+      ]
+      // Catatan dihilangkan karena penjabarannya sudah jelas
+    },
+
+    /* ---------------------- Pembagian Hadas ---------------------- */
+    {
+      judul: "Pembagian Hadas",
+      ar:    "الْأَحْدَاثُ",
+      lat:   "hadas leutik badag asghar akbar",
+
+      lines: [
+        {
+          ar: "الْأَحْدَاثُ اثْنَانِ : أَصْغَرُ وَأَكْبَرُ",
+          sd: "Ari pirang-pirang hadas, éta aya dua: Nyaéta (anu ka-1) hadas asghar (leutik), jeung (anu ka-2) hadas akbar (badag).",
+          id: "Hadas itu ada dua: Yaitu (yang ke-1) hadas asghar (kecil), dan (yang ke-2) hadas akbar (besar)."
+        },
+        {
+          ar: "فَالْأَصْغَرُ مَا أَوْجَبَ الْوُضُوءَ",
+          sd: "Mangka ari hadas asghar, éta perkara anu ngawajibkeun kana wudu.",
+          id: "Maka hadas asghar adalah sesuatu yang mewajibkan wudu."
+        },
+        {
+          ar: "وَالْأَكْبَرُ مَا أَوْجَبَ الْغُسْلَ",
+          sd: "Jeung ari hadas akbar, éta perkara anu ngawajibkeun kana adus (mandi).",
+          id: "Dan hadas akbar adalah sesuatu yang mewajibkan mandi besar."
+        }
+      ]
+      // Catatan dihilangkan karena penjabarannya sudah jelas
+    },
+
+    /* ---------------------- Batas Aurat ---------------------- */
+    {
+      judul: "Batas Aurat",
+      ar:    "الْعَوْرَاتُ",
+      lat:   "aurat lalaki awewe amat bujal tuur",
+
+      lines: [
+        {
+          ar: "الْعَوْرَاتُ أَرْبَعٌ",
+          sd: "Ari pirang-pirang aurat, éta aya opat (bagian).",
+          id: "Aurat itu ada empat (macam)."
+        },
+        {
+          ar: "عَوْرَةُ الرَّجُلِ مُطْلَقًا وَالْأَمَةِ فِي الصَّلَاةِ : مَا بَيْنَ السُّرَّةِ وَالرُّكْبَةِ",
+          sd: "(Anu ka-1) Ari auratna lalaki kalawan mutlak (dina jero jeung luar salat) sarta auratna amat (hamba sahaya awéwé) dina jero salat, éta bagéan awak antara bujal jeung tuur.",
+          id: "(Yang ke-1) Aurat laki-laki secara mutlak (di dalam maupun di luar salat) dan aurat amat (budak perempuan) di dalam salat adalah anggota tubuh antara pusar dan lutut."
+        },
+        {
+          ar: "وَعَوْرَةُ الْحُرَّةِ فِي الصَّلَاةِ : جَمِيعُ بَدَنِهَا مَا سِوَى الْوَجْهِ وَالْكَفَّيْنِ",
+          sd: "(Anu ka-2) Jeung ari auratna awéwé merdéka dina jero salat, éta sakabéh awakna iwal beungeut jeung dua dampal leungeun.",
+          id: "(Yang ke-2) Dan aurat wanita merdeka di dalam salat adalah seluruh badannya kecuali wajah dan kedua telapak tangan."
+        },
+        {
+          ar: "وَعَوْرَةُ الْحُرَّةِ وَالْأَمَةِ عِنْدَ الْأَجَانِبِ : جَمِيعُ الْبَدَنِ",
+          sd: "(Anu ka-3) Jeung ari auratna awéwé merdéka sarta amat nalika aya di hareupeun lalaki ajnabi (lain mahram), éta sakabéh awak.",
+          id: "(Yang ke-3) Dan aurat wanita merdeka serta amat ketika berada di depan laki-laki ajnabi (bukan mahram) adalah seluruh badan."
+        },
+        {
+          ar: "وَعِنْدَ مَحَارِمِهِمَا وَالنِّسَاءِ : مَا بَيْنَ السُّرَّةِ وَالرُّكْبَةِ",
+          sd: "(Anu ka-4) Jeung nalika di hareupeun mahramna maranéhna sarta di hareupeun papada awéwé, éta bagéan awak antara bujal jeung tuur.",
+          id: "(Yang ke-4) Dan di hadapan mahram keduanya serta di hadapan sesama wanita, adalah anggota tubuh antara pusar dan lutut."
+        }
+      ]
+      // Catatan dihilangkan karena penjabarannya sudah jelas
+    },
 
   ],
 });
