@@ -990,6 +990,111 @@
       ]
       // Catatan dihapus karena terjemahannya sudah maklum dan jelas
     },
+    /* ---------------------- Cara Mensucikan Najis ---------------------- */
+    {
+      judul: "Cara Mensucikan Najis",
+      ar:    "كَيْفِيَّةُ تَطْهِيرِ النَّجَاسَةِ",
+      lat:   "cara mensucikan najis mughallazhah mukhaffafah mutawassithah",
+
+      lines: [
+        {
+          ar: "الْمُغَلَّظَةُ تَطْهُرُ بِسَبْعِ غَسَلَاتٍ بَعْدَ إِزَالَةِ عَيْنِهَا",
+          sd: "Ari najis mughallazhah, éta bisa suci ku tujuh kali basuhan, sanggeus diilangkeun heula wujud ('ain) najisna.",
+          id: "Najis mughallazhah itu dapat suci dengan tujuh kali basuhan, setelah dihilangkan terlebih dahulu wujud najisnya."
+        },
+        {
+          ar: "إِحْدَاهُنَّ بِتُرَابٍ",
+          sd: "Ari salah sahijina tina éta basuhan (anu tujuh), éta kudu dicampur ku taneuh.",
+          id: "Salah satu dari basuhan (yang tujuh) tersebut harus dicampur dengan debu/tanah."
+        },
+        {
+          ar: "وَالْمُخَفَّفَةُ تَطْهُرُ بِرَشِّ الْمَاءِ عَلَيْهَا مَعَ الْغَلَبَةِ وَإِزَالَةِ عَيْنِهَا",
+          sd: "Jeung ari najis mukhaffafah, éta bisa suci kalawan diképrétkeun cai kana éta najis, bari caina kudu leuwih loba (éléh) najisna, sarta diilangkeun wujud najisna.",
+          id: "Dan najis mukhaffafah itu dapat suci dengan memercikkan air ke atasnya dengan merata (airnya lebih dominan/banyak), dan dihilangkan wujud najisnya."
+        },
+        {
+          ar: "وَالْمُتَوَسِّطَةُ تَنْقَسِمُ عَلَى قِسْمَيْنِ : عَيْنِيَّةٍ وَحُكْمِيَّةٍ",
+          sd: "Jeung ari najis mutawassithah, éta kabagi kana dua bagian: Nyaéta (anu ka-1) najis 'ainiyyah jeung (anu ka-2) najis hukmiyyah.",
+          id: "Dan najis mutawassithah itu terbagi menjadi dua bagian: Yaitu (yang ke-1) najis 'ainiyyah dan (yang ke-2) najis hukmiyyah."
+        },
+        {
+          ar: "الْعَيْنِيَّةُ : الَّتِي لَهَا لَوْنٌ وَرِيحٌ وَطَعْمٌ",
+          sd: "Ari najis 'ainiyyah, éta najis anu aya warnaan, aya ambeuan, jeung aya rasaan.",
+          id: "Najis 'ainiyyah adalah najis yang memiliki warna, bau, dan rasa."
+        },
+        {
+          ar: "فَلَا بُدَّ مِنْ إِزَالَةِ لَوْنِهَا وَرِيحِهَا وَطَعْمِهَا",
+          sd: "Mangka wajib diilangkeun heula warnana, ambeuna, sarta rasana.",
+          id: "Maka wajib dihilangkan terlebih dahulu warnanya, baunya, dan rasanya."
+        },
+        {
+          ar: "وَالْحُكْمِيَّةُ : الَّتِي لَا لَوْنَ وَلَا رِيحَ وَلَا طَعْمَ لَهَا",
+          sd: "Jeung ari najis hukmiyyah, éta najis anu geus euweuh warnaan, euweuh ambeuan, jeung euweuh rasaan.",
+          id: "Dan najis hukmiyyah adalah najis yang sudah tidak memiliki warna, bau, maupun rasa."
+        },
+        {
+          ar: "يَكْفِيكَ جَرْيُ الْمَاءِ عَلَيْهَا",
+          sd: "Mangka nyukupkeun ka anjeun kalawan ngocorkeun wungkul kana éta cai kana tempat najisna.",
+          id: "Maka cukuplah bagimu dengan hanya mengalirkan air ke atas tempat najis tersebut."
+        }
+      ]
+      // Catatan dihilangkan karena penjabarannya sudah jelas
+    },
+    /* ---------------------- Batas Waktu Haid dan Nifas ---------------------- */
+    {
+      judul: "Batas Waktu Haid, Suci, dan Nifas",
+      ar:    "مُدَّةُ الْحَيْضِ وَالطُّهْرِ وَالنِّفَاسِ",
+      lat:   "waktu haid suci nifas masa batas",
+
+      lines: [
+        {
+          ar: "أَقَلُّ الْحَيْضِ يَوْمٌ وَلَيْلَةٌ",
+          sd: "Ari pangsaeutikna haid, éta sapoé sapeuting.",
+          id: "Paling sedikitnya masa haid adalah sehari semalam."
+        },
+        {
+          ar: "وَغَالِبُهُ سِتٌّ أَوْ سَبْعٌ",
+          sd: "Jeung ari galibna (biasana) haid, éta genep atawa tujuh (poé).",
+          id: "Dan kebiasaannya adalah enam atau tujuh hari."
+        },
+        {
+          ar: "وَأَكْثَرُهُ خَمْسَةَ عَشَرَ يَوْمًا بِلَيَالِيهَا",
+          sd: "Jeung ari panglobana haid, éta lima welas poé sarta pirang-pirang peutingna.",
+          id: "Dan paling maksimalnya adalah lima belas hari beserta malam-malamnya."
+        },
+        {
+          ar: "أَقَلُّ الطُّهْرِ بَيْنَ الْحَيْضَتَيْنِ خَمْسَةَ عَشَرَ يَوْمًا",
+          sd: "Ari pangsaeutikna (waktu) suci di antara dua haid, éta lima welas poé.",
+          id: "Paling sedikitnya masa suci di antara dua masa haid adalah lima belas hari."
+        },
+        {
+          ar: "وَغَالِبُهُ أَرْبَعَةٌ وَعِشْرُونَ يَوْمًا أَوْ ثَلَاثَةٌ وَعِشْرُونَ يَوْمًا",
+          sd: "Jeung ari galibna (biasana) waktu suci, éta dua puluh opat poé atawa dua puluh tilu poé.",
+          id: "Dan kebiasaannya adalah dua puluh empat hari atau dua puluh tiga hari."
+        },
+        {
+          ar: "وَلَا حَدَّ لِأَكْثَرِهِ",
+          sd: "Jeung éta teu aya wates pikeun panglobana (waktu suci).",
+          id: "Dan tidak ada batasan untuk waktu maksimalnya (masa suci)."
+        },
+        {
+          ar: "أَقَلُّ النِّفَاسِ مَجَّةٌ",
+          sd: "Ari pangsaeutikna nifas, éta sakedét (sacrotan).",
+          id: "Paling sedikitnya nifas adalah setetes/sebenter saja."
+        },
+        {
+          ar: "وَغَالِبُهُ أَرْبَعُونَ يَوْمًا",
+          sd: "Jeung ari galibna (biasana) nifas, éta opat puluh poé.",
+          id: "Dan kebiasaannya adalah empat puluh hari."
+        },
+        {
+          ar: "وَأَكْثَرُهُ سِتُّونَ يَوْمًا",
+          sd: "Jeung ari panglobana nifas, éta sawidak (genep puluh) poé.",
+          id: "Dan paling maksimalnya adalah enam puluh hari."
+        }
+      ]
+      // Catatan dihilangkan karena penjabarannya sudah jelas
+    },
 
   ],
 });
