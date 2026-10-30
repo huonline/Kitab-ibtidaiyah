@@ -2102,6 +2102,55 @@
         }
       ]
     },
+    /* ---------------------- Ab'adhus Salat ---------------------- */
+    {
+      judul: "Sunah Ab'ad dalam Salat",
+      ar:    "أَبْعَاضُ الصَّلَاةِ",
+      lat:   "ab'adhus shalat sunah ab'ad tasyahud awal qunut",
+
+      lines: [
+        {
+          ar: "أَبْعَاضُ الصَّلَاةِ سَبْعَةٌ",
+          sd: "Ari pirang-pirang sunah ab'ad dina salat, éta aya tujuh.",
+          id: "Sunah-sunah ab'ad dalam salat itu ada tujuh."
+        },
+        {
+          ar: "التَّشَهُّدُ الْأَوَّلُ",
+          sd: "(Anu ka-1) Nyaéta tasyahud awal[span_2](start_span)[span_2](end_span).",
+          id: "(Yang ke-1) Yaitu tasyahud awal[span_3](start_span)[span_3](end_span)."
+        },
+        {
+          ar: "وَقُعُودُهُ",
+          sd: "Jeung (anu ka-2) diukna tasyahud awal[span_4](start_span)[span_4](end_span).",
+          id: "Dan (yang ke-2) duduknya[span_5](start_span)[span_5](end_span)."
+        },
+        {
+          ar: "وَالصَّلَاةُ عَلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِيهِ",
+          sd: "Jeung (anu ka-3) maca salawat ka Nabi shallallahu 'alaihi wasallam dina éta tasyahud awal[span_6](start_span)[span_6](end_span).",
+          id: "Dan (yang ke-3) membaca selawat kepada Nabi shallallahu 'alaihi wasallam di dalamnya[span_7](start_span)[span_7](end_span)."
+        },
+        {
+          ar: "وَالصَّلَاةُ عَلَى الْآلِ التَّشَهُّدِ الْأَخِيرِ",
+          sd: "Jeung (anu ka-4) maca salawat ka kulawarga Nabi dina (fī) tasyahud akhir[span_8](start_span)[span_8](end_span).",
+          id: "Dan (yang ke-4) membaca selawat kepada keluarga Nabi pada tasyahud akhir[span_9](start_span)[span_9](end_span)."
+        },
+        {
+          ar: "وَالْقُنُوتُ",
+          sd: "Jeung (anu ka-5) maca doa qunut[span_10](start_span)[span_10](end_span).",
+          id: "Dan (yang ke-5) qunut[span_11](start_span)[span_11](end_span)."
+        },
+        {
+          ar: "وَقِيَامُهُ",
+          sd: "Jeung (anu ka-6) nangtungna qunut.",
+          id: "Dan (yang ke-6) berdiri ketika qunut."
+        },
+        {
+          ar: "وَالصَّلَاةُ عَلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَآلِهِ فِيهِ",
+          sd: "Jeung (anu ka-7) maca salawat ka Nabi shallallahu 'alaihi wasallam sarta kulawargana dina éta qunut[span_12](start_span)[span_12](end_span).",
+          id: "Dan (yang ke-7) membaca selawat kepada Nabi shallallahu 'alaihi wasallam beserta keluarganya di dalamnya[span_13](start_span)[span_13](end_span)."
+        }
+      ]
+    },
 
 
   ],
