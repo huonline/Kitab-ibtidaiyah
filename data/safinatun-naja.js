@@ -2468,6 +2468,229 @@
         id: ["Dua marhalah setara dengan jarak kurang lebih 82 km hingga 89 km menurut mayoritas ulama fikih."]
       }
     },
+    /* ---------------------- Syarat Salat Jumaah ---------------------- */
+    {
+      judul: "Syarat Salat Jumaah",
+      ar:    "شُرُوطُ الْجُمُعَةِ",
+      lat:   "syarat jumat jumaah",
+
+      lines: [
+        {
+          ar: "شُرُوطُ الْجُمُعَةِ سِتَّةٌ",
+          sd: "Ari pirang-pirang syarat Jumaah, éta aya genep.", //[span_1](start_span)[span_1](end_span)
+          id: "Syarat-syarat salat Jumat itu ada enam." //[span_2](start_span)[span_2](end_span)
+        },
+        {
+          ar: "أَنْ تَكُونَ كُلُّهَا فِي وَقْتِ الظُّهْرِ",
+          sd: "(Anu ka-1) Nyaéta yén bukti sakabéhna Jumaah (salat jeung khutbahna), éta tetep dina waktu Zuhur.", //[span_3](start_span)[span_3](end_span)
+          id: "(Yang ke-1) Yaitu seluruh pelaksanaannya (salat dan khutbah) harus berada pada waktu Zuhur." //[span_4](start_span)[span_4](end_span)
+        },
+        {
+          ar: "وَأَنْ تُقَامَ فِي خُطَّةِ الْبَلَدِ",
+          sd: "Jeung (anu ka-2) yén diadegkeun (naonna) éta Jumaah téh, tetep dina wates (wewengkon) nagara (désa/perkampungan).", //[span_5](start_span)[span_5](end_span)
+          id: "Dan (yang ke-2) pelaksanaannya harus didirikan di dalam batas suatu negeri (desa/pemukiman)." //[span_6](start_span)[span_6](end_span)
+        },
+        {
+          ar: "وَأَنْ تُصَلَّى جَمَاعَةً",
+          sd: "Jeung (anu ka-3) yén dipigawé (naonna) éta salat Jumaah téh, halna jamaah.", //[span_7](start_span)[span_7](end_span)
+          id: "Dan (yang ke-3) salatnya harus dilaksanakan secara berjamaah." //[span_8](start_span)[span_8](end_span)
+        },
+        {
+          ar: "وَأَنْ يَكُونُوا أَرْبَعِينَ أَحْرَارًا ذُكُورًا بَالِغِينَ مُسْتَوْطِنِينَ",
+          sd: "Jeung (anu ka-4) yén bukti (naonna) jamaahna téh opat puluh, halna lalaki kabéh, halna baligh kabéh, halna anu nyicingan (mustauthin) kabéh.", //[span_9](start_span)[span_9](end_span)
+          id: "Dan (yang ke-4) jamaahnya harus berjumlah empat puluh orang merdeka, laki-laki, baligh, dan penduduk tetap (mustauthin)." //[span_10](start_span)[span_10](end_span)
+        },
+        {
+          ar: "وَأَنْ لَا تَسْبِقَهَا وَلَا تُقَارِنَهَا جُمُعَةٌ فِي تِلْكَ الْبَلَدِ",
+          sd: "Jeung (anu ka-5) yén ulah miheulaan ka éta Jumaah, jeung ulah ngabarengan ka éta Jumaah, (naonna) Jumaah séjén, tetep dina éta nagara (désa).", //[span_11](start_span)[span_11](end_span)
+          id: "Dan (yang ke-5) pelaksanaannya tidak didahului atau dibarengi oleh (pelaksanaan) salat Jumat lain di tempat tersebut." //[span_12](start_span)[span_12](end_span)
+        },
+        {
+          ar: "وَأَنْ يَتَقَدَّمَهَا خُطْبَتَانِ",
+          sd: "Jeung (anu ka-6) yén kudu miheulaan ka éta Jumaah, (naonna) dua khutbah.", //[span_13](start_span)[span_13](end_span)
+          id: "Dan (yang ke-6) salat Jumat tersebut harus didahului oleh dua khutbah." //[span_14](start_span)[span_14](end_span)
+        }
+      ]
+    },
+
+    /* ---------------------- Rukun Khutbah ---------------------- */
+    {
+      judul: "Rukun Dua Khutbah",
+      ar:    "أَرْكَانُ الْخُطْبَتَيْنِ",
+      lat:   "rukun khutbah jumat jumaah",
+
+      lines: [
+        {
+          ar: "أَرْكَانُ الْخُطْبَتَيْنِ خَمْسَةٌ",
+          sd: "Ari pirang-pirang rukun dua khutbah, éta aya lima.", //[span_15](start_span)[span_15](end_span)
+          id: "Rukun-rukun dua khutbah itu ada lima." //[span_16](start_span)[span_16](end_span)
+        },
+        {
+          ar: "حَمْدُ اللهِ فِيهِمَا",
+          sd: "(Anu ka-1) Nyaéta (maca) puji ka Allah (Alhamdulillah), tetep dina éta dua khutbah.", //[span_17](start_span)[span_17](end_span)
+          id: "(Yang ke-1) Yaitu memuji Allah (Alhamdulillah) pada kedua khutbah tersebut." //[span_18](start_span)[span_18](end_span)
+        },
+        {
+          ar: "وَالصَّلَاةُ عَلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِيهِمَا",
+          sd: "Jeung (anu ka-2) maca salawat ka Nabi shallallahu 'alaihi wasallam, tetep dina éta dua khutbah.", //[span_19](start_span)[span_19](end_span)
+          id: "Dan (yang ke-2) membaca selawat kepada Nabi shallallahu 'alaihi wasallam pada kedua khutbah." //[span_20](start_span)[span_20](end_span)
+        },
+        {
+          ar: "وَالْوَصِيَّةُ بِالتَّقْوَى فِيهِمَا",
+          sd: "Jeung (anu ka-3) wasiat kana takwa, tetep dina éta dua khutbah.", //[span_21](start_span)[span_21](end_span)
+          id: "Dan (yang ke-3) berwasiat untuk bertakwa pada kedua khutbah." //[span_22](start_span)[span_22](end_span)
+        },
+        {
+          ar: "وَقِرَاءَةُ آيَةٍ مِنَ الْقُرْآنِ فِي إِحْدَاهُمَا",
+          sd: "Jeung (anu ka-4) maca sahiji ayat tina (Al)-Qur'an, tetep dina salah sahijina éta dua khutbah.", //[span_23](start_span)[span_23](end_span)
+          id: "Dan (yang ke-4) membaca satu ayat dari Al-Qur'an pada salah satu dari dua khutbah tersebut." //[span_24](start_span)[span_24](end_span)
+        },
+        {
+          ar: "وَالدُّعَاءُ لِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ فِي الْأَخِيرَةِ",
+          sd: "Jeung (anu ka-5) ngadoakeun ka pirang-pirang mukmin lalaki jeung mukmin awéwé, tetep dina khutbah anu ahir (kadua).", //[span_25](start_span)[span_25](end_span)
+          id: "Dan (yang ke-5) berdoa untuk mukminin dan mukminat pada khutbah yang terakhir (kedua)." //[span_26](start_span)[span_26](end_span)
+        }
+      ]
+    },
+
+    /* ---------------------- Syarat Khutbah ---------------------- */
+    {
+      judul: "Syarat Dua Khutbah",
+      ar:    "شُرُوطُ الْخُطْبَتَيْنِ",
+      lat:   "syarat khutbah jumat",
+
+      lines: [
+        {
+          ar: "شُرُوطُ الْخُطْبَتَيْنِ عَشَرَةٌ",
+          sd: "Ari pirang-pirang syarat dua khutbah, éta aya sapuluh.", //[span_27](start_span)[span_27](end_span)
+          id: "Syarat-syarat dua khutbah itu ada sepuluh." //[span_28](start_span)[span_28](end_span)
+        },
+        {
+          ar: "الطَّهَارَةُ عَنِ الْحَدَثَيْنِ الْأَصْغَرِ وَالْأَكْبَرِ",
+          sd: "(Anu ka-1) Nyaéta suci tina dua hadas, hadas leutik jeung hadas badag.", //[span_29](start_span)[span_29](end_span)
+          id: "(Yang ke-1) Yaitu suci dari dua hadas (kecil dan besar)." //[span_30](start_span)[span_30](end_span)
+        },
+        {
+          ar: "وَالطَّهَارَةُ عَنِ النَّجَاسَةِ فِي الثَّوْبِ وَالْبَدَنِ وَالْمَكَانِ",
+          sd: "Jeung (anu ka-2) suci tina najis, tetep dina pakéan, sarta awak, jeung tempatna.", //[span_31](start_span)[span_31](end_span)
+          id: "Dan (yang ke-2) suci dari najis pada pakaian, badan, dan tempat." //[span_32](start_span)[span_32](end_span)
+        },
+        {
+          ar: "وَسَتْرُ الْعَوْرَةِ",
+          sd: "Jeung (anu ka-3) nutupan aurat.", //[span_33](start_span)[span_33](end_span)
+          id: "Dan (yang ke-3) menutup aurat." //[span_34](start_span)[span_34](end_span)
+        },
+        {
+          ar: "وَالْقِيَامُ عَلَى الْقَادِرِ",
+          sd: "Jeung (anu ka-4) nangtung pikeun jalma anu mampuh.", //[span_35](start_span)[span_35](end_span)
+          id: "Dan (yang ke-4) berdiri bagi orang yang mampu." //[span_36](start_span)[span_36](end_span)
+        },
+        {
+          ar: "وَالْجُلُوسُ بَيْنَهُمَا فَوْقَ طُمَأْنِينَةِ الصَّلَاةِ",
+          sd: "Jeung (anu ka-5) diuk di antara éta dua khutbah, (ukuranana) ngaleuwihan tumaninahna salat.", //[span_37](start_span)[span_37](end_span)
+          id: "Dan (yang ke-5) duduk di antara kedua khutbah dengan durasi melebihi batas tumaninah salat." //[span_38](start_span)[span_38](end_span)
+        },
+        {
+          ar: "وَالْمُوَالَاةُ بَيْنَهُمَا وَبَيْنَ الصَّلَاةِ",
+          sd: "Jeung (anu ka-6) tuluy-tuluy antara éta dua khutbah jeung antara salat (Jumaah).", //[span_39](start_span)[span_39](end_span)
+          id: "Dan (yang ke-6) berkesinambungan antara kedua khutbah dan antara (khutbah dengan) salat Jumat." //[span_40](start_span)[span_40](end_span)
+        },
+        {
+          ar: "وَأَنْ تَكُونَ بِالْعَرَبِيَّةِ",
+          sd: "Jeung (anu ka-7) yén bukti (naonna) khutbahna téh kalawan maké basa Arab.", //[span_41](start_span)[span_41](end_span)
+          id: "Dan (yang ke-7) khutbah tersebut menggunakan bahasa Arab." //[span_42](start_span)[span_42](end_span)
+        },
+        {
+          ar: "وَأَنْ يُسْمِعَهَا أَرْبَعُونَ",
+          sd: "Jeung (anu ka-8) yén bisa ngadéngékeun kana éta (khutbah) téh, (ku) opat puluh urang jamaah.", //[span_43](start_span)[span_43](end_span)
+          id: "Dan (yang ke-8) dapat diperdengarkan kepada empat puluh orang jamaah." //[span_44](start_span)[span_44](end_span)
+        },
+        {
+          ar: "وَأَنْ تَكُونَ كُلُّهَا فِي وَقْتِ الظُّهْرِ",
+          sd: "Jeung (anu ka-9 & 10) yén bukti (naonna) sakabéh éta khutbah téh, tetep dina waktu Zuhur.", //[span_45](start_span)[span_45](end_span)
+          id: "Dan (yang ke-9 & 10) pelaksanaan seluruh khutbahnya harus berada di dalam waktu Zuhur." //[span_46](start_span)[span_46](end_span)
+        }
+      ],
+      catatan: {
+        sd: ["Dina matan nyebutkeun 10 syarat, tapi dina riyincian ukur ngitung 9, lantaran syarat ka-9 jeung ka-10 dipadukeun (jadi hiji kalam) numutkeun sababaraha naskah, atanapi aya ragragna kalimah dina seueur citakan."],
+        id: ["Dalam judul disebutkan ada 10 syarat, namun perinciannya hanya tampak 9. Hal ini dikarenakan syarat ke-9 dan ke-10 tergabung, atau ada redaksi yang hilang pada beberapa naskah cetakan."]
+      }
+    },
+
+    /* ---------------------- Kawajiban Pulasara Mayit ---------------------- */
+    {
+      judul: "Kewajiban Mengurus Jenazah",
+      ar:    "الَّذِي يَلْزَمُ لِلْمَيِّتِ",
+      lat:   "mayit ngurus jenazah ngamandian",
+
+      lines: [
+        {
+          ar: "الَّذِي يَلْزَمُ لِلْمَيِّتِ أَرْبَعُ خِصَالٍ",
+          sd: "Ari perkara anu wajib pikeun (kaperluan) mayit, éta aya opat pirang-pirang perkara.", //[span_47](start_span)[span_47](end_span)
+          id: "Hal yang wajib dilakukan bagi mayit itu ada empat perkara." //[span_48](start_span)[span_48](end_span)
+        },
+        {
+          ar: "غُسْلُهُ",
+          sd: "(Anu ka-1) Nyaéta ngamandian éta mayit.", //[span_49](start_span)[span_49](end_span)
+          id: "(Yang ke-1) Yaitu memandikannya." //[span_50](start_span)[span_50](end_span)
+        },
+        {
+          ar: "وَتَكْفِينُهُ",
+          sd: "Jeung (anu ka-2) mungkus éta mayit (ku boéh).", //[span_51](start_span)[span_51](end_span)
+          id: "Dan (yang ke-2) mengafaninya." //[span_52](start_span)[span_52](end_span)
+        },
+        {
+          ar: "وَالصَّلَاةُ عَلَيْهِ",
+          sd: "Jeung (anu ka-3) nyolatan ka éta mayit.", //[span_53](start_span)[span_53](end_span)
+          id: "Dan (yang ke-3) menyalatkannya." //[span_54](start_span)[span_54](end_span)
+        },
+        {
+          ar: "وَدَفْنُهُ",
+          sd: "Jeung (anu ka-4) ngaruang (ngubur) éta mayit.", //[span_55](start_span)[span_55](end_span)
+          id: "Dan (yang ke-4) memakamkannya." //[span_56](start_span)[span_56](end_span)
+        }
+      ]
+    },
+
+    /* ---------------------- Ngamandian Mayit ---------------------- */
+    {
+      judul: "Cara Memandikan Jenazah",
+      ar:    "أَقَلُّ الْغُسْلِ وَأَكْمَلُهُ",
+      lat:   "ngamandian mayit adus ghuslu",
+
+      lines: [
+        {
+          ar: "أَقَلُّ الْغُسْلِ : تَعْمِيمُ بَدَنِهِ بِالْمَاءِ",
+          sd: "Ari pangsaeutikna (batas minimal) ngamandian (mayit), nyaéta ngaratakeun sakabéh awakna ku cai.", //[span_57](start_span)[span_57](end_span)
+          id: "Minimalnya memandikan (mayit) adalah meratakan seluruh badannya dengan air." //[span_58](start_span)[span_58](end_span)
+        },
+        {
+          ar: "وَأَكْمَلُهُ : أَنْ يَغْسِلَ سَوْأَتَيْهِ",
+          sd: "Jeung ari pongsampurnana ngamandian, nyaéta yén kudu ngumbah (naonna anu ngamandian) kana dua kokotorna (qubul jeung dubur mayit).", //[span_59](start_span)[span_59](end_span)
+          id: "Dan sesempurnanya memandikan adalah membasuh kedua tempat kotorannya (qubul dan dubur)." //[span_60](start_span)[span_60](end_span)
+        },
+        {
+          ar: "وَأَنْ يُزِيلَ الْقَذَرَ مِنْ أَنْفِهِ",
+          sd: "Jeung (anu ka-2) yén kudu ngilangkeun kana kokotor tina irungna (mayit).", //[span_61](start_span)[span_61](end_span)
+          id: "Dan (yang ke-2) menghilangkan kotoran dari hidungnya." //[span_62](start_span)[span_62](end_span)
+        },
+        {
+          ar: "وَأَنْ يُوَضِّئَهُ",
+          sd: "Jeung (anu ka-3) yén kudu ngawudukeun ka éta mayit.", //[span_63](start_span)[span_63](end_span)
+          id: "Dan (yang ke-3) mewudukannya." //[span_64](start_span)[span_64](end_span)
+        },
+        {
+          ar: "وَأَنْ يَدْلُكَ بَدَنَهُ بِالسِّدْرِ",
+          sd: "Jeung (anu ka-4) yén kudu ngagosok kana awakna (mayit) ku daun bidara.", //[span_65](start_span)[span_65](end_span)
+          id: "Dan (yang ke-4) menggosok badannya dengan daun bidara." //[span_66](start_span)[span_66](end_span)
+        },
+        {
+          ar: "وَأَنْ يَصُبَّ الْمَاءَ عَلَيْهِ ثَلَاثًا",
+          sd: "Jeung (anu ka-5) yén kudu nyicikeun cai ka éta mayit, halna tilu (kali).", //[span_67](start_span)[span_67](end_span)
+          id: "Dan (yang ke-5) menyiramkan air kepadanya sebanyak tiga kali." //[span_68](start_span)[span_68](end_span)
+        }
+      ]
+    },
 
 
   ],
