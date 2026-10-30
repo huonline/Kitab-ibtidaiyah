@@ -1464,6 +1464,644 @@
       ]
       // Catatan dihilangkan karena ke-16 syaratnya sudah utuh
     },
+    /* ---------------------- Syarat Fatihah ---------------------- */
+    {
+      judul: "Syarat Membaca Al-Fatihah",
+      ar:    "شُرُوطُ الْفَاتِحَةِ",
+      lat:   "syarat fatihah maca surat",
+
+      lines: [
+        {
+          ar: "شُرُوطُ الْفَاتِحَةِ عَشَرَةٌ",
+          sd: "Ari pirang-pirang syarat (maca) Fatihah, éta aya sapuluh.",
+          id: "Syarat-syarat (membaca) Al-Fatihah itu ada sepuluh."
+        },
+        {
+          ar: "التَّرْتِيبُ",
+          sd: "(Anu ka-1) Nyaéta tartib (runtuy).",
+          id: "(Yang ke-1) Yaitu tertib (berurutan ayatnya)."
+        },
+        {
+          ar: "وَالْمُوَالَاةُ",
+          sd: "Jeung (anu ka-2) tuluy-tuluy (muwalah).",
+          id: "Dan (yang ke-2) berkesinambungan (tanpa jeda lama)."
+        },
+        {
+          ar: "وَمُرَاعَاةُ حُرُوفِهَا",
+          sd: "Jeung (anu ka-3) ngaraksa kana huruf-hurufna Fatihah.",
+          id: "Dan (yang ke-3) menjaga huruf-hurufnya."
+        },
+        {
+          ar: "وَمُرَاعَاةُ تَشْدِيدَاتِهَا",
+          sd: "Jeung (anu ka-4) ngaraksa kana pirang-pirang tasydidna Fatihah.",
+          id: "Dan (yang ke-4) menjaga tasydid-tasydidnya."
+        },
+        {
+          ar: "وَأَنْ لَا يَسْكُتَ سَكْتَةً طَوِيلَةً وَلَا قَصِيرَةً يَقْصِدُ بِهَا قَطْعَ الْقِرَاءَةِ",
+          sd: "Jeung (anu ka-5) yén ulah cicing (eureun) kalawan cicing anu lila, jeung ulah ku cicing anu sakeudeung anu neja manéhna ku éta cicing kana megatkeun bacaan.",
+          id: "Dan (yang ke-5) tidak diam dengan jeda yang lama, maupun jeda yang sebentar yang diniatkan untuk memutus bacaan."
+        },
+        {
+          ar: "وَقِرَاءَةُ كُلِّ آيَاتِهَا وَمِنْهَا الْبَسْمَلَةُ",
+          sd: "Jeung (anu ka-6) maca kana sakabéh ayatna Fatihah, jeung satengah tina ayatna téh nyaéta Basmalah.",
+          id: "Dan (yang ke-6) membaca seluruh ayatnya, dan termasuk di dalamnya adalah (membaca) Basmalah."
+        },
+        {
+          ar: "وَعَدَمُ اللَّحْنِ الْمُخِلِّ بِالْمَعْنَى",
+          sd: "Jeung (anu ka-7) euweuh kasalahan bacaan anu bisa ngaruksak kana ma'nana.",
+          id: "Dan (yang ke-7) tidak ada kesalahan bacaan yang merusak maknanya."
+        },
+        {
+          ar: "وَأَنْ تَكُونَ حَالَةَ الْقِيَامِ فِي الْفَرْضِ",
+          sd: "Jeung (anu ka-8) yén kabuktian maca Fatihah téh dina tingkah nangtung dina (salat) fardu.",
+          id: "Dan (yang ke-8) membacanya harus dalam keadaan berdiri pada (salat) fardu."
+        },
+        {
+          ar: "وَأَنْ يُسْمِعَ نَفْسَهُ الْقِرَاءَةَ",
+          sd: "Jeung (anu ka-9) yén kudu ngadéngékeun manéhna kana dirina sorangan kana éta bacaan.",
+          id: "Dan (yang ke-9) ia harus mendengarkan bacaan itu pada dirinya sendiri."
+        },
+        {
+          ar: "وَأَنْ لَا يَتَخَلَّلَهَا ذِكْرٌ أَجْنَبِيٌّ",
+          sd: "Jeung (anu ka-10) yén ulah nyela-nyela kana Fatihah ku zikir ajnabi (zikir séjén anu euweuh patalina jeung salat).",
+          id: "Dan (yang ke-10) tidak diselingi oleh zikir ajnabi (zikir lain yang tidak berkaitan dengan salat)."
+        }
+      ]
+      // Catatan dihilangkan karena penjabarannya sudah jelas
+    },
+
+    /* ---------------------- Tasydid Fatihah ---------------------- */
+    {
+      judul: "Tasydid dalam Al-Fatihah",
+      ar:    "تَشْدِيدَاتُ الْفَاتِحَةِ",
+      lat:   "tasydid fatihah",
+
+      lines: [
+        {
+          ar: "تَشْدِيدَاتُ الْفَاتِحَةِ أَرْبَعَ عَشْرَةَ",
+          sd: "Ari pirang-pirang tasydid dina surat Fatihah, éta aya opat belas.",
+          id: "Tasydid-tasydid dalam surat Al-Fatihah itu ada empat belas."
+        },
+        {
+          ar: "بِسْمِ اللهِ فَوْقَ اللَّامِ",
+          sd: "(Anu ka-1) Dina lapad 'Bismillāhi' aya di luhureun huruf lam.",
+          id: "(Yang ke-1) Pada lafal 'Bismillāhi' berada di atas huruf lam."
+        },
+        {
+          ar: "الرَّحْمٰنِ فَوْقَ الرَّاءِ",
+          sd: "(Anu ka-2) Dina lapad 'Ar-Raḥmāni' aya di luhureun huruf ra.",
+          id: "(Yang ke-2) Pada lafal 'Ar-Raḥmāni' berada di atas huruf ra."
+        },
+        {
+          ar: "الرَّحِيمِ فَوْقَ الرَّاءِ",
+          sd: "(Anu ka-3) Dina lapad 'Ar-Raḥīmi' aya di luhureun huruf ra.",
+          id: "(Yang ke-3) Pada lafal 'Ar-Raḥīmi' berada di atas huruf ra."
+        },
+        {
+          ar: "الْحَمْدُ لِلّٰهِ فَوْقَ لَامِ الْجَلَالَةِ",
+          sd: "(Anu ka-4) Dina lapad 'Alḥamdulillāhi' aya di luhureun lam jalalah.",
+          id: "(Yang ke-4) Pada lafal 'Alḥamdulillāhi' berada di atas huruf lam jalalah."
+        },
+        {
+          ar: "رَبِّ الْعَالَمِينَ فَوْقَ الْبَاءِ",
+          sd: "(Anu ka-5) Dina lapad 'Rabbil ‘ālamīna' aya di luhureun huruf ba.",
+          id: "(Yang ke-5) Pada lafal 'Rabbil ‘ālamīna' berada di atas huruf ba."
+        },
+        {
+          ar: "الرَّحْمٰنِ فَوْقَ الرَّاءِ",
+          sd: "(Anu ka-6) Dina lapad 'Ar-Raḥmāni' aya di luhureun huruf ra.",
+          id: "(Yang ke-6) Pada lafal 'Ar-Raḥmāni' berada di atas huruf ra."
+        },
+        {
+          ar: "الرَّحِيمِ فَوْقَ الرَّاءِ",
+          sd: "(Anu ka-7) Dina lapad 'Ar-Raḥīmi' aya di luhureun huruf ra.",
+          id: "(Yang ke-7) Pada lafal 'Ar-Raḥīmi' berada di atas huruf ra."
+        },
+        {
+          ar: "مَالِكِ يَوْمِ الدِّينِ فَوْقَ الدَّالِ",
+          sd: "(Anu ka-8) Dina lapad 'Māliki yaumid-dīni' aya di luhureun huruf dal.",
+          id: "(Yang ke-8) Pada lafal 'Māliki yaumid-dīni' berada di atas huruf dal."
+        },
+        {
+          ar: "إِيَّاكَ نَعْبُدُ فَوْقَ الْيَاءِ",
+          sd: "(Anu ka-9) Dina lapad 'Iyyāka na’budu' aya di luhureun huruf ya.",
+          id: "(Yang ke-9) Pada lafal 'Iyyāka na’budu' berada di atas huruf ya."
+        },
+        {
+          ar: "وَإِيَّاكَ نَسْتَعِينُ فَوْقَ الْيَاءِ",
+          sd: "(Anu ka-10) Dina lapad 'Wa iyyāka nasta’īnu' aya di luhureun huruf ya.",
+          id: "(Yang ke-10) Pada lafal 'Wa iyyāka nasta’īnu' berada di atas huruf ya."
+        },
+        {
+          ar: "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ فَوْقَ الصَّادِ",
+          sd: "(Anu ka-11) Dina lapad 'Ihdinaṣ-ṣirāṭal mustaqīma' aya di luhureun huruf shad.",
+          id: "(Yang ke-11) Pada lafal 'Ihdinaṣ-ṣirāṭal mustaqīma' berada di atas huruf shad."
+        },
+        {
+          ar: "صِرَاطَ الَّذِينَ فَوْقَ اللَّامِ",
+          sd: "(Anu ka-12) Dina lapad 'Ṣirāṭal-lażīna' aya di luhureun huruf lam.",
+          id: "(Yang ke-12) Pada lafal 'Ṣirāṭal-lażīna' berada di atas huruf lam."
+        },
+        {
+          ar: "أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ فَوْقَ الضَّادِ وَاللَّامِ",
+          sd: "(Anu ka-13 jeung 14) Dina lapad 'An'amta 'alaihim ghairil maghḍūbi 'alaihim wa laḍ-ḍāllīna' aya di luhureun huruf dhad jeung huruf lam.",
+          id: "(Yang ke-13 dan 14) Pada lafal 'An'amta 'alaihim ghairil maghḍūbi 'alaihim wa laḍ-ḍāllīna' berada di atas huruf dhad dan huruf lam."
+        }
+      ]
+      // Catatan dihilangkan karena penjabarannya sudah jelas
+    },
+    /* ---------------------- Mengangkat Tangan ---------------------- */
+    {
+      judul: "Tempat Sunah Mengangkat Tangan",
+      ar:    "مَوَاضِعُ رَفْعِ الْيَدَيْنِ",
+      lat:   "ngangkat leungeun sunah takbir",
+
+      lines: [
+        {
+          ar: "يُسَنُّ رَفْعُ الْيَدَيْنِ فِي أَرْبَعَةِ مَوَاضِعَ",
+          sd: "Disunahkeun ngangkat dua leungeun dina opat pirang-pirang tempat.",
+          id: "Disunahkan mengangkat kedua tangan di empat tempat."
+        },
+        {
+          ar: "عِنْدَ تَكْبِيرَةِ الْإِحْرَامِ",
+          sd: "(Anu ka-1) Nyaéta nalika takbiratul ihram.",
+          id: "(Yang ke-1) Yaitu ketika takbiratul ihram."
+        },
+        {
+          ar: "وَعِنْدَ الرُّكُوعِ",
+          sd: "Jeung (anu ka-2) nalika rék ruku.",
+          id: "Dan (yang ke-2) ketika akan ruku."
+        },
+        {
+          ar: "وَعِنْدَ الْإِعْتِدَالِ",
+          sd: "Jeung (anu ka-3) nalika cengkat tina ruku (i'tidal).",
+          id: "Dan (yang ke-3) ketika i'tidal."
+        },
+        {
+          ar: "وَعِنْدَ الْقِيَامِ مِنَ التَّشَهُّدِ الْأَوَّلِ",
+          sd: "Jeung (anu ka-4) nalika cengkat nangtung tina tasyahud awal.",
+          id: "Dan (yang ke-4) ketika berdiri dari tasyahud awal."
+        }
+      ]
+    },
+
+    /* ---------------------- Syarat Sujud ---------------------- */
+    {
+      judul: "Syarat Sujud & Anggota Sujud",
+      ar:    "شُرُوطُ السُّجُودِ وَأَعْضَاؤُهُ",
+      lat:   "syarat sujud anggota",
+
+      lines: [
+        {
+          ar: "شُرُوطُ السُّجُودِ سَبْعَةٌ",
+          sd: "Ari pirang-pirang syarat sujud, éta aya tujuh.",
+          id: "Syarat-syarat sujud itu ada tujuh."
+        },
+        {
+          ar: "أَنْ يَسْجُدَ عَلَى سَبْعَةِ أَعْضَاءٍ",
+          sd: "(Anu ka-1) Nyaéta yén sujud manéhna dina (maké) tujuh anggota (awak).",
+          id: "(Yang ke-1) Yaitu ia harus sujud di atas tujuh anggota (badan)."
+        },
+        {
+          ar: "وَأَنْ تَكُونَ جَبْهَتُهُ مَكْشُوفَةً",
+          sd: "Jeung (anu ka-2) yén bukti tarangna éta kudu katingali (teu kahalangan).",
+          id: "Dan (yang ke-2) dahinya harus terbuka (tidak terhalang)."
+        },
+        {
+          ar: "وَالتَّحَامُلُ بِرَأْسِهِ",
+          sd: "Jeung (anu ka-3) nekenkeun kalawan sirahna.",
+          id: "Dan (yang ke-3) memberatkan/menekan dengan kepalanya."
+        },
+        {
+          ar: "وَعَدَمُ الْهُوِيِّ لِغَيْرِهِ",
+          sd: "Jeung (anu ka-4) euweuhna niat turun (kaluar) salian ti keur sujud.",
+          id: "Dan (yang ke-4) tidak bermaksud turun (merunduk) selain untuk sujud."
+        },
+        {
+          ar: "وَأَنْ لَا يَسْجُدَ عَلَى شَيْءٍ يَتَحَرَّكُ بِحَرَكَتِهِ",
+          sd: "Jeung (anu ka-5) yén ulah sujud manéhna kana luhureun hiji perkara anu milu usik sabab usikna (saperti tungtung sorban anu dipaké).",
+          id: "Dan (yang ke-5) tidak sujud di atas sesuatu yang ikut bergerak karena gerakannya."
+        },
+        {
+          ar: "وَارْتِفَاعُ أَسَافِلِهِ عَلَى أَعَالِيهِ",
+          sd: "Jeung (anu ka-6) kudu leuwih luhur bagéan handapna (bujur) tibatan bagéan luhurna (takuk/sirah).",
+          id: "Dan (yang ke-6) meninggikan bagian bawahnya (pantat) di atas bagian atasnya (pundak/kepala)."
+        },
+        {
+          ar: "وَالطُّمَأْنِينَةُ فِيهِ",
+          sd: "Jeung (anu ka-7) kudu tumaninah dina éta sujud.",
+          id: "Dan (yang ke-7) tumaninah di dalam sujud tersebut."
+        },
+        {
+          ar: "خَاتِمَةٌ : أَعْضَاءُ السُّجُودِ سَبْعَةٌ",
+          sd: "Ari ieu hiji panutup: Pirang-pirang anggota sujud téh aya tujuh.",
+          id: "Penutup: Anggota-anggota sujud itu ada tujuh."
+        },
+        {
+          ar: "الْجَبْهَةُ وَبُطُونُ الْكَفَّيْنِ وَالرُّكْبَتَانِ وَبُطُونُ أَصَابِعِ الرِّجْلَيْنِ",
+          sd: "(Anu ka-1) Nyaéta tarang, jeung (anu ka-2 & 3) dua dampal leungeun, jeung (anu ka-4 & 5) dua tuur, jeung (anu ka-6 & 7) dua dampal ramo-ramo suku.",
+          id: "(Yang ke-1) Yaitu dahi, dan (yang ke-2 & 3) bagian dalam telapak tangan, dan (yang ke-4 & 5) kedua lutut, dan (yang ke-6 & 7) bagian bawah jari-jari kaki."
+        }
+      ]
+    },
+
+    /* ---------------------- Tasydid Tasyahud ---------------------- */
+    {
+      judul: "Tasydid dalam Tasyahud",
+      ar:    "تَشْدِيدَاتُ التَّشَهُّدِ",
+      lat:   "tasydid tasyahud tahiyat",
+
+      lines: [
+        {
+          ar: "تَشْدِيدَاتُ التَّشَهُّدِ إِحْدَى وَعِشْرُونَ",
+          sd: "Ari pirang-pirang tasydid dina tasyahud, éta aya dua puluh hiji.",
+          id: "Tasydid-tasydid dalam tasyahud itu ada dua puluh satu."
+        },
+        {
+          ar: "خَمْسٌ فِي أَكْمَلِهِ وَسِتَّةَ عَشَرَ فِي أَقَلِّهِ",
+          sd: "Anu lima aya dina sampurnana tasyahud, jeung anu genep belas aya dina pangsaeutikna tasyahud.",
+          id: "Lima terdapat pada (bacaan) tasyahud yang sempurna, dan enam belas terdapat pada tasyahud yang minimal."
+        },
+        {
+          ar: "التَّحِيَّاتُ عَلَى التَّاءِ وَالْيَاءِ",
+          sd: "Dina lapad 'At-Taḥiyyātu', aya di luhureun huruf ta jeung ya.",
+          id: "Pada lafal 'At-Taḥiyyātu', di atas huruf ta dan ya."
+        },
+        {
+          ar: "الْمُبَارَكَاتُ الصَّلَوَاتُ عَلَى الصَّادِ",
+          sd: "Dina lapad 'Al-mubārakātuṣ-ṣalawātu', aya di luhureun huruf shad.",
+          id: "Pada lafal 'Al-mubārakātuṣ-ṣalawātu', di atas huruf shad."
+        },
+        {
+          ar: "الطَّيِّبَاتُ عَلَى الطَّاءِ وَالْيَاءِ",
+          sd: "Dina lapad 'Aṭ-ṭayyibātu', aya di luhureun huruf tha jeung ya.",
+          id: "Pada lafal 'Aṭ-ṭayyibātu', di atas huruf tha dan ya."
+        },
+        {
+          ar: "لِلّٰهِ عَلَى لَامِ الْجَلَالَةِ",
+          sd: "Dina lapad 'lillāhi', aya di luhureun lam jalalah.",
+          id: "Pada lafal 'lillāhi', di atas lam jalalah."
+        },
+        {
+          ar: "السَّلَامُ عَلَيْكَ عَلَى السِّينِ",
+          sd: "Dina lapad 'As-salāmu 'alaika', aya di luhureun huruf sin.",
+          id: "Pada lafal 'As-salāmu 'alaika', di atas huruf sin."
+        },
+        {
+          ar: "أَيُّهَا النَّبِيُّ عَلَى الْيَاءِ وَالنُّونِ وَالْيَاءِ",
+          sd: "Dina lapad 'Ayyuhan-nabiyyu', aya di luhureun huruf ya (mimiti), nun, jeung ya (kadua).",
+          id: "Pada lafal 'Ayyuhan-nabiyyu', di atas huruf ya (pertama), nun, dan ya (kedua)."
+        },
+        {
+          ar: "وَرَحْمَةُ اللهِ عَلَى لَامِ الْجَلَالَةِ",
+          sd: "Dina lapad 'wa raḥmatullāhi', aya di luhureun lam jalalah.",
+          id: "Pada lafal 'wa raḥmatullāhi', di atas lam jalalah."
+        },
+        {
+          ar: "وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَا عَلَى السِّينِ",
+          sd: "Dina lapad 'wa barakātuhus-salāmu 'alainā', aya di luhureun huruf sin.",
+          id: "Pada lafal 'wa barakātuhus-salāmu 'alainā', di atas huruf sin."
+        },
+        {
+          ar: "وَعَلَى عِبَادِ اللهِ عَلَى لَامِ الْجَلَالَةِ",
+          sd: "Dina lapad 'wa 'alā 'ibādillāhi', aya di luhureun lam jalalah.",
+          id: "Pada lafal 'wa 'alā 'ibādillāhi', di atas lam jalalah."
+        },
+        {
+          ar: "الصَّالِحِينَ عَلَى الصَّادِ",
+          sd: "Dina lapad 'Aṣ-ṣāliḥīna', aya di luhureun huruf shad.",
+          id: "Pada lafal 'Aṣ-ṣāliḥīna', di atas huruf shad."
+        },
+        {
+          ar: "أَشْهَدُ أَنْ لَا إِلٰهَ عَلَى لَامِ أَلِفٍ",
+          sd: "Dina lapad 'Asyhadu an lā ilāha', aya di luhureun lam alif (huruf lam).",
+          id: "Pada lafal 'Asyhadu an lā ilāha', di atas lam alif (huruf lam)."
+        },
+        {
+          ar: "إِلَّا اللهُ عَلَى لَامِ أَلِفٍ وَلَامِ الْجَلَالَةِ",
+          sd: "Dina lapad 'illallāhu', aya di luhureun lam alif jeung lam jalalah.",
+          id: "Pada lafal 'illallāhu', di atas lam alif dan lam jalalah."
+        },
+        {
+          ar: "وَأَشْهَدُ أَنَّ عَلَى النُّونِ",
+          sd: "Dina lapad 'wa asyhadu anna', aya di luhureun huruf nun.",
+          id: "Pada lafal 'wa asyhadu anna', di atas huruf nun."
+        },
+        {
+          ar: "مُحَمَّدًا رَسُولُ اللهِ عَلَى مِيمِ مُحَمَّدٍ وَعَلَى الرَّاءِ وَعَلَى لَامِ الْجَلَالَةِ",
+          sd: "Dina lapad 'Muḥammadan rasūlullāhi', aya di luhureun huruf mim (kadua dina lapad Muhammad), jeung huruf ra, sarta lam jalalah.",
+          id: "Pada lafal 'Muḥammadan rasūlullāhi', di atas huruf mim (lafal Muhammad), huruf ra, dan lam jalalah."
+        }
+      ]
+    },
+    /* ---------------------- Tasydid Salawat ---------------------- */
+    {
+      judul: "Tasydid dalam Selawat Nabi",
+      ar:    "تَشْدِيدَاتُ الصَّلَاةِ عَلَى النَّبِيِّ",
+      lat:   "tasydid salawat nabi",
+
+      lines: [
+        {
+          ar: "تَشْدِيدَاتُ أَقَلِّ الصَّلَاةِ عَلَى النَّبِيِّ أَرْبَعٌ",
+          sd: "Ari pirang-pirang tasydidna pangsaeutikna maca salawat ka Nabi, éta aya opat.",
+          id: "Tasydid-tasydid pada bacaan minimal selawat kepada Nabi itu ada empat."
+        },
+        {
+          ar: "اللّٰهُمَّ عَلَى اللَّامِ وَالْمِيمِ",
+          sd: "(Anu ka-1 jeung ka-2) Nyaéta dina lapad 'Allāhumma', aya di luhureun huruf lam sarta huruf mim.",
+          id: "(Yang ke-1 dan ke-2) Yaitu pada lafal 'Allāhumma', berada di atas huruf lam dan huruf mim."
+        },
+        {
+          ar: "صَلِّ عَلَى اللَّامِ",
+          sd: "Jeung (anu ka-3) dina lapad 'ṣalli', aya di luhureun huruf lam.",
+          id: "Dan (yang ke-3) pada lafal 'ṣalli', berada di atas huruf lam."
+        },
+        {
+          ar: "عَلَى مُحَمَّدٍ عَلَى الْمِيمِ",
+          sd: "Jeung (anu ka-4) dina lapad '‘alā Muḥammadin', aya di luhureun huruf mim.",
+          id: "Dan (yang ke-4) pada lafal '‘alā Muḥammadin', berada di atas huruf mim."
+        }
+      ]
+      // Catatan dihilangkan karena penjabarannya sudah jelas
+    },
+    /* ---------------------- Tasydid Salam ---------------------- */
+    {
+      judul: "Tasydid dalam Salam",
+      ar:    "تَشْدِيدُ السَّلَامِ",
+      lat:   "tasydid salam",
+
+      lines: [
+        {
+          ar: "أَقَلُّ السَّلَامِ السَّلَامُ عَلَيْكُمْ",
+          sd: "Ari pangsaeutikna (bacaan) salam, éta 'As-salāmu 'alaikum'.",
+          id: "Batas minimal bacaan salam adalah 'As-salāmu 'alaikum'."
+        },
+        {
+          ar: "تَشْدِيدُ السَّلَامِ عَلَى السِّينِ",
+          sd: "Ari tasydidna (dina lapad) salam, éta aya di luhureun huruf sin.",
+          id: "Tasydid pada (lafal) salam berada di atas huruf sin."
+        }
+      ]
+      // Catatan dihilangkan karena penjabarannya sudah jelas
+    },
+
+    /* ---------------------- Waktu-waktu Salat ---------------------- */
+    {
+      judul: "Waktu-waktu Salat Fardu",
+      ar:    "أَوْقَاتُ الصَّلَاةِ",
+      lat:   "waktu salat fardu zuhur asar magrib isya subuh",
+
+      lines: [
+        {
+          ar: "أَوْقَاتُ الصَّلَاةِ خَمْسٌ",
+          sd: "Ari pirang-pirang waktu salat, éta aya lima.",
+          id: "Waktu-waktu salat fardu itu ada lima."
+        },
+        {
+          ar: "أَوَّلُ وَقْتِ الظُّهْرِ زَوَالُ الشَّمْسِ",
+          sd: "(Anu ka-1) Ari mimitina waktu Zuhur, éta gésérna panonpoé (ti tengah-tengah langit).",
+          id: "(Yang ke-1) Awal waktu Zuhur adalah tergelincirnya matahari (dari tengah langit)."
+        },
+        {
+          ar: "وَآخِرُهُ مَصِيرُ ظِلِّ الشَّيْءِ مِثْلَهُ غَيْرَ ظِلِّ الِاسْتِوَاءِ",
+          sd: "Jeung ari ahirna waktu Zuhur, éta mimitina kalangkang hiji perkara sarua (panjangna) jeung wujud aslina, salian ti kalangkang (nalika) waktu istiwa.",
+          id: "Dan akhir waktunya adalah ketika bayangan suatu benda sama panjang dengan aslinya, selain bayangan (saat) waktu istiwa (matahari tepat di tengah)."
+        },
+        {
+          ar: "وَأَوَّلُ وَقْتِ الْعَصْرِ إِذَا صَارَ ظِلُّ كُلِّ شَيْءٍ مِثْلَهُ وَزَادَ قَلِيلًا",
+          sd: "(Anu ka-2) Jeung ari mimitina waktu Asar, éta nalika bukti kalangkang saban-saban perkara sarua jeung wujudna sarta nambahan saeutik.",
+          id: "(Yang ke-2) Dan awal waktu Asar adalah ketika bayangan setiap benda sama panjang dengan aslinya dan bertambah sedikit."
+        },
+        {
+          ar: "وَآخِرُهُ غُرُوبُ الشَّمْسِ",
+          sd: "Jeung ari ahirna waktu Asar, éta surupna (tikerelepna) panonpoé.",
+          id: "Dan akhir waktunya adalah terbenamnya matahari."
+        },
+        {
+          ar: "وَأَوَّلُ وَقْتِ الْمَغْرِبِ غُرُوبُ الشَّمْسِ",
+          sd: "(Anu ka-3) Jeung ari mimitina waktu Magrib, éta surupna panonpoé.",
+          id: "(Yang ke-3) Dan awal waktu Magrib adalah terbenamnya matahari."
+        },
+        {
+          ar: "وَآخِرُهُ غُرُوبُ الشَّفَقِ الْأَحْمَرِ",
+          sd: "Jeung ari ahirna waktu Magrib, éta surupna (leungitna) layung (mega) beureum.",
+          id: "Dan akhir waktunya adalah hilangnya syafaq (mega/cahaya) merah di ufuk."
+        },
+        {
+          ar: "وَأَوَّلُ وَقْتِ الْعِشَاءِ غُرُوبُ الشَّفَقِ الْأَحْمَرِ",
+          sd: "(Anu ka-4) Jeung ari mimitina waktu Isya, éta surupna layung beureum.",
+          id: "(Yang ke-4) Dan awal waktu Isya adalah hilangnya mega merah."
+        },
+        {
+          ar: "وَآخِرُهُ طُلُوعُ الْفَجْرِ الصَّادِقِ",
+          sd: "Jeung ari ahirna waktu Isya, éta meletékna pajar shadiq.",
+          id: "Dan akhir waktunya adalah terbitnya fajar shadiq."
+        },
+        {
+          ar: "وَأَوَّلُ وَقْتِ الصُّبْحِ طُلُوعُ الْفَجْرِ الصَّادِقِ",
+          sd: "(Anu ka-5) Jeung ari mimitina waktu Subuh, éta meletékna pajar shadiq.",
+          id: "(Yang ke-5) Dan awal waktu Subuh adalah terbitnya fajar shadiq."
+        },
+        {
+          ar: "وَآخِرُهُ طُلُوعُ الشَّمْسِ",
+          sd: "Jeung ari ahirna waktu Subuh, éta meletékna panonpoé.",
+          id: "Dan akhir waktunya adalah terbitnya matahari."
+        }
+      ]
+    },
+
+    /* ---------------------- Macam-macam Syafaq (Mega) ---------------------- */
+    {
+      judul: "Macam-macam Syafaq (Mega/Cahaya Ufuk)",
+      ar:    "الْأَشْفَاقُ",
+      lat:   "syafaq layung mega mega beureum koneng bodas",
+
+      lines: [
+        {
+          ar: "الْأَشْفَاقُ ثَلَاثَةٌ : أَحْمَرُ وَأَصْفَرُ وَأَبْيَضُ",
+          sd: "Ari pirang-pirang layung (mega di ufuk) éta aya tilu: Nyaéta (anu ka-1) layung beureum, jeung (anu ka-2) layung konéng, jeung (anu ka-3) layung bodas.",
+          id: "Syafaq (mega/cahaya di ufuk) itu ada tiga macam: Yaitu (yang ke-1) mega merah, (yang ke-2) mega kuning, dan (yang ke-3) mega putih."
+        },
+        {
+          ar: "الْأَحْمَرُ مَغْرِبٌ وَالْأَصْفَرُ وَالْأَبْيَضُ عِشَاءٌ",
+          sd: "Ari layung beureum, éta tawis waktu Magrib. Jeung ari layung konéng sarta layung bodas, éta tawis waktu Isya.",
+          id: "Mega merah adalah (penanda) waktu Magrib. Dan mega kuning serta putih adalah (penanda) waktu Isya."
+        },
+        {
+          ar: "وَيُنْدَبُ تَأْخِيرُ صَلَاةِ الْعِشَاءِ إِلَى أَنْ يَغِيبَ الشَّفَقُ الْأَصْفَرُ وَالْأَبْيَضُ",
+          sd: "Jeung disunahkeun ngahirkeun (prakna) salat Isya, nepi ka leungitna layung konéng sarta layung bodas.",
+          id: "Dan disunahkan mengakhirkan (pelaksanaan) salat Isya, hingga hilangnya mega kuning dan mega putih."
+        }
+      ]
+    },
+    /* ---------------------- Waktu Haram Salat ---------------------- */
+    {
+      judul: "Waktu Haram Mengerjakan Salat",
+      ar:    "أَوْقَاتُ تَحْرِيمِ الصَّلَاةِ",
+      lat:   "waktu haram salat makruh",
+
+      lines: [
+        {
+          ar: "تَحْرُمُ الصَّلَاةُ الَّتِي لَيْسَ لَهَا سَبَبٌ مُتَقَدِّمٌ وَلَا مُقَارِنٌ فِي خَمْسَةِ أَوْقَاتٍ",
+          sd: "Diharamkeun (migawe) salat anu teu boga sabab anu miheulaan tur teu boga sabab anu ngabarengan, dina lima pirang-pirang waktu.",
+          id: "Diharamkan mengerjakan salat yang tidak memiliki sebab yang mendahului maupun sebab yang menyertai, pada lima waktu."
+        },
+        {
+          ar: "عِنْدَ طُلُوعِ الشَّمْسِ حَتَّى تَرْتَفِعَ قَدْرَ رُمْحٍ",
+          sd: "(Anu ka-1) Nyaéta nalika meletékna panonpoé, nepi ka luhur ukuran satumbak.",
+          id: "(Yang ke-1) Yaitu ketika terbitnya matahari, hingga ia naik setinggi tombak."
+        },
+        {
+          ar: "وَعِنْدَ الِاسْتِوَاءِ فِي غَيْرِ يَوْمِ الْجُمُعَةِ حَتَّى تَزُولَ",
+          sd: "Jeung (anu ka-2) nalika waktu istiwa (panonpoé luhureun sirah) dina salian poé Jumaah, nepi ka gésérna panonpoé.",
+          id: "Dan (yang ke-2) ketika waktu istiwa (matahari tepat di atas kepala) selain pada hari Jumat, hingga matahari tergelincir."
+        },
+        {
+          ar: "وَعِنْدَ الِاصْفِرَارِ حَتَّى تَغْرُبَ",
+          sd: "Jeung (anu ka-3) nalika waktu konéng (layung) nepi ka surupna (panonpoé).",
+          id: "Dan (yang ke-3) ketika waktu menguning (mega di ufuk barat), hingga terbenam (matahari)."
+        },
+        {
+          ar: "وَبَعْدَ صَلَاةِ الصُّبْحِ حَتَّى تَطْلُعَ الشَّمْسُ",
+          sd: "Jeung (anu ka-4) sabada (migawé) salat Subuh, nepi ka meletékna panonpoé.",
+          id: "Dan (yang ke-4) setelah (mengerjakan) salat Subuh, hingga terbit matahari."
+        },
+        {
+          ar: "وَبَعْدَ صَلَاةِ الْعَصْرِ حَتَّى تَغْرُبَ",
+          sd: "Jeung (anu ka-5) sabada (migawé) salat Asar, nepi ka surupna (panonpoé).",
+          id: "Dan (yang ke-5) setelah (mengerjakan) salat Asar, hingga terbenam (matahari)."
+        }
+      ],
+
+      catatan: {
+        sd: ["Anu diharamkeun di dieu nyaéta salat sunah mutlak. Sedengkeun salat anu boga sabab, saperti salat qada (ngaganti salat nu katinggaleun) atawa salat tahiyatul masjid, mah tetep meunang dipigawé sanajan dina ieu lima waktu."],
+        id: ["Yang diharamkan di sini adalah salat sunah mutlak. Sedangkan salat yang memiliki sebab, seperti salat qada atau tahiyatul masjid, tetap boleh dikerjakan pada kelima waktu ini."]
+      }
+    },
+    /* ---------------------- Saktah (Diam Sejenak) dalam Salat ---------------------- */
+    {
+      judul: "Tempat Sunah Diam (Saktah) dalam Salat",
+      ar:    "سَكَتَاتُ الصَّلَاةِ",
+      lat:   "saktah diam cicing salat fatihah amin",
+
+      lines: [
+        {
+          ar: "سَكَتَاتُ الصَّلَاةِ سِتَّةٌ",
+          sd: "Ari pirang-pirang tempat (sunah) cicing dina salat, éta aya genep.",
+          id: "Tempat-tempat disunahkan diam sejenak (saktah) dalam salat itu ada enam."
+        },
+        {
+          ar: "بَيْنَ تَكْبِيرَةِ الْإِحْرَامِ وَدُعَاءِ الِافْتِتَاحِ",
+          sd: "(Anu ka-1) Nyaéta antara takbiratul ihram jeung (maca) doa iftitah.",
+          id: "(Yang ke-1) Yaitu antara takbiratul ihram dan doa iftitah."
+        },
+        {
+          ar: "وَبَيْنَ دُعَاءِ الِافْتِتَاحِ وَالتَّعَوُّذِ",
+          sd: "Jeung (anu ka-2) antara doa iftitah jeung (maca) ta'awuz.",
+          id: "Dan (yang ke-2) antara doa iftitah dan ta'awuz."
+        },
+        {
+          ar: "وَبَيْنَ الْفَاتِحَةِ وَالتَّعَوُّذِ",
+          sd: "Jeung (anu ka-3) antara (maca) Fatihah jeung ta'awuz.",
+          id: "Dan (yang ke-3) antara Al-Fatihah dan ta'awuz."
+        },
+        {
+          ar: "وَبَيْنَ آخِرِ الْفَاتِحَةِ وَآمِينَ",
+          sd: "Jeung (anu ka-4) antara ahir surat Fatihah jeung lapad 'Āmīn'.",
+          id: "Dan (yang ke-4) antara akhir surat Al-Fatihah dan lafal 'Āmīn'."
+        },
+        {
+          ar: "وَبَيْنَ آمِينَ وَالسُّورَةِ",
+          sd: "Jeung (anu ka-5) antara lapad 'Āmīn' jeung maca surat (séjénna).",
+          id: "Dan (yang ke-5) antara lafal 'Āmīn' dan surat (lainnya)."
+        },
+        {
+          ar: "وَبَيْنَ السُّورَةِ وَالرُّكُوعِ",
+          sd: "Jeung (anu ka-6) antara maca surat jeung ruku.",
+          id: "Dan (yang ke-6) antara surat dan ruku."
+        }
+      ],
+
+      catatan: {
+        sd: ["Dina sababaraha kitab séjén (teks rujukan umum), poin ka-3 biasana unina 'وَبَيْنَ التَّعَوُّذِ وَالْبَسْمَلَةِ' (antara ta'awuz jeung basmalah). Tapi kuring narjamahkeun luyu kana teks aslina dina ieu poto: 'antara Fatihah jeung Ta'awuz' sanajan basana rada tibalik dina pamakéanana."],
+        id: ["Dalam beberapa naskah lain, poin ke-3 berbunyi 'antara ta'awuz dan basmalah'. Namun terjemahan ini disesuaikan mutlak dengan teks asli pada foto: 'antara Fatihah dan Ta'awuz' meskipun secara susunan praktiknya terbalik."]
+      }
+    },
+
+    /* ---------------------- Rukun-rukun yang Membutuhkan Tumaninah ---------------------- */
+    {
+      judul: "Rukun yang Membutuhkan Tumaninah & Definisinya",
+      ar:    "الْأَرْكَانُ الَّتِي تَلْزَمُ فِيهَا الطُّمَأْنِينَةُ",
+      lat:   "tumaninah rukun cicing ruku sujud",
+
+      lines: [
+        {
+          ar: "الْأَرْكَانُ الَّتِي تَلْزَمُ فِيهَا الطُّمَأْنِينَةُ أَرْبَعَةٌ",
+          sd: "Ari pirang-pirang rukun anu wajib dina éta rukun téh aya tumaninah, éta aya opat.",
+          id: "Rukun-rukun yang diwajibkan di dalamnya ada tumaninah itu ada empat."
+        },
+        {
+          ar: "الرُّكُوعُ",
+          sd: "(Anu ka-1) Nyaéta ruku.",
+          id: "(Yang ke-1) Yaitu ruku."
+        },
+        {
+          ar: "وَالِاعْتِدَالُ",
+          sd: "Jeung (anu ka-2) i'tidal.",
+          id: "Dan (yang ke-2) i'tidal."
+        },
+        {
+          ar: "وَالسُّجُودُ",
+          sd: "Jeung (anu ka-3) sujud.",
+          id: "Dan (yang ke-3) sujud."
+        },
+        {
+          ar: "وَالْجُلُوسُ بَيْنَ السَّجْدَتَيْنِ",
+          sd: "Jeung (anu ka-4) diuk antara dua sujud.",
+          id: "Dan (yang ke-4) duduk di antara dua sujud."
+        },
+        {
+          ar: "الطُّمَأْنِينَةُ هِيَ سُكُونٌ بَعْدَ حَرَكَةٍ بِحَيْثُ يَسْتَقِرُّ كُلُّ عُضْوٍ مَحَلَّهُ بِقَدْرِ سُبْحَانَ اللهِ",
+          sd: "Ari tumaninah téh, nyaéta cicing (sakeudeung) sabada usik, sakira-kira netep sakabéh anggota (awak) kana tempatna, kalawan saukuran (maca) 'Subḥānallāh'.",
+          id: "Tumaninah adalah diam (sejenak) setelah bergerak, sekiranya setiap anggota (badan) menetap pada tempatnya, dengan kadar waktu selama (membaca) 'Subḥānallāh'."
+        }
+      ]
+    },
+
+    /* ---------------------- Sebab Sujud Sahwi ---------------------- */
+    {
+      judul: "Sebab-sebab Sujud Sahwi",
+      ar:    "أَسْبَابُ سُجُودِ السَّهْوِ",
+      lat:   "sujud sahwi poho sabab",
+
+      lines: [
+        {
+          ar: "أَسْبَابُ سُجُودِ السَّهْوِ أَرْبَعَةٌ",
+          sd: "Ari pirang-pirang sabab sujud sahwi, éta aya opat.",
+          id: "Sebab-sebab sujud sahwi itu ada empat."
+        },
+        {
+          ar: "الْأَوَّلُ : تَرْكُ بَعْضٍ مِنْ أَبْعَاضِ الصَّلَاةِ أَوْ بَعْضِ الْبَعْضِ",
+          sd: "(Anu ka-1) Nyaéta ninggalkeun hiji sunah tina pirang-pirang sunah ab'ad salat, atawa (ninggalkeun) sabagéan tina sunah ab'ad.",
+          id: "(Yang ke-1) Yaitu meninggalkan salah satu dari sunah-sunah ab'ad salat, atau (meninggalkan) sebagian dari sunah ab'ad."
+        },
+        {
+          ar: "الثَّانِي : فِعْلُ مَا يُبْطِلُ عَمْدُهُ وَلَا يُبْطِلُ سَهْوُهُ إِذَا فَعَلَهُ نَاسِيًا",
+          sd: "Jeung (anu ka-2) migawé hiji perkara anu (lamun) dihajana mah bisa ngabatalkeun salat tur teu ngabatalkeun (lamun) pohona mah, nalika manéhna migawé éta perkara bari poho.",
+          id: "Dan (yang ke-2) melakukan sesuatu yang apabila disengaja dapat membatalkan salat dan tidak membatalkan jika lupa, ketika ia mengerjakannya dalam keadaan lupa."
+        },
+        {
+          ar: "الثَّالِثُ : نَقْلُ رُكْنٍ قَوْلِيٍّ إِلَى غَيْرِ مَحَلِّهِ",
+          sd: "Jeung (anu ka-3) mindahkeun hiji rukun qauli (ucapan) kana lain tempatna.",
+          id: "Dan (yang ke-3) memindahkan rukun qauli (ucapan) bukan pada tempatnya."
+        },
+        {
+          ar: "الرَّابِعُ : إِيقَاعُ رُكْنٍ فِعْلِيٍّ مَعَ احْتِمَالِ الزِّيَادَةِ",
+          sd: "Jeung (anu ka-4) ngagubragkeun (ngalaksanakeun) hiji rukun fi'li (pagawéan) sarta ayana kakamangan (ragu) aya leuwih (atawa henteu).",
+          id: "Dan (yang ke-4) melakukan rukun fi'li (perbuatan) dengan adanya kemungkinan ragu berlebih (atau tidak)."
+        }
+      ]
+    },
 
 
   ],
