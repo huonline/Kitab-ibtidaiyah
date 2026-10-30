@@ -1233,6 +1233,238 @@
       ]
       // Catatan dihilangkan karena penjabarannya sudah jelas
     },
+    /* ---------------------- Rukun Salat ---------------------- */
+    {
+      judul: "Rukun Salat",
+      ar:    "أَرْكَانُ الصَّلَاةِ",
+      lat:   "rukun salat fardu",
+
+      lines: [
+        {
+          ar: "أَرْكَانُ الصَّلَاةِ سَبْعَةَ عَشَرَ",
+          sd: "Ari pirang-pirang rukun salat, éta aya tujuh belas.",
+          id: "Rukun-rukun salat itu ada tujuh belas."
+        },
+        {
+          ar: "الْأَوَّلُ : النِّيَّةُ",
+          sd: "(Anu ka-1) Nyaéta niat.",
+          id: "(Yang ke-1) Yaitu niat."
+        },
+        {
+          ar: "الثَّانِي : تَكْبِيرَةُ الْإِحْرَامِ",
+          sd: "Jeung (anu ka-2) takbiratul ihram.",
+          id: "Dan (yang ke-2) takbiratul ihram."
+        },
+        {
+          ar: "الثَّالِثُ : الْقِيَامُ عَلَى الْقَادِرِ فِي الْفَرْضِ",
+          sd: "Jeung (anu ka-3) nangtung pikeun jalma anu mampuh dina (salat) fardu.",
+          id: "Dan (yang ke-3) berdiri bagi orang yang mampu pada (salat) fardu."
+        },
+        {
+          ar: "الرَّابِعُ : قِرَاءَةُ الْفَاتِحَةِ",
+          sd: "Jeung (anu ka-4) maca Fatihah.",
+          id: "Dan (yang ke-4) membaca Al-Fatihah."
+        },
+        {
+          ar: "الْخَامِسُ : الرُّكُوعُ",
+          sd: "Jeung (anu ka-5) ruku.",
+          id: "Dan (yang ke-5) ruku."
+        },
+        {
+          ar: "السَّادِسُ : الطُّمَأْنِينَةُ فِيهِ",
+          sd: "Jeung (anu ka-6) tumaninah (cicing sakeudeung) dina éta ruku.",
+          id: "Dan (yang ke-6) tumaninah di dalam ruku."
+        },
+        {
+          ar: "السَّابِعُ : الْإِعْتِدَالُ",
+          sd: "Jeung (anu ka-7) i'tidal (cengkat tina ruku).",
+          id: "Dan (yang ke-7) i'tidal."
+        },
+        {
+          ar: "الثَّامِنُ : الطُّمَأْنِينَةُ فِيهِ",
+          sd: "Jeung (anu ka-8) tumaninah dina éta i'tidal.",
+          id: "Dan (yang ke-8) tumaninah di dalam i'tidal."
+        },
+        {
+          ar: "التَّاسِعُ : السُّجُودُ مَرَّتَيْنِ",
+          sd: "Jeung (anu ka-9) sujud dua kali.",
+          id: "Dan (yang ke-9) sujud dua kali."
+        },
+        {
+          ar: "الْعَاشِرُ : الطُّمَأْنِينَةُ فِيهِ",
+          sd: "Jeung (anu ka-10) tumaninah dina éta sujud.",
+          id: "Dan (yang ke-10) tumaninah di dalam sujud."
+        },
+        {
+          ar: "الْحَادِيَ عَشَرَ : الْجُلُوسُ بَيْنَ السَّجْدَتَيْنِ",
+          sd: "Jeung (anu ka-11) diuk antara dua sujud.",
+          id: "Dan (yang ke-11) duduk di antara dua sujud."
+        },
+        {
+          ar: "الثَّانِيَ عَشَرَ : الطُّمَأْنِينَةُ فِيهِ",
+          sd: "Jeung (anu ka-12) tumaninah dina éta diuk.",
+          id: "Dan (yang ke-12) tumaninah di dalam duduk tersebut."
+        },
+        {
+          ar: "الثَّالِثَ عَشَرَ : التَّشَهُّدُ الْأَخِيرُ",
+          sd: "Jeung (anu ka-13) tasyahud ahir.",
+          id: "Dan (yang ke-13) tasyahud akhir."
+        },
+        {
+          ar: "الرَّابِعَ عَشَرَ : الْقُعُودُ فِيهِ",
+          sd: "Jeung (anu ka-14) diuk dina éta tasyahud (ahir).",
+          id: "Dan (yang ke-14) duduk di dalam tasyahud akhir."
+        },
+        {
+          ar: "الْخَامِسَ عَشَرَ : الصَّلَاةُ عَلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِيهِ",
+          sd: "Jeung (anu ka-15) maca salawat ka Nabi shallallahu 'alaihi wasallam dina éta tasyahud ahir.",
+          id: "Dan (yang ke-15) membaca selawat kepada Nabi shallallahu 'alaihi wasallam di dalamnya (tasyahud akhir)."
+        },
+        {
+          ar: "السَّادِسَ عَشَرَ : السَّلَامُ",
+          sd: "Jeung (anu ka-16) salam (anu kahiji).",
+          id: "Dan (yang ke-16) salam."
+        },
+        {
+          ar: "السَّابِعَ عَشَرَ : التَّرْتِيبُ",
+          sd: "Jeung (anu ka-17) tertib (nuturkeun runtuyna).",
+          id: "Dan (yang ke-17) tertib (berurutan)."
+        }
+      ]
+      // Catatan dihilangkan karena penjabarannya sudah jelas
+    },
+
+    /* ---------------------- Tingkatan Niat Salat ---------------------- */
+    {
+      judul: "Tingkatan Niat Salat",
+      ar:    "دَرَجَاتُ النِّيَّةِ",
+      lat:   "niat salat tingkatan fardu sunah mutlak qashdul fi'li ta'yin fardliyyah",
+
+      lines: [
+        {
+          ar: "النِّيَّةُ ثَلَاثُ دَرَجَاتٍ",
+          sd: "Ari niat (salat), éta aya tilu pirang-pirang tingkatan.",
+          id: "Niat (salat) itu ada tiga tingkatan."
+        },
+        {
+          ar: "إِنْ كَانَتِ الصَّلَاةُ فَرْضًا وَجَبَ قَصْدُ الْفِعْلِ وَالتَّعْيِينِ وَالْفَرْضِيَّةِ",
+          sd: "Lamun bukti salatna téh mangrupa salat fardu, mangka wajib (niatna ngawengku tilu rupa:) neja migawé salat, jeung nangtukeun ngaranna (ta'yin), sarta nangtukeun farduna.",
+          id: "Jika salatnya adalah salat fardu, maka wajib (berniat mencakup tiga hal:) menyengaja perbuatan salat (qashdul fi'li), menentukan jenis salatnya (ta'yin), dan menyatakan kefarduannya (fardliyyah)."
+        },
+        {
+          ar: "وَإِنْ كَانَتْ نَافِلَةً مُؤَقَّتَةً كَرَاتِبَةٍ أَوْ ذَاتَ سَبَبٍ وَجَبَ قَصْدُ الْفِعْلِ وَالتَّعْيِينِ",
+          sd: "Jeung lamun bukti salatna téh mangrupa salat sunah nu diwaktu-waktu kawas salat rawatib, atawa boga sabab, mangka wajib (niatna ngawengku dua rupa:) neja migawé salat jeung nangtukeun ngaranna (ta'yin).",
+          id: "Dan jika salatnya adalah salat sunah yang memiliki waktu seperti salat rawatib, atau memiliki sebab, maka wajib (berniat mencakup dua hal:) menyengaja perbuatan salat dan menentukan jenisnya."
+        },
+        {
+          ar: "وَإِنْ كَانَتْ نَافِلَةً مُطْلَقَةً وَجَبَ قَصْدُ الْفِعْلِ فَقَطْ",
+          sd: "Jeung lamun bukti salatna téh mangrupa salat sunah mutlak, mangka wajib (niatna ukur sarupa:) neja migawé salat wungkul.",
+          id: "Dan jika salatnya adalah salat sunah mutlak, maka wajib (berniat cukup:) menyengaja perbuatan salat saja."
+        },
+        {
+          ar: "الْفِعْلُ : أُصَلِّي ، وَالتَّعْيِينُ : ظُهْرًا أَوْ عَصْرًا ، وَالْفَرْضِيَّةُ : فَرْضًا",
+          sd: "Ari (lapad) 'neja migawé' (qashdul fi'li), éta Nyaéta 'ushallī' (abdi niat salat). Jeung ari nangtukeun (ta'yin), Nyaéta 'zhuhron' (Zuhur) atawa 'ashron' (Asar). Jeung ari (nyebut) kefarduanna, Nyaéta 'fardlon' (fardu).",
+          id: "(Lafal) menyengaja perbuatan (qashdul fi'li) adalah 'ushallī' (aku berniat salat). Menentukan jenis (ta'yin) adalah 'zhuhron' (Zuhur) atau 'ashron' (Asar). Dan menyatakan kefarduan adalah 'fardlon' (fardu)."
+        }
+      ]
+      // Catatan dihilangkan karena penjabarannya sudah jelas
+    },
+        /* ---------------------- Syarat Takbiratul Ihram ---------------------- */
+    {
+      judul: "Syarat Takbiratul Ihram",
+      ar:    "شُرُوطُ تَكْبِيرَةِ الْإِحْرَامِ",
+      lat:   "syarat takbiratul ihram takbir salat",
+
+      lines: [
+        {
+          ar: "شُرُوطُ تَكْبِيرَةِ الْإِحْرَامِ سِتَّةَ عَشَرَ",
+          sd: "Ari pirang-pirang syarat takbiratul ihram, éta aya genep belas.",
+          id: "Syarat-syarat takbiratul ihram itu ada enam belas."
+        },
+        {
+          ar: "أَنْ تَقَعَ حَالَةَ الْقِيَامِ فِي الْفَرْضِ",
+          sd: "(Anu ka-1) Nyaéta yén tumibana takbir dina tingkah nangtung dina (salat) fardu.",
+          id: "(Yang ke-1) Yaitu takbir harus jatuh pada keadaan berdiri dalam (salat) fardu."
+        },
+        {
+          ar: "وَأَنْ تَكُونَ بِالْعَرَبِيَّةِ",
+          sd: "Jeung (anu ka-2) yén takbirna kudu maké bahasa Arab.",
+          id: "Dan (yang ke-2) takbirnya harus menggunakan bahasa Arab."
+        },
+        {
+          ar: "وَأَنْ تَكُونَ بِلَفْظِ الْجَلَالَةِ",
+          sd: "Jeung (anu ka-3) yén takbirna kudu maké lapad jalalah (Allāhu).",
+          id: "Dan (yang ke-3) takbirnya harus menggunakan lafal jalalah (Allāhu)."
+        },
+        {
+          ar: "وَبِلَفْظِ أَكْبَرُ",
+          sd: "Jeung (anu ka-4) maké lapad 'akbaru'.",
+          id: "Dan (yang ke-4) dengan lafal 'akbaru'."
+        },
+        {
+          ar: "وَالتَّرْتِيبُ بَيْنَ اللَّفْظَيْنِ",
+          sd: "Jeung (anu ka-5) tartib di antara éta dua lapad (Allāhu heula, tuluy akbaru).",
+          id: "Dan (yang ke-5) tertib di antara kedua lafal tersebut (Allahu, lalu akbaru)."
+        },
+        {
+          ar: "وَأَنْ لَا يَمُدَّ هَمْزَةَ الْجَلَالَةِ",
+          sd: "Jeung (anu ka-6) yén ulah manjangeun kana hamzah lapad jalalah ('Āllāhu').",
+          id: "Dan (yang ke-6) tidak memanjangkan hamzah pada lafal jalalah (menjadi 'Āllāhu')."
+        },
+        {
+          ar: "وَعَدَمُ مَدِّ بَاءِ أَكْبَرُ",
+          sd: "Jeung (anu ka-7) euweuhna panjang ba lapad akbaru ('akbāru').",
+          id: "Dan (yang ke-7) tidak memanjangkan huruf ba pada lafal akbaru (menjadi 'akbāru')."
+        },
+        {
+          ar: "وَأَنْ لَا يُشَدِّدَ الْبَاءَ",
+          sd: "Jeung (anu ka-8) yén ulah ngatasydidkeun kana éta ba ('akbarru').",
+          id: "Dan (yang ke-8) tidak mentasydidkan huruf ba (menjadi 'akbarru')."
+        },
+        {
+          ar: "وَأَنْ لَا يَزِيدَ وَاوًا سَاكِنَةً أَوْ مُتَحَرِّكَةً بَيْنَ الْكَلِمَتَيْنِ",
+          sd: "Jeung (anu ka-9) yén ulah nambahan kana wawu paéh atawa wawu nu diharakatan di antara éta dua kalimah ('Allāhu wākbaru').",
+          id: "Dan (yang ke-9) tidak menambah wau mati atau berharakat di antara kedua kalimat (menjadi 'Allahu wakbaru')."
+        },
+        {
+          ar: "وَأَنْ لَا يَزِيدَ وَاوًا قَبْلَ الْجَلَالَةِ",
+          sd: "Jeung (anu ka-10) yén ulah nambahan kana wawu saméméh lapad jalalah ('Wallāhu akbaru').",
+          id: "Dan (yang ke-10) tidak menambah wau sebelum lafal jalalah (menjadi 'Wallahu akbaru')."
+        },
+        {
+          ar: "وَأَنْ لَا يَقِفَ بَيْنَ كَلِمَتَيِ التَّكْبِيرِ وَقْفَةً طَوِيلَةً وَلَا قَصِيرَةً",
+          sd: "Jeung (anu ka-11) yén ulah eureun antara dua kalimah takbir kalawan pamandegan anu lila, jeung ulah ku pamandegan anu sakeudeung.",
+          id: "Dan (yang ke-11) tidak berhenti di antara dua kalimat takbir dengan jeda yang lama maupun pendek."
+        },
+        {
+          ar: "وَأَنْ يُسْمِعَ نَفْسَهُ جَمِيعَ حُرُوفِهَا",
+          sd: "Jeung (anu ka-12) yén kudu ngadéngékeun dirina sorangan kana sakabéh huruf-hurufna takbir.",
+          id: "Dan (yang ke-12) harus mendengarkan dirinya sendiri atas seluruh huruf-huruf takbir."
+        },
+        {
+          ar: "وَدُخُولُ الْوَقْتِ فِي الْمُؤَقَّتِ",
+          sd: "Jeung (anu ka-13) kudu asup waktu dina salat anu diwaktuan.",
+          id: "Dan (yang ke-13) masuk waktu (salat) pada salat yang memiliki waktu."
+        },
+        {
+          ar: "وَإِيقَاعُهَا حَالَ الْإِسْتِقْبَالِ",
+          sd: "Jeung (anu ka-14) ngagubragkeunana takbiratul ihram kudu dina tingkah madep kiblat.",
+          id: "Dan (yang ke-14) menjatuhkan (melakukan) takbiratul ihram harus dalam keadaan menghadap kiblat."
+        },
+        {
+          ar: "وَأَنْ لَا يُخِلَّ بِحَرْفٍ مِنْ حُرُوفِهَا",
+          sd: "Jeung (anu ka-15) yén ulah ngurangan kana sahiji huruf tina huruf-hurufna takbir.",
+          id: "Dan (yang ke-15) tidak merusak/mengurangi satu huruf pun dari huruf-huruf takbir."
+        },
+        {
+          ar: "وَتَأْخِيرُ تَكْبِيرَةِ الْمَأْمُومِ عَنْ تَكْبِيرَةِ الْإِمَامِ",
+          sd: "Jeung (anu ka-16) kudu ngahirkeun takbiratul ihram makmum tina takbiratul ihram imam.",
+          id: "Dan (yang ke-16) takbiratul ihram makmum harus diakhirkan dari (menunggu selesai) takbiratul ihram imam."
+        }
+      ]
+      // Catatan dihilangkan karena ke-16 syaratnya sudah utuh
+    },
+
 
   ],
 });
