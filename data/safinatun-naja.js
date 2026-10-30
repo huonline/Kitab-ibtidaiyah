@@ -2374,7 +2374,150 @@
       ]
     },
 
-   
+       /* ---------------------- Syarat Qudwah (Bermakmum) ---------------------- */
+    {
+      judul: "Syarat-syarat Bermakmum",
+      ar:    "شُرُوطُ الْقُدْوَةِ",
+      lat:   "syarat qudwah makmum jemaah imam",
+
+      lines: [
+        {
+          ar: "شُرُوطُ الْقُدْوَةِ أَحَدَ عَشَرَ",
+          sd: "Ari pirang-pirang syarat (sahnya) qudwah (bermakmum), éta aya sabelas.",
+          id: "Syarat-syarat (sahnya) bermakmum itu ada sebelas."
+        },
+        {
+          ar: "أَنْ لَا يَعْلَمَ بُطْلَانَ صَلَاةِ إِمَامِهِ بِحَدَثٍ أَوْ غَيْرِهِ",
+          sd: "(Anu ka-1) Nyaéta yén ulah nyaho (makmum) kana batalna salat imamna, ku sabab hadas atawa salian ti hadas.",
+          id: "(Yang ke-1) Yaitu makmum tidak mengetahui batalnya salat imamnya, baik sebab hadas atau selainnya."
+        },
+        {
+          ar: "وَأَنْ لَا يَعْتَقِدَ وُجُوبَ قَضَائِهَا عَلَيْهِ",
+          sd: "Jeung (anu ka-2) yén ulah nekadkeun (makmum) kana wajibna ngodoan éta salat pikeun éta imam.",
+          id: "Dan (yang ke-2) makmum tidak meyakini wajibnya mengqada salat tersebut atas diri sang imam."
+        },
+        {
+          ar: "وَأَنْ لَا يَكُونَ مَأْمُومًا",
+          sd: "Jeung (anu ka-3) yén ulah bukti (imamna téh) keur jadi makmum (ka nu séjén).",
+          id: "Dan (yang ke-3) imam tersebut tidak berstatus sedang menjadi makmum (kepada yang lain)."
+        },
+        {
+          ar: "وَلَا أُمِّيًّا",
+          sd: "Jeung (anu ka-4) ulah bukti (imamna téh) jalma anu ummi (teu bisa maca Fatihah kalawan bener).",
+          id: "Dan (yang ke-4) imamnya bukan orang yang ummi (tidak fasih membaca Al-Fatihah)."
+        },
+        {
+          ar: "وَأَنْ لَا يَتَقَدَّمَ عَلَيْهِ فِي الْمَوْقِفِ",
+          sd: "Jeung (anu ka-5) yén ulah miheulaan (makmum) ka imamna dina (tempat) pamadeganana (tempat nangtungna).",
+          id: "Dan (yang ke-5) makmum tidak mendahului imam pada posisi berdirinya."
+        },
+        {
+          ar: "وَأَنْ يَعْلَمَ انْتِقَالَاتِ إِمَامِهِ",
+          sd: "Jeung (anu ka-6) yén kudu nyaho (makmum) kana pirang-pirang usikan pindahna imamna.",
+          id: "Dan (yang ke-6) makmum mengetahui perpindahan (gerakan) imamnya."
+        },
+        {
+          ar: "وَأَنْ يَجْتَمِعَا فِي مَسْجِدٍ أَوْ فِي ثَلَاثِمِائَةِ ذِرَاعٍ تَقْرِيبًا",
+          sd: "Jeung (anu ka-7) yén kudu kumpul éta (imam sarta makmum) di jero masjid, atawa (di luar masjid) dina jarak tilu ratus asta kira-kirana.",
+          id: "Dan (yang ke-7) keduanya berkumpul di dalam satu masjid, atau (jika di luar masjid) jaraknya kira-kira tiga ratus hasta."
+        },
+        {
+          ar: "وَأَنْ يَنْوِيَ الْقُدْوَةَ أَوِ الْجَمَاعَةَ",
+          sd: "Jeung (anu ka-8) yén kudu niat (makmum) kana qudwah (nuturkeun imam) atawa niat jemaah.",
+          id: "Dan (yang ke-8) makmum berniat qudwah (mengikuti imam) atau berniat jamaah."
+        },
+        {
+          ar: "وَأَنْ يَتَوَافَقَ نَظْمُ صَلَاتَيْهِمَا",
+          sd: "Jeung (anu ka-9) yén kudu akur naonana runtuyan (aturan) salatna maranéhna anu duaan (imam jeung makmum).",
+          id: "Dan (yang ke-9) harus sama aturan (gerakan/nazham) salat dari keduanya (imam dan makmum)."
+        },
+        {
+          ar: "وَأَنْ لَا يُخَالِفَهُ فِي سُنَّةٍ فَاحِشَةِ الْمُخَالَفَةِ",
+          sd: "Jeung (anu ka-10) yén ulah nyulayaan (makmum) ka imamna dina (migawe) hiji sunah anu parna pisan (katempo) bedana.",
+          id: "Dan (yang ke-10) makmum tidak menyalahi (berbeda dengan) imamnya dalam melakukan sunah yang terlihat sangat jauh bedanya."
+        },
+        {
+          ar: "وَأَنْ يُتَابِعَهُ",
+          sd: "Jeung (anu ka-11) yén kudu nuturkeun (makmum) ka imamna.",
+          id: "Dan (yang ke-11) makmum harus mengikuti imamnya."
+        }
+      ]
+    },
+
+    /* ---------------------- Bentuk-bentuk Qudwah ---------------------- */
+    {
+      judul: "Bentuk-bentuk Qudwah (Bermakmum)",
+      ar:    "صُوَرُ الْقُدْوَةِ",
+      lat:   "suwarul qudwah bentuk makmum jemaah",
+
+      lines: [
+        {
+          ar: "صُوَرُ الْقُدْوَةِ تِسْعٌ",
+          sd: "Ari pirang-pirang bentuk (rupa) qudwah, éta aya salapan.",
+          id: "Bentuk-bentuk qudwah (bermakmum) itu ada sembilan."
+        },
+        {
+          ar: "تَصِحُّ فِي خَمْسٍ",
+          sd: "Sah (naonna) qudwah dina lima bentuk.",
+          id: "Sah qudwahnya pada lima bentuk."
+        },
+        {
+          ar: "قُدْوَةُ رَجُلٍ بِرَجُلٍ",
+          sd: "(Anu ka-1) Nyaéta makmumna lalaki ka lalaki.",
+          id: "(Yang ke-1) Yaitu bermakmumnya laki-laki kepada laki-laki."
+        },
+        {
+          ar: "وَقُدْوَةُ امْرَأَةٍ بِرَجُلٍ",
+          sd: "Jeung (anu ka-2) makmumna awéwé ka lalaki.",
+          id: "Dan (yang ke-2) bermakmumnya perempuan kepada laki-laki."
+        },
+        {
+          ar: "وَقُدْوَةُ خُنْثَى بِرَجُلٍ",
+          sd: "Jeung (anu ka-3) makmumna banci ka lalaki.",
+          id: "Dan (yang ke-3) bermakmumnya banci (hermafrodit) kepada laki-laki."
+        },
+        {
+          ar: "وَقُدْوَةُ امْرَأَةٍ بِخُنْثَى",
+          sd: "Jeung (anu ka-4) makmumna awéwé ka banci.",
+          id: "Dan (yang ke-4) bermakmumnya perempuan kepada banci."
+        },
+        {
+          ar: "وَقُدْوَةُ امْرَأَةٍ بِامْرَأَةٍ",
+          sd: "Jeung (anu ka-5) makmumna awéwé ka awéwé.",
+          id: "Dan (yang ke-5) bermakmumnya perempuan kepada perempuan."
+        },
+        {
+          ar: "وَتَبْطُلُ فِي أَرْبَعٍ",
+          sd: "Jeung batal (naonna) qudwah dina opat bentuk.",
+          id: "Dan batal qudwahnya pada empat bentuk."
+        },
+        {
+          ar: "قُدْوَةُ رَجُلٍ بِامْرَأَةٍ",
+          sd: "(Anu ka-1) Nyaéta makmumna lalaki ka awéwé.",
+          id: "(Yang ke-1) Yaitu bermakmumnya laki-laki kepada perempuan."
+        },
+        {
+          ar: "وَقُدْوَةُ رَجُلٍ بِخُنْثَى",
+          sd: "Jeung (anu ka-2) makmumna lalaki ka banci.",
+          id: "Dan (yang ke-2) bermakmumnya laki-laki kepada banci."
+        },
+        {
+          ar: "وَقُدْوَةُ خُنْثَى بِامْرَأَةٍ",
+          sd: "Jeung (anu ka-3) makmumna banci ka awéwé.",
+          id: "Dan (yang ke-3) bermakmumnya banci kepada perempuan."
+        },
+        {
+          ar: "وَقُدْوَةُ خُنْثَى بِخُنْثَى",
+          sd: "Jeung (anu ka-4) makmumna banci ka papada banci.",
+          id: "Dan (yang ke-4) bermakmumnya banci kepada sesama banci."
+        }
+      ],
+      catatan: {
+        sd: ["Banci (Khuntsa) anu dimaksud di dieu nyaéta jalma anu saprak gubrag ka dunya (sacara medis/biologis) boga dua alat kelamin sakaligus (Khuntsa Musykil), lain jalma anu ngahaja ngarobah kelamin atawa paripolahna."],
+        id: ["Banci (Khuntsa) yang dimaksud di sini adalah orang yang sejak lahir (secara medis/biologis) memiliki dua alat kelamin sekaligus (Khuntsa Musykil), bukan orang yang sengaja merubah kelamin atau perilakunya (waria/transgender)."]
+      }
+    },
+
 
   ],
 });
