@@ -2666,6 +2666,179 @@
         }
       ]
     },
+    /* ---------------------- Mengafani Jenazah ---------------------- */
+    {
+      judul: "Mengafani Jenazah (Kafan)",
+      ar:    "أَقَلُّ الْكَفَنِ وَأَكْمَلُهُ",
+      lat:   "kafan boeh ngaboehan mayit",
+
+      lines: [
+        {
+          ar: "أَقَلُّ الْكَفَنِ ثَوْبٌ يَعُمُّهُ",
+          sd: "Ari pangsaeutikna boéh (kafan), éta sahiji pakéan anu nutupan kana sakabéh awakna éta mayit[span_2](start_span)[span_2](end_span).",
+          id: "Batas minimal kafan adalah satu lapis kain yang menutupi seluruh tubuh jenazah[span_3](start_span)[span_3](end_span)."
+        },
+        {
+          ar: "وَأَكْمَلُهُ لِلرِّجَالِ ثَلَاثُ لَفَائِفَ",
+          sd: "Jeung ari pangsampurnana kafan pikeun pirang-pirang lalaki, éta tilu pirang-pirang bungkus (lapis)[span_4](start_span)[span_4](end_span).",
+          id: "Dan batas sempurnanya (kafan) bagi laki-laki adalah tiga lapis kain pembungkus[span_5](start_span)[span_5](end_span)."
+        },
+        {
+          ar: "وَلِلْمَرْأَةِ قَمِيصٌ وَخِمَارٌ وَإِزَارٌ وَلِفَافَتَانِ",
+          sd: "Jeung (pangsampurnana) pikeun awéwé, éta hiji gamis (baju kurung), jeung hiji tiung, jeung hiji samping, sarta dua bungkus (lapis boéh)[span_6](start_span)[span_6](end_span).",
+          id: "Dan (batas sempurna) bagi perempuan adalah satu baju kurung, satu kerudung, satu kain sarung, dan dua lapis kain pembungkus[span_7](start_span)[span_7](end_span)."
+        }
+      ]
+    },
+
+    /* ---------------------- Rukun Salat Jenazah ---------------------- */
+    {
+      judul: "Rukun Salat Jenazah",
+      ar:    "أَرْكَانُ صَلَاةِ الْجِنَازَةِ",
+      lat:   "rukun salat jenazah mayit",
+
+      lines: [
+        {
+          ar: "أَرْكَانُ صَلَاةِ الْجِنَازَةِ سَبْعَةٌ",
+          sd: "Ari pirang-pirang rukun salat jenazah, éta aya tujuh[span_8](start_span)[span_8](end_span).",
+          id: "Rukun-rukun salat jenazah itu ada tujuh[span_9](start_span)[span_9](end_span)."
+        },
+        {
+          ar: "الْأَوَّلُ : النِّيَّةُ",
+          sd: "(Anu ka-1) Nyaéta niat[span_10](start_span)[span_10](end_span).",
+          id: "(Yang ke-1) Yaitu niat[span_11](start_span)[span_11](end_span)."
+        },
+        {
+          ar: "الثَّانِي : أَرْبَعُ تَكْبِيرَاتٍ",
+          sd: "Jeung (anu ka-2) opat pirang-pirang takbir[span_12](start_span)[span_12](end_span).",
+          id: "Dan (yang ke-2) empat kali takbir[span_13](start_span)[span_13](end_span)."
+        },
+        {
+          ar: "الثَّالِثُ : الْقِيَامُ عَلَى الْقَادِرِ",
+          sd: "Jeung (anu ka-3) nangtung pikeun jalma anu mampuh[span_14](start_span)[span_14](end_span).",
+          id: "Dan (yang ke-3) berdiri bagi orang yang mampu[span_15](start_span)[span_15](end_span)."
+        },
+        {
+          ar: "الرَّابِعُ : قِرَاءَةُ الْفَاتِحَةِ",
+          sd: "Jeung (anu ka-4) maca surat Fatihah[span_16](start_span)[span_16](end_span).",
+          id: "Dan (yang ke-4) membaca Al-Fatihah[span_17](start_span)[span_17](end_span)."
+        },
+        {
+          ar: "الْخَامِسُ : الصَّلَاةُ عَلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بَعْدَ الثَّانِيَةِ",
+          sd: "Jeung (anu ka-5) maca salawat ka Nabi shallallahu 'alaihi wasallam, tetep dina sabada takbir anu kadua[span_18](start_span)[span_18](end_span).",
+          id: "Dan (yang ke-5) membaca selawat kepada Nabi shallallahu 'alaihi wasallam setelah takbir kedua[span_19](start_span)[span_19](end_span)."
+        },
+        {
+          ar: "السَّادِسُ : الدُّعَاءُ لِلْمَيِّتِ بَعْدَ الثَّالِثَةِ",
+          sd: "Jeung (anu ka-6) ngadoakeun ka éta mayit, tetep dina sabada takbir anu katilu[span_20](start_span)[span_20](end_span).",
+          id: "Dan (yang ke-6) mendoakan jenazah setelah takbir ketiga[span_21](start_span)[span_21](end_span)."
+        },
+        {
+          ar: "السَّابِعُ : السَّلَامُ",
+          sd: "Jeung (anu ka-7) maca salam[span_22](start_span)[span_22](end_span).",
+          id: "Dan (yang ke-7) mengucapkan salam[span_23](start_span)[span_23](end_span)."
+        }
+      ]
+    },
+
+    /* ---------------------- Mengubur Jenazah ---------------------- */
+    {
+      judul: "Batas Mengubur Jenazah",
+      ar:    "أَقَلُّ الدَّفْنِ وَأَكْمَلُهُ",
+      lat:   "dafn kubur ngaruang mayit lombang",
+
+      lines: [
+        {
+          ar: "أَقَلُّ الدَّفْنِ : حُفْرَةٌ تَكْتُمُ رَائِحَتَهُ وَتَحْرُسُهُ مِنَ السِّبَاعِ",
+          sd: "Ari pangsaeutikna ngubur (ngali kuburan), éta hiji lombang anu bisa nyumputkeun (ngahalangan) éta lombang kana ambeuna mayit, jeung bisa ngajaga éta lombang ka mayit tina (galiheun) pirang-pirang sato galak[span_24](start_span)[span_24](end_span).",
+          id: "Batas minimal mengubur adalah sebuah lubang yang dapat menyembunyikan bau jenazah dan menjaganya dari binatang buas[span_25](start_span)[span_25](end_span)."
+        },
+        {
+          ar: "وَأَكْمَلُهُ : قَامَةٌ وَبَسْطَةٌ",
+          sd: "Jeung ari pangsampurnana lombang, éta sajangkungna jalma sarta sapamanténgna (leungeun)[span_26](start_span)[span_26](end_span).",
+          id: "Dan batas sempurnanya adalah (kedalaman) setinggi postur tubuh (manusia) beserta acungan tangannya ke atas[span_27](start_span)[span_27](end_span)."
+        },
+        {
+          ar: "وَيُوضَعُ خَدُّهُ عَلَى التُّرَابِ وَيَجِبُ تَوْجِيهُهُ إِلَى الْقِبْلَةِ",
+          sd: "Jeung disimpen (naonna) pipina mayit, tetep kana luhureun taneuh, sarta wajib (naonna) madepkeun éta mayit kana kiblat[span_28](start_span)[span_28](end_span).",
+          id: "Dan pipi jenazah diletakkan di atas tanah, serta wajib menghadapkannya ke arah kiblat[span_29](start_span)[span_29](end_span)."
+        }
+      ]
+    },
+
+    /* ---------------------- Menggali Kembali Kuburan ---------------------- */
+    {
+      judul: "Sebab Bolehnya Menggali Kembali Kuburan",
+      ar:    "أَسْبَابُ نَبْشِ الْمَيِّتِ",
+      lat:   "ngagali deui kuburan mayit nabtsy",
+
+      lines: [
+        {
+          ar: "يُنْبَشُ الْمَيِّتُ لِأَرْبَعِ خِصَالٍ",
+          sd: "Digali deui (naonna) mayit (kuburanana), ku sabab opat pirang-pirang perkara[span_30](start_span)[span_30](end_span).",
+          id: "Jenazah (kuburannya) boleh digali kembali karena empat perkara[span_31](start_span)[span_31](end_span)."
+        },
+        {
+          ar: "لِلْغُسْلِ إِذَا لَمْ يَتَغَيَّرْ",
+          sd: "(Anu ka-1) Nyaéta pikeun ngamandianana, nalika can ruksak (awakna)[span_32](start_span)[span_32](end_span).",
+          id: "(Yang ke-1) Yaitu untuk dimandikan, apabila tubuhnya belum rusak/hancur[span_33](start_span)[span_33](end_span)."
+        },
+        {
+          ar: "وَلِتَوْجِيهِهِ إِلَى الْقِبْلَةِ",
+          sd: "Jeung (anu ka-2) pikeun madepkeunana kana kiblat[span_34](start_span)[span_34](end_span).",
+          id: "Dan (yang ke-2) untuk dihadapkan ke arah kiblat[span_35](start_span)[span_35](end_span)."
+        },
+        {
+          ar: "وَلِلْمَالِ إِذَا دُفِنَ مَعَهُ",
+          sd: "Jeung (anu ka-3) pikeun (nyokot) harta, nalika dikubur éta harta sarta mayit[span_36](start_span)[span_36](end_span).",
+          id: "Dan (yang ke-3) untuk (mengambil) harta, apabila harta tersebut ikut terkubur bersamanya[span_37](start_span)[span_37](end_span)."
+        },
+        {
+          ar: "وَالْمَرْأَةُ إِذَا دُفِنَ جَنِينُهَا مَعَهَا وَأَمْكَنَتْ حَيَاتُهُ",
+          sd: "Jeung (anu ka-4) (ngagali deui) mayit awéwé, nalika dikubur (naonna) janinna sarta éta awéwé, sarta diharepkeun (dimungkinkeun) hirupna (naonna) éta janin[span_38](start_span)[span_38](end_span).",
+          id: "Dan (yang ke-4) jenazah perempuan, apabila janinnya ikut terkubur bersamanya, dan dimungkinkan janin tersebut masih hidup[span_39](start_span)[span_39](end_span)."
+        }
+      ],
+      catatan: {
+        sd: ["Sakumaha pamundut, dina rukun ka-4 ditambahkeun lafaz مَعَهَا (sarta éta awéwé/bersamanya) sanggeus lafaz جَنِينُهَا (janinna). Hal ieu sangkan ma'nana leuwih jéntré yén éta janin kabawa kakubur sarta indungna."],
+        id: ["Sebagaimana permintaan, pada poin ke-4 ditambahkan lafal مَعَهَا (bersamanya) setelah lafal جَنِينُهَا (janinnya). Hal ini agar maknanya lebih jelas bahwa janin tersebut ikut terkubur bersama ibunya."]
+      }
+    },
+
+    /* ---------------------- Minta Bantuan Bersuci ---------------------- */
+    {
+      judul: "Hukum Minta Bantuan dalam Bersuci",
+      ar:    "أَحْكَامُ الْإِسْتِعَانَاتِ (فِي الطَّهَارَةِ)",
+      lat:   "menta tulung pangnyicikeun wudu susuci istianah",
+
+      lines: [
+        {
+          ar: "الْإِسْتِعَانَاتُ أَرْبَعُ خِصَالٍ : مُبَاحَةٌ وَخِلَافُ الْأَوْلَى وَمَكْرُوهَةٌ وَوَاجِبَةٌ",
+          sd: "Ari pirang-pirang (hukum) ménta tulung (dina bab susuci), éta aya opat pirang-pirang tingkah: Nyaéta (anu ka-1) mubah (wenang), jeung (anu ka-2) khilaful aula, jeung (anu ka-3) makruh, jeung (anu ka-4) wajib[span_40](start_span)[span_40](end_span).",
+          id: "Hukum meminta bantuan (dalam urusan bersuci) itu ada empat perkara: Yaitu (yang ke-1) mubah, dan (yang ke-2) khilaful aula (menyalahi yang lebih utama), dan (yang ke-3) makruh, dan (yang ke-4) wajib[span_41](start_span)[span_41](end_span)."
+        },
+        {
+          ar: "فَالْمُبَاحَةُ هِيَ تَقْرِيبُ الْمَاءِ",
+          sd: "Mangka ari (ménta tulung) anu mubah, éta nyaéta (saukur) ménta pangdeukeutkeun cai[span_42](start_span)[span_42](end_span).",
+          id: "Maka meminta bantuan yang mubah (boleh) adalah meminta didekatkan air[span_43](start_span)[span_43](end_span)."
+        },
+        {
+          ar: "وَخِلَافُ الْأَوْلَى هِيَ صَبُّ الْمَاءِ عَلَى نَحْوِ الْمُتَوَضِّئِ",
+          sd: "Jeung ari anu khilaful aula, éta nyaéta ménta pangnyicikeun cai ka (luhureun) jalma anu wudu atawa nu lianna[span_44](start_span)[span_44](end_span).",
+          id: "Dan yang khilaful aula adalah meminta dicurahkan air ke atas orang yang berwudu atau sejenisnya (seperti mandi)[span_45](start_span)[span_45](end_span)."
+        },
+        {
+          ar: "وَالْمَكْرُوهَةُ هِيَ لِمَنْ يَغْسِلُ أَعْضَاءَهُ",
+          sd: "Jeung ari anu makruh, éta nyaéta (ménta pangumbahkeun) ka jalma anu ngumbahkeun manéhna kana pirang-pirang anggota wuduna[span_46](start_span)[span_46](end_span).",
+          id: "Dan yang makruh adalah meminta tolong kepada orang yang membasuhkan anggota-anggota wudunya[span_47](start_span)[span_47](end_span)."
+        },
+        {
+          ar: "وَالْوَاجِبَةُ هِيَ لِلْمَرِيضِ عِنْدَ الْعَجْزِ",
+          sd: "Jeung ari anu wajib, éta nyaéta (ménta tulung) pikeun jalma anu gering, tetep nalika apes (teu mampuh wudu sorangan)[span_48](start_span)[span_48](end_span).",
+          id: "Dan yang wajib adalah (meminta tolong) bagi orang sakit, ketika ia lemah (tidak mampu bersuci sendiri)[span_49](start_span)[span_49](end_span)."
+        }
+      ]
+    },
 
 
   ],
