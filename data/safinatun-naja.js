@@ -2067,41 +2067,6 @@
         }
       ]
     },
-
-    /* ---------------------- Sebab Sujud Sahwi ---------------------- */
-    {
-      judul: "Sebab-sebab Sujud Sahwi",
-      ar:    "أَسْبَابُ سُجُودِ السَّهْوِ",
-      lat:   "sujud sahwi poho sabab",
-
-      lines: [
-        {
-          ar: "أَسْبَابُ سُجُودِ السَّهْوِ أَرْبَعَةٌ",
-          sd: "Ari pirang-pirang sabab sujud sahwi, éta aya opat.",
-          id: "Sebab-sebab sujud sahwi itu ada empat."
-        },
-        {
-          ar: "الْأَوَّلُ : تَرْكُ بَعْضٍ مِنْ أَبْعَاضِ الصَّلَاةِ أَوْ بَعْضِ الْبَعْضِ",
-          sd: "(Anu ka-1) Nyaéta ninggalkeun hiji sunah tina pirang-pirang sunah ab'ad salat, atawa (ninggalkeun) sabagéan tina sunah ab'ad.",
-          id: "(Yang ke-1) Yaitu meninggalkan salah satu dari sunah-sunah ab'ad salat, atau (meninggalkan) sebagian dari sunah ab'ad."
-        },
-        {
-          ar: "الثَّانِي : فِعْلُ مَا يُبْطِلُ عَمْدُهُ وَلَا يُبْطِلُ سَهْوُهُ إِذَا فَعَلَهُ نَاسِيًا",
-          sd: "Jeung (anu ka-2) migawé hiji perkara anu (lamun) dihajana mah bisa ngabatalkeun salat tur teu ngabatalkeun (lamun) pohona mah, nalika manéhna migawé éta perkara bari poho.",
-          id: "Dan (yang ke-2) melakukan sesuatu yang apabila disengaja dapat membatalkan salat dan tidak membatalkan jika lupa, ketika ia mengerjakannya dalam keadaan lupa."
-        },
-        {
-          ar: "الثَّالِثُ : نَقْلُ رُكْنٍ قَوْلِيٍّ إِلَى غَيْرِ مَحَلِّهِ",
-          sd: "Jeung (anu ka-3) mindahkeun hiji rukun qauli (ucapan) kana lain tempatna.",
-          id: "Dan (yang ke-3) memindahkan rukun qauli (ucapan) bukan pada tempatnya."
-        },
-        {
-          ar: "الرَّابِعُ : إِيقَاعُ رُكْنٍ فِعْلِيٍّ مَعَ احْتِمَالِ الزِّيَادَةِ",
-          sd: "Jeung (anu ka-4) ngagubragkeun (ngalaksanakeun) hiji rukun fi'li (pagawéan) sarta ayana kakamangan (ragu) aya leuwih (atawa henteu).",
-          id: "Dan (yang ke-4) melakukan rukun fi'li (perbuatan) dengan adanya kemungkinan ragu berlebih (atau tidak)."
-        }
-      ]
-    },
     /* ---------------------- Ab'adhus Salat ---------------------- */
     {
       judul: "Sunah Ab'ad dalam Salat",
@@ -2116,40 +2081,44 @@
         },
         {
           ar: "التَّشَهُّدُ الْأَوَّلُ",
-          sd: "(Anu ka-1) Nyaéta tasyahud awal[span_2](start_span)[span_2](end_span).",
-          id: "(Yang ke-1) Yaitu tasyahud awal[span_3](start_span)[span_3](end_span)."
+          sd: "(Anu ka-1) Nyaéta tasyahud awal.",
+          id: "(Yang ke-1) Yaitu tasyahud awal."
         },
         {
           ar: "وَقُعُودُهُ",
-          sd: "Jeung (anu ka-2) diukna tasyahud awal[span_4](start_span)[span_4](end_span).",
-          id: "Dan (yang ke-2) duduknya[span_5](start_span)[span_5](end_span)."
+          sd: "Jeung (anu ka-2) diukna tasyahud awal.",
+          id: "(Yang ke-2) Dan duduknya (tasyahud awal)."
         },
         {
           ar: "وَالصَّلَاةُ عَلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِيهِ",
-          sd: "Jeung (anu ka-3) maca salawat ka Nabi shallallahu 'alaihi wasallam dina éta tasyahud awal[span_6](start_span)[span_6](end_span).",
-          id: "Dan (yang ke-3) membaca selawat kepada Nabi shallallahu 'alaihi wasallam di dalamnya[span_7](start_span)[span_7](end_span)."
+          sd: "Jeung (anu ka-3) maca salawat ka Nabi shallallahu 'alaihi wasallam di jero éta tasyahud awal.",
+          id: "(Yang ke-3) Dan membaca selawat kepada Nabi shallallahu 'alaihi wasallam di dalamnya (tasyahud awal)."
         },
         {
-          ar: "وَالصَّلَاةُ عَلَى الْآلِ التَّشَهُّدِ الْأَخِيرِ",
-          sd: "Jeung (anu ka-4) maca salawat ka kulawarga Nabi dina (fī) tasyahud akhir[span_8](start_span)[span_8](end_span).",
-          id: "Dan (yang ke-4) membaca selawat kepada keluarga Nabi pada tasyahud akhir[span_9](start_span)[span_9](end_span)."
+          ar: "وَالصَّلَاةُ عَلَى الْآلِ فِي التَّشَهُّدِ الْأَخِيرِ",
+          sd: "Jeung (anu ka-4) maca salawat ka kulawarga Nabi, tetep dina tasyahud ahir.",
+          id: "(Yang ke-4) Dan membaca selawat kepada keluarga Nabi pada tasyahud akhir."
         },
         {
           ar: "وَالْقُنُوتُ",
-          sd: "Jeung (anu ka-5) maca doa qunut[span_10](start_span)[span_10](end_span).",
-          id: "Dan (yang ke-5) qunut[span_11](start_span)[span_11](end_span)."
+          sd: "Jeung (anu ka-5) maca doa qunut.",
+          id: "(Yang ke-5) Dan qunut."
         },
         {
           ar: "وَقِيَامُهُ",
           sd: "Jeung (anu ka-6) nangtungna qunut.",
-          id: "Dan (yang ke-6) berdiri ketika qunut."
+          id: "(Yang ke-6) Dan berdiri ketika qunut."
         },
         {
           ar: "وَالصَّلَاةُ عَلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَآلِهِ فِيهِ",
-          sd: "Jeung (anu ka-7) maca salawat ka Nabi shallallahu 'alaihi wasallam sarta kulawargana dina éta qunut[span_12](start_span)[span_12](end_span).",
-          id: "Dan (yang ke-7) membaca selawat kepada Nabi shallallahu 'alaihi wasallam beserta keluarganya di dalamnya[span_13](start_span)[span_13](end_span)."
+          sd: "Jeung (anu ka-7) maca salawat ka Nabi shallallahu 'alaihi wasallam sarta kulawargana di jero éta qunut.",
+          id: "(Yang ke-7) Dan membaca selawat kepada Nabi shallallahu 'alaihi wasallam beserta keluarganya di dalamnya (qunut)."
         }
-      ]
+      ],
+      catatan: {
+        sd: ["Sunah ab'ad nyaéta sunah muakkad dina salat anu dianjurkeun sujud sahwi upama ditinggalkeun, boh dihaja atawa poho."],
+        id: ["Sunah ab'ad adalah sunah muakkad dalam salat yang dianjurkan melakukan sujud sahwi apabila ditinggalkan, baik sengaja maupun lupa."]
+      }
     },
 
     /* ---------------------- Perkara yang Membatalkan Salat ---------------------- */
