@@ -2666,27 +2666,27 @@
         }
       ]
     },
+    [
     /* ---------------------- Mengafani Jenazah ---------------------- */
     {
       judul: "Mengafani Jenazah (Kafan)",
       ar:    "أَقَلُّ الْكَفَنِ وَأَكْمَلُهُ",
       lat:   "kafan boeh ngaboehan mayit",
-
       lines: [
         {
           ar: "أَقَلُّ الْكَفَنِ ثَوْبٌ يَعُمُّهُ",
-          sd: "Ari pangsaeutikna boéh (kafan), éta sahiji pakéan anu nutupan kana sakabéh awakna éta mayit[span_2](start_span)[span_2](end_span).",
-          id: "Batas minimal kafan adalah satu lapis kain yang menutupi seluruh tubuh jenazah[span_3](start_span)[span_3](end_span)."
+          sd: "Ari pangsaeutikna boéh (kafan), éta sahiji pakéan anu nutupan kana sakabéh awakna éta mayit.",
+          id: "Batas minimal kafan adalah satu lapis kain yang menutupi seluruh tubuh jenazah."
         },
         {
           ar: "وَأَكْمَلُهُ لِلرِّجَالِ ثَلَاثُ لَفَائِفَ",
-          sd: "Jeung ari pangsampurnana kafan pikeun pirang-pirang lalaki, éta tilu pirang-pirang bungkus (lapis)[span_4](start_span)[span_4](end_span).",
-          id: "Dan batas sempurnanya (kafan) bagi laki-laki adalah tiga lapis kain pembungkus[span_5](start_span)[span_5](end_span)."
+          sd: "Jeung ari pangsampurnana kafan pikeun pirang-pirang lalaki, éta tilu pirang-pirang bungkus (lapis).",
+          id: "Dan batas sempurnanya (kafan) bagi laki-laki adalah tiga lapis kain pembungkus."
         },
         {
           ar: "وَلِلْمَرْأَةِ قَمِيصٌ وَخِمَارٌ وَإِزَارٌ وَلِفَافَتَانِ",
-          sd: "Jeung (pangsampurnana) pikeun awéwé, éta hiji gamis (baju kurung), jeung hiji tiung, jeung hiji samping, sarta dua bungkus (lapis boéh)[span_6](start_span)[span_6](end_span).",
-          id: "Dan (batas sempurna) bagi perempuan adalah satu baju kurung, satu kerudung, satu kain sarung, dan dua lapis kain pembungkus[span_7](start_span)[span_7](end_span)."
+          sd: "Jeung (pangsampurnana) pikeun awéwé, éta hiji gamis (baju kurung), jeung hiji tiung, jeung hiji samping, sarta dua bungkus (lapis boéh).",
+          id: "Dan (batas sempurna) bagi perempuan adalah satu baju kurung, satu kerudung, satu kain sarung, dan dua lapis kain pembungkus."
         }
       ]
     },
@@ -2696,47 +2696,46 @@
       judul: "Rukun Salat Jenazah",
       ar:    "أَرْكَانُ صَلَاةِ الْجِنَازَةِ",
       lat:   "rukun salat jenazah mayit",
-
       lines: [
         {
           ar: "أَرْكَانُ صَلَاةِ الْجِنَازَةِ سَبْعَةٌ",
-          sd: "Ari pirang-pirang rukun salat jenazah, éta aya tujuh[span_8](start_span)[span_8](end_span).",
-          id: "Rukun-rukun salat jenazah itu ada tujuh[span_9](start_span)[span_9](end_span)."
+          sd: "Ari pirang-pirang rukun salat jenazah, éta aya tujuh.",
+          id: "Rukun-rukun salat jenazah itu ada tujuh."
         },
         {
           ar: "الْأَوَّلُ : النِّيَّةُ",
-          sd: "(Anu ka-1) Nyaéta niat[span_10](start_span)[span_10](end_span).",
-          id: "(Yang ke-1) Yaitu niat[span_11](start_span)[span_11](end_span)."
+          sd: "(Anu ka-1) Nyaéta niat.",
+          id: "(Yang ke-1) Yaitu niat."
         },
         {
           ar: "الثَّانِي : أَرْبَعُ تَكْبِيرَاتٍ",
-          sd: "Jeung (anu ka-2) opat pirang-pirang takbir[span_12](start_span)[span_12](end_span).",
-          id: "Dan (yang ke-2) empat kali takbir[span_13](start_span)[span_13](end_span)."
+          sd: "Jeung (anu ka-2) opat pirang-pirang takbir.",
+          id: "Dan (yang ke-2) empat kali takbir."
         },
         {
           ar: "الثَّالِثُ : الْقِيَامُ عَلَى الْقَادِرِ",
-          sd: "Jeung (anu ka-3) nangtung pikeun jalma anu mampuh[span_14](start_span)[span_14](end_span).",
-          id: "Dan (yang ke-3) berdiri bagi orang yang mampu[span_15](start_span)[span_15](end_span)."
+          sd: "Jeung (anu ka-3) nangtung pikeun jalma anu mampuh.",
+          id: "Dan (yang ke-3) berdiri bagi orang yang mampu."
         },
         {
           ar: "الرَّابِعُ : قِرَاءَةُ الْفَاتِحَةِ",
-          sd: "Jeung (anu ka-4) maca surat Fatihah[span_16](start_span)[span_16](end_span).",
-          id: "Dan (yang ke-4) membaca Al-Fatihah[span_17](start_span)[span_17](end_span)."
+          sd: "Jeung (anu ka-4) maca surat Fatihah.",
+          id: "Dan (yang ke-4) membaca Al-Fatihah."
         },
         {
           ar: "الْخَامِسُ : الصَّلَاةُ عَلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بَعْدَ الثَّانِيَةِ",
-          sd: "Jeung (anu ka-5) maca salawat ka Nabi shallallahu 'alaihi wasallam, tetep dina sabada takbir anu kadua[span_18](start_span)[span_18](end_span).",
-          id: "Dan (yang ke-5) membaca selawat kepada Nabi shallallahu 'alaihi wasallam setelah takbir kedua[span_19](start_span)[span_19](end_span)."
+          sd: "Jeung (anu ka-5) maca salawat ka Nabi shallallahu 'alaihi wasallam sabada takbir anu kadua.",
+          id: "Dan (yang ke-5) membaca selawat kepada Nabi shallallahu 'alaihi wasallam setelah takbir kedua."
         },
         {
           ar: "السَّادِسُ : الدُّعَاءُ لِلْمَيِّتِ بَعْدَ الثَّالِثَةِ",
-          sd: "Jeung (anu ka-6) ngadoakeun ka éta mayit, tetep dina sabada takbir anu katilu[span_20](start_span)[span_20](end_span).",
-          id: "Dan (yang ke-6) mendoakan jenazah setelah takbir ketiga[span_21](start_span)[span_21](end_span)."
+          sd: "Jeung (anu ka-6) ngadoakeun ka éta mayit sabada takbir anu katilu.",
+          id: "Dan (yang ke-6) mendoakan jenazah setelah takbir ketiga."
         },
         {
           ar: "السَّابِعُ : السَّلَامُ",
-          sd: "Jeung (anu ka-7) maca salam[span_22](start_span)[span_22](end_span).",
-          id: "Dan (yang ke-7) mengucapkan salam[span_23](start_span)[span_23](end_span)."
+          sd: "Jeung (anu ka-7) maca salam.",
+          id: "Dan (yang ke-7) mengucapkan salam."
         }
       ]
     },
@@ -2746,22 +2745,21 @@
       judul: "Batas Mengubur Jenazah",
       ar:    "أَقَلُّ الدَّفْنِ وَأَكْمَلُهُ",
       lat:   "dafn kubur ngaruang mayit lombang",
-
       lines: [
         {
           ar: "أَقَلُّ الدَّفْنِ : حُفْرَةٌ تَكْتُمُ رَائِحَتَهُ وَتَحْرُسُهُ مِنَ السِّبَاعِ",
-          sd: "Ari pangsaeutikna ngubur (ngali kuburan), éta hiji lombang anu bisa nyumputkeun (ngahalangan) éta lombang kana ambeuna mayit, jeung bisa ngajaga éta lombang ka mayit tina (galiheun) pirang-pirang sato galak[span_24](start_span)[span_24](end_span).",
-          id: "Batas minimal mengubur adalah sebuah lubang yang dapat menyembunyikan bau jenazah dan menjaganya dari binatang buas[span_25](start_span)[span_25](end_span)."
+          sd: "Ari pangsaeutikna ngubur (ngali kuburan), éta hiji lombang anu bisa nyumputkeun éta lombang kana ambeuna mayit, jeung bisa ngajaga éta lombang ka mayit tina pirang-pirang sato galak.",
+          id: "Batas minimal mengubur adalah sebuah lubang yang dapat menyembunyikan bau jenazah dan menjaganya dari binatang buas."
         },
         {
           ar: "وَأَكْمَلُهُ : قَامَةٌ وَبَسْطَةٌ",
-          sd: "Jeung ari pangsampurnana lombang, éta sajangkungna jalma sarta sapamanténgna (leungeun)[span_26](start_span)[span_26](end_span).",
-          id: "Dan batas sempurnanya adalah (kedalaman) setinggi postur tubuh (manusia) beserta acungan tangannya ke atas[span_27](start_span)[span_27](end_span)."
+          sd: "Jeung ari pangsampurnana lombang, éta sajangkungna jalma sarta sapamanténgna leungeun.",
+          id: "Dan batas sempurnanya adalah (kedalaman) setinggi postur tubuh (manusia) beserta acungan tangannya ke atas."
         },
         {
           ar: "وَيُوضَعُ خَدُّهُ عَلَى التُّرَابِ وَيَجِبُ تَوْجِيهُهُ إِلَى الْقِبْلَةِ",
-          sd: "Jeung disimpen (naonna) pipina mayit, tetep kana luhureun taneuh, sarta wajib (naonna) madepkeun éta mayit kana kiblat[span_28](start_span)[span_28](end_span).",
-          id: "Dan pipi jenazah diletakkan di atas tanah, serta wajib menghadapkannya ke arah kiblat[span_29](start_span)[span_29](end_span)."
+          sd: "Jeung disimpen pipina mayit kana luhureun taneuh, sarta wajib madepkeun éta mayit kana kiblat.",
+          id: "Dan pipi jenazah diletakkan di atas tanah, serta wajib menghadapkannya ke arah kiblat."
         }
       ]
     },
@@ -2771,38 +2769,33 @@
       judul: "Sebab Bolehnya Menggali Kembali Kuburan",
       ar:    "أَسْبَابُ نَبْشِ الْمَيِّتِ",
       lat:   "ngagali deui kuburan mayit nabtsy",
-
       lines: [
         {
           ar: "يُنْبَشُ الْمَيِّتُ لِأَرْبَعِ خِصَالٍ",
-          sd: "Digali deui (naonna) mayit (kuburanana), ku sabab opat pirang-pirang perkara[span_30](start_span)[span_30](end_span).",
-          id: "Jenazah (kuburannya) boleh digali kembali karena empat perkara[span_31](start_span)[span_31](end_span)."
+          sd: "Digali deui kuburan mayit ku sabab opat pirang-pirang perkara.",
+          id: "Jenazah (kuburannya) boleh digali kembali karena empat perkara."
         },
         {
           ar: "لِلْغُسْلِ إِذَا لَمْ يَتَغَيَّرْ",
-          sd: "(Anu ka-1) Nyaéta pikeun ngamandianana, nalika can ruksak (awakna)[span_32](start_span)[span_32](end_span).",
-          id: "(Yang ke-1) Yaitu untuk dimandikan, apabila tubuhnya belum rusak/hancur[span_33](start_span)[span_33](end_span)."
+          sd: "(Anu ka-1) Nyaéta pikeun ngamandianana, nalika can ruksak awakna.",
+          id: "(Yang ke-1) Yaitu untuk dimandikan, apabila tubuhnya belum rusak/hancur."
         },
         {
           ar: "وَلِتَوْجِيهِهِ إِلَى الْقِبْلَةِ",
-          sd: "Jeung (anu ka-2) pikeun madepkeunana kana kiblat[span_34](start_span)[span_34](end_span).",
-          id: "Dan (yang ke-2) untuk dihadapkan ke arah kiblat[span_35](start_span)[span_35](end_span)."
+          sd: "Jeung (anu ka-2) pikeun madepkeunana kana kiblat.",
+          id: "Dan (yang ke-2) untuk dihadapkan ke arah kiblat."
         },
         {
           ar: "وَلِلْمَالِ إِذَا دُفِنَ مَعَهُ",
-          sd: "Jeung (anu ka-3) pikeun (nyokot) harta, nalika dikubur éta harta sarta mayit[span_36](start_span)[span_36](end_span).",
-          id: "Dan (yang ke-3) untuk (mengambil) harta, apabila harta tersebut ikut terkubur bersamanya[span_37](start_span)[span_37](end_span)."
+          sd: "Jeung (anu ka-3) pikeun nyokot harta, nalika dikubur éta harta sarta mayit.",
+          id: "Dan (yang ke-3) untuk (mengambil) harta, apabila harta tersebut ikut terkubur bersamanya."
         },
         {
           ar: "وَالْمَرْأَةُ إِذَا دُفِنَ جَنِينُهَا مَعَهَا وَأَمْكَنَتْ حَيَاتُهُ",
-          sd: "Jeung (anu ka-4) (ngagali deui) mayit awéwé, nalika dikubur (naonna) janinna sarta éta awéwé, sarta diharepkeun (dimungkinkeun) hirupna (naonna) éta janin[span_38](start_span)[span_38](end_span).",
-          id: "Dan (yang ke-4) jenazah perempuan, apabila janinnya ikut terkubur bersamanya, dan dimungkinkan janin tersebut masih hidup[span_39](start_span)[span_39](end_span)."
+          sd: "Jeung (anu ka-4) ngagali deui mayit awéwé, nalika dikubur janinna sarta éta awéwé, tur dimungkinkeun hirupna éta janin.",
+          id: "Dan (yang ke-4) jenazah perempuan, apabila janinnya ikut terkubur bersamanya, dan dimungkinkan janin tersebut masih hidup."
         }
-      ],
-      catatan: {
-        sd: ["Sakumaha pamundut, dina rukun ka-4 ditambahkeun lafaz مَعَهَا (sarta éta awéwé/bersamanya) sanggeus lafaz جَنِينُهَا (janinna). Hal ieu sangkan ma'nana leuwih jéntré yén éta janin kabawa kakubur sarta indungna."],
-        id: ["Sebagaimana permintaan, pada poin ke-4 ditambahkan lafal مَعَهَا (bersamanya) setelah lafal جَنِينُهَا (janinnya). Hal ini agar maknanya lebih jelas bahwa janin tersebut ikut terkubur bersama ibunya."]
-      }
+      ]
     },
 
     /* ---------------------- Minta Bantuan Bersuci ---------------------- */
@@ -2810,81 +2803,80 @@
       judul: "Hukum Minta Bantuan dalam Bersuci",
       ar:    "أَحْكَامُ الْإِسْتِعَانَاتِ (فِي الطَّهَارَةِ)",
       lat:   "menta tulung pangnyicikeun wudu susuci istianah",
-
       lines: [
         {
           ar: "الْإِسْتِعَانَاتُ أَرْبَعُ خِصَالٍ : مُبَاحَةٌ وَخِلَافُ الْأَوْلَى وَمَكْرُوهَةٌ وَوَاجِبَةٌ",
-          sd: "Ari pirang-pirang (hukum) ménta tulung (dina bab susuci), éta aya opat pirang-pirang tingkah: Nyaéta (anu ka-1) mubah (wenang), jeung (anu ka-2) khilaful aula, jeung (anu ka-3) makruh, jeung (anu ka-4) wajib[span_40](start_span)[span_40](end_span).",
-          id: "Hukum meminta bantuan (dalam urusan bersuci) itu ada empat perkara: Yaitu (yang ke-1) mubah, dan (yang ke-2) khilaful aula (menyalahi yang lebih utama), dan (yang ke-3) makruh, dan (yang ke-4) wajib[span_41](start_span)[span_41](end_span)."
+          sd: "Ari pirang-pirang hukum ménta tulung dina bab susuci, éta aya opat pirang-pirang tingkah: Nyaéta (anu ka-1) mubah, jeung (anu ka-2) khilaful aula, jeung (anu ka-3) makruh, jeung (anu ka-4) wajib.",
+          id: "Hukum meminta bantuan (dalam urusan bersuci) itu ada empat perkara: Yaitu (yang ke-1) mubah, dan (yang ke-2) khilaful aula (menyalahi yang lebih utama), dan (yang ke-3) makruh, dan (yang ke-4) wajib."
         },
         {
           ar: "فَالْمُبَاحَةُ هِيَ تَقْرِيبُ الْمَاءِ",
-          sd: "Mangka ari (ménta tulung) anu mubah, éta nyaéta (saukur) ménta pangdeukeutkeun cai[span_42](start_span)[span_42](end_span).",
-          id: "Maka meminta bantuan yang mubah (boleh) adalah meminta didekatkan air[span_43](start_span)[span_43](end_span)."
+          sd: "Mangka ari anu mubah, éta nyaéta ménta pangdeukeutkeun cai.",
+          id: "Maka meminta bantuan yang mubah (boleh) adalah meminta didekatkan air."
         },
         {
           ar: "وَخِلَافُ الْأَوْلَى هِيَ صَبُّ الْمَاءِ عَلَى نَحْوِ الْمُتَوَضِّئِ",
-          sd: "Jeung ari anu khilaful aula, éta nyaéta ménta pangnyicikeun cai ka (luhureun) jalma anu wudu atawa nu lianna[span_44](start_span)[span_44](end_span).",
-          id: "Dan yang khilaful aula adalah meminta dicurahkan air ke atas orang yang berwudu atau sejenisnya (seperti mandi)[span_45](start_span)[span_45](end_span)."
+          sd: "Jeung ari anu khilaful aula, éta nyaéta ménta pangnyicikeun cai ka jalma anu wudu atawa nu lianna.",
+          id: "Dan yang khilaful aula adalah meminta dicurahkan air ke atas orang yang berwudu atau sejenisnya (seperti mandi)."
         },
         {
           ar: "وَالْمَكْرُوهَةُ هِيَ لِمَنْ يَغْسِلُ أَعْضَاءَهُ",
-          sd: "Jeung ari anu makruh, éta nyaéta (ménta pangumbahkeun) ka jalma anu ngumbahkeun manéhna kana pirang-pirang anggota wuduna[span_46](start_span)[span_46](end_span).",
-          id: "Dan yang makruh adalah meminta tolong kepada orang yang membasuhkan anggota-anggota wudunya[span_47](start_span)[span_47](end_span)."
+          sd: "Jeung ari anu makruh, éta nyaéta ménta pangumbahkeun ka jalma anu ngumbahkeun manéhna kana pirang-pirang anggota wuduna.",
+          id: "Dan yang makruh adalah meminta tolong kepada orang yang membasuhkan anggota-anggota wudunya."
         },
         {
           ar: "وَالْوَاجِبَةُ هِيَ لِلْمَرِيضِ عِنْدَ الْعَجْزِ",
-          sd: "Jeung ari anu wajib, éta nyaéta (ménta tulung) pikeun jalma anu gering, tetep nalika apes (teu mampuh wudu sorangan)[span_48](start_span)[span_48](end_span).",
-          id: "Dan yang wajib adalah (meminta tolong) bagi orang sakit, ketika ia lemah (tidak mampu bersuci sendiri)[span_49](start_span)[span_49](end_span)."
+          sd: "Jeung ari anu wajib, éta nyaéta ménta tulung pikeun jalma anu gering nalika apes (teu mampuh wudu sorangan).",
+          id: "Dan yang wajib adalah (meminta tolong) bagi orang sakit, ketika ia lemah (tidak mampu bersuci sendiri)."
         }
       ]
     },
+
     /* ---------------------- Harta yang Wajib Dizakati ---------------------- */
     {
       judul: "Harta yang Wajib Dizakati",
       ar:    "الْأَمْوَالُ الَّتِي تَلْزَمُ فِيهَا الزَّكَاةُ",
       lat:   "zakat mal zakat harta wajb",
-
       lines: [
         {
           ar: "الْأَمْوَالُ الَّتِي تَلْزَمُ فِيهَا الزَّكَاةُ سِتَّةُ أَنْوَاعٍ",
-          sd: "Ari pirang-pirang harta anu wajib tetep dina éta harta zakat, éta aya genep pirang-pirang rupa[span_1](start_span)[span_1](end_span).",
-          id: "Harta-harta yang diwajibkan di dalamnya untuk dizakati itu ada enam macam[span_2](start_span)[span_2](end_span)."
+          sd: "Ari pirang-pirang harta anu wajib dina éta harta zakat, éta aya genep pirang-pirang rupa.",
+          id: "Harta-harta yang diwajibkan di dalamnya untuk dizakati itu ada enam macam."
         },
         {
           ar: "النَّعَمُ",
-          sd: "(Anu ka-1) Nyaéta sato ingon-ingon[span_3](start_span)[span_3](end_span).",
-          id: "(Yang ke-1) Yaitu binatang ternak[span_4](start_span)[span_4](end_span)."
+          sd: "(Anu ka-1) Nyaéta sato ingon-ingon.",
+          id: "(Yang ke-1) Yaitu binatang ternak."
         },
         {
           ar: "وَالنَّقْدَانِ",
-          sd: "Jeung (anu ka-2) dua emas-pérak (dirham jeung dinar)[span_5](start_span)[span_5](end_span).",
-          id: "Dan (yang ke-2) dua mata uang (emas dan perak)[span_6](start_span)[span_6](end_span)."
+          sd: "Jeung (anu ka-2) dua emas-pérak (dirham jeung dinar).",
+          id: "Dan (yang ke-2) dua mata uang (emas dan perak)."
         },
         {
           ar: "وَالْمُعَشَّرَاتُ",
-          sd: "Jeung (anu ka-3) pirang-pirang bungbuahan (anu dizakatan sapuluhna/sepersepuluhnya)[span_7](start_span)[span_7](end_span).",
-          id: "Dan (yang ke-3) hasil pertanian (yang wajib dizakati sepersepuluhnya)[span_8](start_span)[span_8](end_span)."
+          sd: "Jeung (anu ka-3) pirang-pirang bungbuahan (anu dizakatan sapuluhna/sepersepuluhnya).",
+          id: "Dan (yang ke-3) hasil pertanian (yang wajib dizakati sepersepuluhnya)."
         },
         {
           ar: "وَأَمْوَالُ التِّجَارَةِ",
-          sd: "Jeung (anu ka-4) pirang-pirang harta dagangan[span_9](start_span)[span_9](end_span).",
-          id: "Dan (yang ke-4) harta perdagangan[span_10](start_span)[span_10](end_span)."
+          sd: "Jeung (anu ka-4) pirang-pirang harta dagangan.",
+          id: "Dan (yang ke-4) harta perdagangan."
         },
         {
           ar: "وَوَاجِبُهَا رُبْعُ عُشْرِ قِيمَةِ عُرُوضِ التِّجَارَةِ",
-          sd: "Jeung ari anu wajibna zakat dagangan, éta saparapatna per sapuluh (2,5%) tina hargana pirang-pirang barang dagangan[span_11](start_span)[span_11](end_span).",
-          id: "Dan batas wajibnya (kadar zakat) perdagangan adalah seperempat dari sepersepuluh (2,5%) dari nilai barang dagangan[span_12](start_span)[span_12](end_span)."
+          sd: "Jeung ari anu wajibna zakat dagangan, éta saparapatna per sapuluh (2,5%) tina hargana pirang-pirang barang dagangan.",
+          id: "Dan batas wajibnya (kadar zakat) perdagangan adalah seperempat dari sepersepuluh (2,5%) dari nilai barang dagangan."
         },
         {
           ar: "وَالرِّكَازُ",
-          sd: "Jeung (anu ka-5) harta karun (rikaz)[span_13](start_span)[span_13](end_span).",
-          id: "Dan (yang ke-5) harta karun (rikaz)[span_14](start_span)[span_14](end_span)."
+          sd: "Jeung (anu ka-5) harta karun (rikaz).",
+          id: "Dan (yang ke-5) harta karun (rikaz)."
         },
         {
           ar: "وَالْمَعْدِنُ",
-          sd: "Jeung (anu ka-6) barang tambang[span_15](start_span)[span_15](end_span).",
-          id: "Dan (yang ke-6) barang tambang[span_16](start_span)[span_16](end_span)."
+          sd: "Jeung (anu ka-6) barang tambang.",
+          id: "Dan (yang ke-6) barang tambang."
         }
       ]
     },
@@ -2894,37 +2886,36 @@
       judul: "Sebab Wajibnya Puasa Ramadan",
       ar:    "أَسْبَابُ وُجُوبِ صَوْمِ رَمَضَانَ",
       lat:   "wajib puasa ramadan romadon sabab",
-
       lines: [
         {
           ar: "يَجِبُ صَوْمُ رَمَضَانَ بِأَحَدِ أُمُورٍ خَمْسَةٍ",
-          sd: "Wajib puasa (bulan) Ramadan, ku sabab salah sahijina pirang-pirang perkara anu lima[span_17](start_span)[span_17](end_span).",
-          id: "Wajib (melaksanakan) puasa Ramadan sebab salah satu dari lima perkara[span_18](start_span)[span_18](end_span)."
+          sd: "Wajib puasa bulan Ramadan, ku sabab salah sahijina pirang-pirang perkara anu lima.",
+          id: "Wajib (melaksanakan) puasa Ramadan sebab salah satu dari lima perkara."
         },
         {
           ar: "أَحَدُهَا : بِكَمَالِ شَعْبَانَ ثَلَاثِينَ يَوْمًا",
-          sd: "(Anu ka-1) Nyaéta ku sabab sampurnana (bulan) Sya'ban, kana tilu puluh poéna[span_19](start_span)[span_19](end_span).",
-          id: "(Yang ke-1) Yaitu dengan sempurnanya bulan Syakban menjadi tiga puluh hari[span_20](start_span)[span_20](end_span)."
+          sd: "(Anu ka-1) Nyaéta ku sabab sampurnana bulan Sya'ban kana tilu puluh poéna.",
+          id: "(Yang ke-1) Yaitu dengan sempurnanya bulan Syakban menjadi tiga puluh hari."
         },
         {
           ar: "وَثَانِيهَا : بِرُؤْيَةِ الْهِلَالِ فِي حَقِّ مَنْ رَآهُ وَإِنْ كَانَ فَاسِقًا",
-          sd: "Jeung (anu ka-2) ku sabab ningali hilal (bulan anyar), tetep dina hakna jalma anu ningali kana hilal sanajan kabuktian manéhna jalma fasik[span_21](start_span)[span_21](end_span).",
-          id: "Dan (yang ke-2) dengan melihat hilal (bulan sabit baru), bagi orang yang melihatnya meskipun ia seorang yang fasik[span_22](start_span)[span_22](end_span)."
+          sd: "Jeung (anu ka-2) ku sabab ningali hilal (bulan anyar), dina hakna jalma anu ningali kana hilal sanajan kabuktian manéhna jalma fasik.",
+          id: "Dan (yang ke-2) dengan melihat hilal (bulan sabit baru), bagi orang yang melihatnya meskipun ia seorang yang fasik."
         },
         {
           ar: "وَثَالِثُهَا : بِثُبُوتِهِ فِي حَقِّ مَنْ لَمْ يَرَهُ بِعَدْلِ شَهَادَةٍ",
-          sd: "Jeung (anu ka-3) ku sabab tetepna (aya) hilal, tetep dina hakna jalma anu henteu ningali kana hilal, kalawan kasaksian jalma adil[span_23](start_span)[span_23](end_span).",
-          id: "Dan (yang ke-3) dengan ketetapan (rukyat) hilal bagi orang yang tidak melihatnya, berdasarkan persaksian yang adil[span_24](start_span)[span_24](end_span)."
+          sd: "Jeung (anu ka-3) ku sabab tetepna (aya) hilal dina hakna jalma anu henteu ningali kana hilal, kalawan kasaksian jalma adil.",
+          id: "Dan (yang ke-3) dengan ketetapan (rukyat) hilal bagi orang yang tidak melihatnya, berdasarkan persaksian yang adil."
         },
         {
           ar: "وَرَابِعُهَا : بِإِخْبَارِ عَدْلِ رِوَايَةٍ مَوْثُوقٍ بِهِ سَوَاءٌ وَقَعَ فِي الْقَلْبِ صِدْقٌ أَمْ لَا أَوْ غَيْرِهِ مَوْثُوقٍ بِهِ إِنْ وَقَعَ فِي الْقَلْبِ صِدْقُهُ",
-          sd: "Jeung (anu ka-4) ku sabab béjana jalma anu adil riwayatna sarta anu dipercaya, boh tumiba dina haté benerna atawa henteu, atawa jalma lianna nu dipercaya lamun tumiba dina haté benerna[span_25](start_span)[span_25](end_span).",
-          id: "Dan (yang ke-4) dengan kabar dari orang yang adil riwayatnya serta dipercaya, baik kebenarannya terasa di hati atau tidak, atau (kabar dari) selainnya yang dipercaya apabila kebenarannya terasa di hati[span_26](start_span)[span_26](end_span)."
+          sd: "Jeung (anu ka-4) ku sabab béjana jalma anu adil riwayatna sarta anu dipercaya, boh tumiba dina haté benerna atawa henteu, atawa jalma lianna nu dipercaya lamun tumiba dina haté benerna.",
+          id: "Dan (yang ke-4) dengan kabar dari orang yang adil riwayatnya serta dipercaya, baik kebenarannya terasa di hati atau tidak, atau (kabar dari) selainnya yang dipercaya apabila kebenarannya terasa di hati."
         },
         {
           ar: "وَخَامِسُهَا : بِظَنِّ دُخُولِ رَمَضَانَ بِالْإِجْتِهَادِ فِيمَنْ اشْتَبَهَ عَلَيْهِ ذَلِكَ",
-          sd: "Jeung (anu ka-5) ku sabab nyangka kana asupna Ramadan kalawan jalan ijtihad, tetep dina hakna jalma anu samar (hésé nangtukeun) ka manéhna asupna bulan[span_27](start_span)[span_27](end_span).",
-          id: "Dan (yang ke-5) dengan dugaan masuknya Ramadan melalui ijtihad, bagi orang yang tersamar (kesulitan menentukan) masuknya bulan tersebut[span_28](start_span)[span_28](end_span)."
+          sd: "Jeung (anu ka-5) ku sabab nyangka kana asupna Ramadan kalawan jalan ijtihad, dina hakna jalma anu samar (hésé nangtukeun) ka manéhna asupna bulan.",
+          id: "Dan (yang ke-5) dengan dugaan masuknya Ramadan melalui ijtihad, bagi orang yang tersamar (kesulitan menentukan) masuknya bulan tersebut."
         }
       ]
     },
@@ -2934,32 +2925,31 @@
       judul: "Syarat Sah Puasa",
       ar:    "شُرُوطُ صِحَّةِ الصَّوْمِ",
       lat:   "syarat sah puasa romadon",
-
       lines: [
         {
           ar: "شُرُوطُ صِحَّتِهِ أَرْبَعَةُ أَشْيَاءَ",
-          sd: "Ari pirang-pirang syarat sahna puasa, éta aya opat pirang-pirang perkara[span_29](start_span)[span_29](end_span).",
-          id: "Syarat-syarat sahnya puasa itu ada empat hal[span_30](start_span)[span_30](end_span)."
+          sd: "Ari pirang-pirang syarat sahna puasa, éta aya opat pirang-pirang perkara.",
+          id: "Syarat-syarat sahnya puasa itu ada empat hal."
         },
         {
           ar: "إِسْلَامٌ",
-          sd: "(Anu ka-1) Nyaéta kudu Islam[span_31](start_span)[span_31](end_span).",
-          id: "(Yang ke-1) Yaitu beragama Islam[span_32](start_span)[span_32](end_span)."
+          sd: "(Anu ka-1) Nyaéta kudu Islam.",
+          id: "(Yang ke-1) Yaitu beragama Islam."
         },
         {
           ar: "وَعَقْلٌ",
-          sd: "Jeung (anu ka-2) boga akal[span_33](start_span)[span_33](end_span).",
-          id: "Dan (yang ke-2) berakal sehat[span_34](start_span)[span_34](end_span)."
+          sd: "Jeung (anu ka-2) boga akal.",
+          id: "Dan (yang ke-2) berakal sehat."
         },
         {
           ar: "وَنَقَاءٌ مِنْ نَحْوِ حَيْضٍ",
-          sd: "Jeung (anu ka-3) bersih tina saumpama haid[span_35](start_span)[span_35](end_span).",
-          id: "Dan (yang ke-3) bersih dari semisal haid[span_36](start_span)[span_36](end_span)."
+          sd: "Jeung (anu ka-3) bersih tina saumpama haid.",
+          id: "Dan (yang ke-3) bersih dari semisal haid."
         },
         {
           ar: "وَعِلْمٌ بِكَوْنِ الْوَقْتِ قَابِلًا لِلصَّوْمِ",
-          sd: "Jeung (anu ka-4) nyaho kana kabuktian waktu anu bisa narima kana dipigawéna puasa[span_37](start_span)[span_37](end_span).",
-          id: "Dan (yang ke-4) mengetahui keberadaan waktu yang bisa menerima untuk dipuasakan[span_38](start_span)[span_38](end_span)."
+          sd: "Jeung (anu ka-4) nyaho kana kabuktian waktu anu bisa narima kana dipigawéna puasa.",
+          id: "Dan (yang ke-4) mengetahui keberadaan waktu yang bisa menerima untuk dipuasakan."
         }
       ]
     },
@@ -2969,37 +2959,36 @@
       judul: "Syarat Wajib Puasa",
       ar:    "شُرُوطُ وُجُوبِ الصَّوْمِ",
       lat:   "syarat wajib puasa",
-
       lines: [
         {
           ar: "شُرُوطُ وُجُوبِهِ خَمْسَةُ أَشْيَاءَ",
-          sd: "Ari pirang-pirang syarat wajibna puasa, éta aya lima pirang-pirang perkara[span_39](start_span)[span_39](end_span).",
-          id: "Syarat-syarat wajibnya puasa itu ada lima hal[span_40](start_span)[span_40](end_span)."
+          sd: "Ari pirang-pirang syarat wajibna puasa, éta aya lima pirang-pirang perkara.",
+          id: "Syarat-syarat wajibnya puasa itu ada lima hal."
         },
         {
           ar: "إِسْلَامٌ",
-          sd: "(Anu ka-1) Nyaéta (agama) Islam[span_41](start_span)[span_41](end_span).",
-          id: "(Yang ke-1) Yaitu beragama Islam[span_42](start_span)[span_42](end_span)."
+          sd: "(Anu ka-1) Nyaéta Islam.",
+          id: "(Yang ke-1) Yaitu beragama Islam."
         },
         {
           ar: "وَتَكْلِيفٌ",
-          sd: "Jeung (anu ka-2) mukallaf (baligh jeung boga akal)[span_43](start_span)[span_43](end_span).",
-          id: "Dan (yang ke-2) mukalaf (baligh dan berakal)[span_44](start_span)[span_44](end_span)."
+          sd: "Jeung (anu ka-2) mukallaf (baligh jeung boga akal).",
+          id: "Dan (yang ke-2) mukalaf (baligh dan berakal)."
         },
         {
           ar: "وَإِطَاقَةٌ",
-          sd: "Jeung (anu ka-3) kuat (mampuh) migawé puasa[span_45](start_span)[span_45](end_span).",
-          id: "Dan (yang ke-3) mampu (kuat) berpuasa[span_46](start_span)[span_46](end_span)."
+          sd: "Jeung (anu ka-3) kuat (mampuh) migawé puasa.",
+          id: "Dan (yang ke-3) mampu (kuat) berpuasa."
         },
         {
           ar: "وَصِحَّةٌ",
-          sd: "Jeung (anu ka-4) séhat[span_47](start_span)[span_47](end_span).",
-          id: "Dan (yang ke-4) sehat[span_48](start_span)[span_48](end_span)."
+          sd: "Jeung (anu ka-4) séhat.",
+          id: "Dan (yang ke-4) sehat."
         },
         {
           ar: "وَإِقَامَةٌ",
-          sd: "Jeung (anu ka-5) mukim (henteu keur lalampahan/safar)[span_49](start_span)[span_49](end_span).",
-          id: "Dan (yang ke-5) mukim (tidak sedang bepergian)[span_50](start_span)[span_50](end_span)."
+          sd: "Jeung (anu ka-5) mukim (henteu keur lalampahan/safar).",
+          id: "Dan (yang ke-5) mukim (tidak sedang bepergian)."
         }
       ]
     },
@@ -3009,76 +2998,75 @@
       judul: "Rukun Puasa",
       ar:    "أَرْكَانُ الصَّوْمِ",
       lat:   "rukun puasa",
-
       lines: [
         {
           ar: "أَرْكَانُهُ ثَلَاثَةُ أَشْيَاءَ",
-          sd: "Ari pirang-pirang rukunna puasa, éta aya tilu pirang-pirang perkara[span_51](start_span)[span_51](end_span).",
-          id: "Rukun-rukun puasa itu ada tiga hal[span_52](start_span)[span_52](end_span)."
+          sd: "Ari pirang-pirang rukunna puasa, éta aya tilu pirang-pirang perkara.",
+          id: "Rukun-rukun puasa itu ada tiga hal."
         },
         {
           ar: "نِيَّةٌ لَيْلًا لِكُلِّ يَوْمٍ فِي الْفَرْضِ",
-          sd: "(Anu ka-1) Nyaéta niat ti peuting pikeun saban-saban poé, tetep dina puasa fardu[span_53](start_span)[span_53](end_span).",
-          id: "(Yang ke-1) Yaitu berniat pada malam hari untuk setiap harinya, pada (pelaksanaan) puasa fardu[span_54](start_span)[span_54](end_span)."
+          sd: "(Anu ka-1) Nyaéta niat ti peuting pikeun saban-saban poé, dina puasa fardu.",
+          id: "(Yang ke-1) Yaitu berniat pada malam hari untuk setiap harinya, pada (pelaksanaan) puasa fardu."
         },
         {
           ar: "وَتَرْكُ مُفْطِرٍ ذَاكِرًا مُخْتَارًا غَيْرَ جَاهِلٍ مَعْذُورٍ",
-          sd: "Jeung (anu ka-2) ninggalkeun perkara anu ngabatalkeun (puasa), bari émut (keur puasa), kalawan pilihan sorangan (teu dipaksa), salian ti anu bodo tur meunang uzur[span_55](start_span)[span_55](end_span).",
-          id: "Dan (yang ke-2) meninggalkan perkara yang membatalkan (puasa), dalam keadaan ingat (sedang puasa), dalam keadaan atas pilihan sendiri (tidak dipaksa), serta bukan orang yang bodoh yang mendapat uzur[span_56](start_span)[span_56](end_span)."
+          sd: "Jeung (anu ka-2) ninggalkeun perkara anu ngabatalkeun puasa bari émut (keur puasa), kalawan pilihan sorangan (teu dipaksa), salian ti anu bodo tur meunang uzur.",
+          id: "Dan (yang ke-2) meninggalkan perkara yang membatalkan (puasa), dalam keadaan ingat (sedang puasa), dalam keadaan atas pilihan sendiri (tidak dipaksa), serta bukan orang yang bodoh yang mendapat uzur."
         },
         {
           ar: "وَصَائِمٌ",
-          sd: "Jeung (anu ka-3) jalma anu puasana[span_57](start_span)[span_57](end_span).",
-          id: "Dan (yang ke-3) orang yang berpuasa[span_58](start_span)[span_58](end_span)."
+          sd: "Jeung (anu ka-3) jalma anu puasana.",
+          id: "Dan (yang ke-3) orang yang berpuasa."
         }
       ]
     },
+
     /* ---------------------- Kewajiban Kaffarah, Qadha & Imsak ---------------------- */
     {
       judul: "Kewajiban Kaffarah, Qadha, dan Imsak",
       ar:    "مُوجِبَاتُ الْكَفَّارَةِ وَالْإِمْسَاكِ",
       lat:   "wajib kaffarah qadha imsak puasa romadon",
-
       lines: [
         {
           ar: "يَجِبُ مَعَ الْقَضَاءِ لِلصَّوْمِ الْكَفَّارَةُ الْعُظْمَى وَالتَّعْزِيرُ عَلَى مَنْ أَفْسَدَ صَوْمَهُ فِي رَمَضَانَ يَوْمًا كَامِلًا بِجِمَاعٍ تَامٍ آثِمٍ بِهِ لِلصَّوْمِ",
-          sd: "Wajib sarta ngodoan puasa, (migawe) kaffarah uzhma (badag) jeung ta'zir (hukuman), ka jalma anu ngaruksak puasana dina bulan Ramadan sapoé jeput kalawan jima' anu sampurna tur dosa manéhna ku sabab éta jima' kana puasa[span_1](start_span)[span_1](end_span).",
-          id: "Wajib beserta mengqada puasa, (menunaikan) kaffarah uzhma (tebusan besar) dan ta'zir (hukuman) bagi orang yang merusak puasanya di bulan Ramadan sehari penuh dengan jima' (bersetubuh) yang sempurna, yang mana ia berdosa dengan jima' tersebut atas puasanya[span_2](start_span)[span_2](end_span)."
+          sd: "Wajib sarta ngodoan puasa, kaffarah uzhma (badag) jeung ta'zir (hukuman), ka jalma anu ngaruksak puasana dina bulan Ramadan sapoé jeput kalawan jima' anu sampurna tur dosa manéhna ku sabab éta jima' kana puasa.",
+          id: "Wajib beserta mengqada puasa, (menunaikan) kaffarah uzhma (tebusan besar) dan ta'zir (hukuman) bagi orang yang merusak puasanya di bulan Ramadan sehari penuh dengan jima' (bersetubuh) yang sempurna, yang mana ia berdosa dengan jima' tersebut atas puasanya."
         },
         {
           ar: "وَيَجِبُ مَعَ الْقَضَاءِ الْإِمْسَاكُ لِلصَّوْمِ فِي سِتَّةِ مَوَاضِعَ",
-          sd: "Jeung wajib sarta ngodoan, imsak (nahan diri tina hal nu ngabatalkeun kawas nu puasa) dina genep pirang-pirang tempat[span_3](start_span)[span_3](end_span):",
-          id: "Dan wajib beserta mengqada puasa, untuk imsak (menahan diri seperti orang berpuasa) pada enam keadaan[span_4](start_span)[span_4](end_span):"
+          sd: "Jeung wajib sarta ngodoan, imsak (nahan diri kawas nu puasa) dina genep pirang-pirang tempat:",
+          id: "Dan wajib beserta mengqada puasa, untuk imsak (menahan diri seperti orang berpuasa) pada enam keadaan:"
         },
         {
           ar: "الْأَوَّلُ : فِي رَمَضَانَ لَا فِي غَيْرِهِ عَلَى مُتَعَدٍّ بِفِطْرِهِ",
-          sd: "(Anu ka-1) Nyaéta dina bulan Ramadan, henteu dina salian Ramadan, ka jalma anu ngahaja (ngaruksak) kalawan ngabatalkeun puasana[span_5](start_span)[span_5](end_span).",
-          id: "(Yang ke-1) Yaitu pada bulan Ramadan, bukan pada selain Ramadan, bagi orang yang melanggar (sengaja) membatalkan puasanya[span_6](start_span)[span_6](end_span)."
+          sd: "(Anu ka-1) Nyaéta dina bulan Ramadan, henteu dina salian Ramadan, ka jalma anu ngahaja ngabatalkeun puasana.",
+          id: "(Yang ke-1) Yaitu pada bulan Ramadan, bukan pada selain Ramadan, bagi orang yang melanggar (sengaja) membatalkan puasanya."
         },
         {
           ar: "وَالثَّانِي : عَلَى تَارِكِ النِّيَّةِ لَيْلًا فِي الْفَرْضِ",
-          sd: "Jeung (anu ka-2) ka jalma anu ninggalkeun niat ti peuting dina puasa fardu[span_7](start_span)[span_7](end_span).",
-          id: "Dan (yang ke-2) bagi orang yang meninggalkan niat di malam hari pada (pelaksanaan) puasa fardu[span_8](start_span)[span_8](end_span)."
+          sd: "Jeung (anu ka-2) ka jalma anu ninggalkeun niat ti peuting dina puasa fardu.",
+          id: "Dan (yang ke-2) bagi orang yang meninggalkan niat di malam hari pada (pelaksanaan) puasa fardu."
         },
         {
           ar: "وَالثَّالِثُ : عَلَى مَنْ تَسَحَّرَ ظَانًّا بَقَاءَ اللَّيْلِ فَبَانَ خِلَافُهُ أَيْضًا",
-          sd: "Jeung (anu ka-3) ka jalma anu saur bari nyangka masih aya peuting, tuluy tétéla (nyata) sabalikna (geus beurang)[span_9](start_span)[span_9](end_span).",
-          id: "Dan (yang ke-3) bagi orang yang sahur karena menyangka masih malam, lalu ternyata sebaliknya (sudah masuk waktu subuh)[span_10](start_span)[span_10](end_span)."
+          sd: "Jeung (anu ka-3) ka jalma anu saur bari nyangka masih aya peuting, tuluy tétéla sabalikna (geus beurang).",
+          id: "Dan (yang ke-3) bagi orang yang sahur karena menyangka masih malam, lalu ternyata sebaliknya (sudah masuk waktu subuh)."
         },
         {
           ar: "وَالرَّابِعُ : عَلَى مَنْ أَفْطَرَ ظَانًّا الْغُرُوبَ فَبَانَ خِلَافُهُ أَيْضًا",
-          sd: "Jeung (anu ka-4) ka jalma anu ngabatalkeun puasa bari nyangka geus surup panonpoé, tuluy tétéla sabalikna (acan surup)[span_11](start_span)[span_11](end_span).",
-          id: "Dan (yang ke-4) bagi orang yang berbuka puasa karena menyangka matahari sudah terbenam, lalu ternyata sebaliknya (belum terbenam)[span_12](start_span)[span_12](end_span)."
+          sd: "Jeung (anu ka-4) ka jalma anu ngabatalkeun puasa bari nyangka geus surup panonpoé, tuluy tétéla sabalikna (acan surup).",
+          id: "Dan (yang ke-4) bagi orang yang berbuka puasa karena menyangka matahari sudah terbenam, lalu ternyata sebaliknya (belum terbenam)."
         },
         {
           ar: "وَالْخَامِسُ : عَلَى مَنْ بَانَ لَهُ يَوْمُ ثَلَاثِينَ مِنْ شَعْبَانَ أَنَّهُ مِنْ رَمَضَانَ",
-          sd: "Jeung (anu ka-5) ka jalma anu tétéla (nyata) ka manéhna dina poé katilu puluh tina bulan Sya'ban, yén éta poé téh kaasup bulan Ramadan[span_13](start_span)[span_13](end_span).",
-          id: "Dan (yang ke-5) bagi orang yang baru mengetahui (menjadi jelas) pada hari ketiga puluh bulan Syakban bahwa hari itu sebenarnya sudah masuk Ramadan[span_14](start_span)[span_14](end_span)."
+          sd: "Jeung (anu ka-5) ka jalma anu tétéla ka manéhna dina poé katilu puluh tina bulan Sya'ban, yén éta poé téh kaasup bulan Ramadan.",
+          id: "Dan (yang ke-5) bagi orang yang baru mengetahui (menjadi jelas) pada hari ketiga puluh bulan Syakban bahwa hari itu sebenarnya sudah masuk Ramadan."
         },
         {
           ar: "وَالسَّادِسُ : عَلَى مَنْ سَبَقَهُ مَاءُ الْمُبَالَغَةِ مِنْ مَضْمَضَةٍ وَاسْتِنْشَاقٍ",
-          sd: "Jeung (anu ka-6) ka jalma anu miheulaan ka manéhna (kateleman) cai lantaran kaleuleuwihi tina kekemu jeung ngingsreuk cai kana irung[span_15](start_span)[span_15](end_span).",
-          id: "Dan (yang ke-6) bagi orang yang tertelan air akibat berlebihan (terlalu keras) saat berkumur dan memasukkan air ke hidung (saat wudu)[span_16](start_span)[span_16](end_span)."
+          sd: "Jeung (anu ka-6) ka jalma anu kateleman cai lantaran kaleuleuwihi tina kekemu jeung ngingsreuk cai kana irung.",
+          id: "Dan (yang ke-6) bagi orang yang tertelan air akibat berlebihan (terlalu keras) saat berkumur dan memasukkan air ke hidung (saat wudu)."
         }
       ]
     },
@@ -3088,27 +3076,26 @@
       judul: "Perkara yang Membatalkan Puasa",
       ar:    "مُبْطِلَاتُ الصَّوْمِ",
       lat:   "batal puasa",
-
       lines: [
         {
           ar: "يَبْطُلُ الصَّوْمُ بِرِدَّةٍ",
-          sd: "Batal puasa téh, (anu ka-1) ku sabab murtad (kaluar tina Islam)[span_17](start_span)[span_17](end_span).",
-          id: "Puasa itu batal, (yang ke-1) karena murtad (keluar dari Islam)[span_18](start_span)[span_18](end_span)."
+          sd: "Batal puasa téh, (anu ka-1) ku sabab murtad.",
+          id: "Puasa itu batal, (yang ke-1) karena murtad (keluar dari Islam)."
         },
         {
           ar: "وَحَيْضٍ وَنِفَاسٍ أَوْ وِلَادَةٍ",
-          sd: "Jeung (anu ka-2) ku sabab haid, jeung (anu ka-3) nifas, atawa (anu ka-4) ngalahirkeun[span_19](start_span)[span_19](end_span).",
-          id: "Dan (yang ke-2) karena haid, dan (yang ke-3) nifas, atau (yang ke-4) melahirkan[span_20](start_span)[span_20](end_span)."
+          sd: "Jeung (anu ka-2) ku sabab haid, jeung (anu ka-3) nifas, atawa (anu ka-4) ngalahirkeun.",
+          id: "Dan (yang ke-2) karena haid, dan (yang ke-3) nifas, atau (yang ke-4) melahirkan."
         },
         {
           ar: "وَجُنُونٍ وَلَوْ لَحْظَةً",
-          sd: "Jeung (anu ka-5) gélo, sanajan ukur sakedapan[span_21](start_span)[span_21](end_span).",
-          id: "Dan (yang ke-5) karena gila, meskipun hanya sesaat[span_22](start_span)[span_22](end_span)."
+          sd: "Jeung (anu ka-5) gélo, sanajan ukur sakedapan.",
+          id: "Dan (yang ke-5) karena gila, meskipun hanya sesaat."
         },
         {
           ar: "وَبِإِغْمَاءٍ وَسُكْرٍ تَعَدَّى بِهِ إِنْ عَمَّا جَمِيعَ النَّهَارِ",
-          sd: "Jeung (anu ka-6) ku sabab katurelan (pingsan) sarta mabok anu ngahaja ngaleuwihan wates (ngalanggar) ku éta mabok, lamun rata baé kana sapopoé jeput (tina subuh tepi ka magrib)[span_23](start_span)[span_23](end_span).",
-          id: "Dan (yang ke-6) karena pingsan dan mabuk yang disengaja melampaui batas dengan mabuk tersebut, apabila (keadaan itu) merata sepanjang siang hari (dari subuh hingga magrib)[span_24](start_span)[span_24](end_span)."
+          sd: "Jeung (anu ka-6) ku sabab katurelan (pingsan) sarta mabok anu ngahaja ngaleuwihan wates ku éta mabok, lamun rata baé kana sapopoé jeput.",
+          id: "Dan (yang ke-6) karena pingsan dan mabuk yang disengaja melampaui batas dengan mabuk tersebut, apabila (keadaan itu) merata sepanjang siang hari (dari subuh hingga magrib)."
         }
       ]
     },
@@ -3118,111 +3105,110 @@
       judul: "Hukum Iftar (Berbuka) & Konsekuensinya",
       ar:    "أَنْوَاعُ الْإِفْطَارِ وَأَقْسَامُهُ",
       lat:   "hukum iftar buka puasa batal qadha fidyah",
-
       lines: [
         {
           ar: "الْإِفْطَارُ فِي رَمَضَانَ أَرْبَعَةُ أَنْوَاعٍ",
-          sd: "Ari (hukum) ngabatalkeun puasa dina bulan Ramadan, éta aya opat pirang-pirang rupa[span_25](start_span)[span_25](end_span):",
-          id: "Hukum berbuka (membatalkan) puasa di bulan Ramadan itu ada empat macam[span_26](start_span)[span_26](end_span):"
+          sd: "Ari hukum ngabatalkeun puasa dina bulan Ramadan, éta aya opat pirang-pirang rupa:",
+          id: "Hukum berbuka (membatalkan) puasa di bulan Ramadan itu ada empat macam:"
         },
         {
           ar: "وَاجِبٌ كَمَا فِي الْحَائِضِ وَالنُّفَسَاءِ",
-          sd: "(Anu ka-1) Nyaéta wajib, saperti (ngabatalkeun) di jalma awéwé anu haid jeung anu nifas[span_27](start_span)[span_27](end_span).",
-          id: "(Yang ke-1) Yaitu wajib, seperti bagi wanita yang sedang haid dan nifas[span_28](start_span)[span_28](end_span)."
+          sd: "(Anu ka-1) Nyaéta wajib, saperti ngabatalkeun di jalma awéwé anu haid jeung anu nifas.",
+          id: "(Yang ke-1) Yaitu wajib, seperti bagi wanita yang sedang haid dan nifas."
         },
         {
           ar: "وَجَائِزٌ كَمَا فِي الْمُسَافِرِ وَالْمَرِيضِ",
-          sd: "Jeung (anu ka-2) wenang (kenging), saperti di jalma anu keur lalampahan (musafir) jeung jalma anu gering[span_29](start_span)[span_29](end_span).",
-          id: "Dan (yang ke-2) mubah (boleh), seperti bagi musafir dan orang yang sakit[span_30](start_span)[span_30](end_span)."
+          sd: "Jeung (anu ka-2) wenang (kenging), saperti di jalma anu keur lalampahan (musafir) jeung jalma anu gering.",
+          id: "Dan (yang ke-2) mubah (boleh), seperti bagi musafir dan orang yang sakit."
         },
         {
           ar: "وَلَا وَلَا كَمَا فِي الْمَجْنُونِ",
-          sd: "Jeung (anu ka-3) henteu wajib tur henteu wenang, saperti di jalma anu gélo[span_31](start_span)[span_31](end_span).",
-          id: "Dan (yang ke-3) tidak wajib dan tidak mubah, seperti bagi orang yang gila[span_32](start_span)[span_32](end_span)."
+          sd: "Jeung (anu ka-3) henteu wajib tur henteu wenang, saperti di jalma anu gélo.",
+          id: "Dan (yang ke-3) tidak wajib dan tidak mubah, seperti bagi orang yang gila."
         },
         {
           ar: "وَمُحَرَّمٌ كَمَنْ أَخَّرَ قَضَاءَ رَمَضَانَ تَمَكَّنَهُ حَتَّى ضَاقَ الْوَقْتُ عَنْهُ",
-          sd: "Jeung (anu ka-4) haram, saperti jalma anu ngahirkeun ngodoan puasa Ramadan bari mampuh manéhna (puasa), tepi ka heureut (méped) waktu ti éta qadha[span_33](start_span)[span_33](end_span).",
-          id: "Dan (yang ke-4) haram, seperti orang yang menunda qada puasa Ramadan padahal ia mampu, hingga waktunya menjadi sempit (hampir masuk Ramadan berikutnya)[span_34](start_span)[span_34](end_span)."
+          sd: "Jeung (anu ka-4) haram, saperti jalma anu ngahirkeun ngodoan puasa Ramadan bari mampuh manéhna, tepi ka heureut (méped) waktuna.",
+          id: "Dan (yang ke-4) haram, seperti orang yang menunda qada puasa Ramadan padahal ia mampu, hingga waktunya menjadi sempit (hampir masuk Ramadan berikutnya)."
         },
         {
           ar: "وَأَقْسَامُ الْإِفْطَارِ أَرْبَعَةٌ أَيْضًا",
-          sd: "Jeung ari pirang-pirang bagean (konsekuensi) ngabatalkeun puasa, éta aya opat (bagean) ogé[span_35](start_span)[span_35](end_span):",
-          id: "Dan konsekuensi dari berbuka puasa itu ada empat macam juga[span_36](start_span)[span_36](end_span):"
+          sd: "Jeung ari pirang-pirang bagean konsekuensi ngabatalkeun puasa, éta aya opat ogé:",
+          id: "Dan konsekuensi dari berbuka puasa itu ada empat macam juga:"
         },
         {
           ar: "مَا يَلْزَمُ فِيهِ الْقَضَاءُ وَالْفِدْيَةُ وَهُوَ اثْنَانِ : الْأَوَّلُ الْإِفْطَارُ لِخَوْفٍ عَلَى غَيْرِهِ",
-          sd: "(Anu ka-1) Nyaéta perkara anu wajib di jerona ngodoan jeung (mayar) fidyah. Jeung éta aya dua: Kahiji, ngabatalkeun puasa lantaran hariwang ka nu séjén (kawas indung nu nyusuan hariwang ka orokna)[span_37](start_span)[span_37](end_span).",
-          id: "(Yang ke-1) Yaitu yang mewajibkan qada dan (membayar) fidyah. Hal ini ada dua: Pertama, berbuka puasa karena mengkhawatirkan orang lain (seperti ibu menyusui yang khawatir pada bayinya)[span_38](start_span)[span_38](end_span)."
+          sd: "(Anu ka-1) Nyaéta perkara anu wajib di jerona ngodoan jeung mayar fidyah. Jeung éta aya dua: Kahiji, ngabatalkeun puasa lantaran hariwang ka nu séjén.",
+          id: "(Yang ke-1) Yaitu yang mewajibkan qada dan (membayar) fidyah. Hal ini ada dua: Pertama, berbuka puasa karena mengkhawatirkan orang lain (seperti ibu menyusui yang khawatir pada bayinya)."
         },
         {
           ar: "وَالثَّانِي الْإِفْطَارُ مَعَ تَأْخِيرِ قَضَاءٍ مَعَ إِمْكَانِهِ حَتَّى يَأْتِيَ رَمَضَانُ آخَرُ",
-          sd: "Jeung (anu kaduana tina bagean kahiji) ngabatalkeun puasa (teu puasa) sarta ngahirkeun ngodoan, bari mampuh manéhna (dipigawé), tepi ka datang Ramadan anu séjén[span_39](start_span)[span_39](end_span).",
-          id: "Dan (yang kedua dari bagian pertama) tidak berpuasa beserta menunda qada puasa padahal ia mampu, hingga datang bulan Ramadan berikutnya[span_40](start_span)[span_40](end_span)."
+          sd: "Jeung anu kadua ngabatalkeun puasa sarta ngahirkeun ngodoan, bari mampuh manéhna, tepi ka datang Ramadan anu séjén.",
+          id: "Dan (yang kedua dari bagian pertama) tidak berpuasa beserta menunda qada puasa padahal ia mampu, hingga datang bulan Ramadan berikutnya."
         },
         {
           ar: "وَثَانِيهَا مَا يَلْزَمُ فِيهِ الْقَضَاءُ دُونَ الْفِدْيَةِ وَهُوَ يَكْثُرُ كَمُغْمًى عَلَيْهِ",
-          sd: "Jeung (bagean anu ka-2) nyaéta perkara anu wajib di jerona ngodoan henteu wajib fidyah. Jeung ieu mah loba (contona), saperti jalma anu katurelan (pingsan)[span_41](start_span)[span_41](end_span).",
-          id: "Dan (bagian ke-2) yaitu yang mewajibkan qada saja tanpa fidyah. Dan ini contohnya banyak, seperti orang yang pingsan[span_42](start_span)[span_42](end_span)."
+          sd: "Jeung (bagean anu ka-2) nyaéta perkara anu wajib di jerona ngodoan henteu wajib fidyah. Jeung ieu mah loba contona, saperti jalma anu katurelan (pingsan).",
+          id: "Dan (bagian ke-2) yaitu yang mewajibkan qada saja tanpa fidyah. Dan ini contohnya banyak, seperti orang yang pingsan."
         },
         {
           ar: "وَثَالِثُهُمَا مَا يَلْزَمُ فِيهِ الْفِدْيَةُ دُونَ الْقَضَاءِ وَهُوَ شَيْخٌ كَبِيرٌ",
-          sd: "Jeung (bagean anu ka-3) nyaéta perkara anu wajib di jerona fidyah henteu wajib ngodoan. Jeung éta nyaéta (saperti) sepuh (jalma kolot) anu geus udur pisa[span_43](start_span)[span_43](end_span).",
-          id: "Dan (bagian ke-3) yaitu yang mewajibkan fidyah saja tanpa qada. Dan ini (seperti) orang tua renta yang sangat lemah[span_44](start_span)[span_44](end_span)."
+          sd: "Jeung (bagean anu ka-3) nyaéta perkara anu wajib di jerona fidyah henteu wajib ngodoan. Jeung éta saperti sepuh (jalma kolot) anu geus udur pisan.",
+          id: "Dan (bagian ke-3) yaitu yang mewajibkan fidyah saja tanpa qada. Dan ini (seperti) orang tua renta yang sangat lemah."
         },
         {
           ar: "وَرَابِعُهَا لَا وَلَا وَهُوَ الْمَجْنُونُ الَّذِي لَمْ يَتَعَدَّ بِجُنُونِهِ",
-          sd: "Jeung (bagean anu ka-4) nyaéta henteu wajib (ngodoan) tur henteu wajib (fidyah). Jeung éta nyaéta jalma gélo anu henteu ngahaja manéhna kalawan gélona[span_45](start_span)[span_45](end_span).",
-          id: "Dan (bagian ke-4) yaitu tidak wajib (qada) dan tidak wajib (fidyah). Dan ini adalah orang gila yang tidak sengaja membuat dirinya gila[span_46](start_span)[span_46](end_span)."
+          sd: "Jeung (bagean anu ka-4) nyaéta henteu wajib ngodoan tur henteu wajib fidyah. Jeung éta nyaéta jalma gélo anu henteu ngahaja manéhna kalawan gélona.",
+          id: "Dan (bagian ke-4) yaitu tidak wajib (qada) dan tidak wajib (fidyah). Dan ini adalah orang gila yang tidak sengaja membuat dirinya gila."
         }
       ]
     },
+
     /* ---------------------- Masuk ke Rongga Tidak Batal Puasa ---------------------- */
     {
       judul: "Perkara Masuk ke Rongga yang Tidak Membatalkan Puasa",
       ar:    "الَّذِي لَا يُفْطِرُ مِمَّا يَصِلُ إِلَى الْجَوْفِ",
       lat:   "teu batal puasa rongga huntu",
-
       lines: [
         {
           ar: "الَّذِي لَا يُفْطِرُ مِمَّا يَصِلُ إِلَى الْجَوْفِ سَبْعَةُ أَفْرَادٍ",
-          sd: "Ari perkara anu teu ngabatalkeun (kana puasa) tina perkara anu nepi kana rongga (beuteung), éta aya tujuh pirang-pirang rupa[span_3](start_span)[span_3](end_span).",
-          id: "Perkara yang tidak membatalkan (puasa) dari hal-hal yang masuk ke dalam rongga (perut) itu ada tujuh macam[span_4](start_span)[span_4](end_span)."
+          sd: "Ari perkara anu teu ngabatalkeun tina perkara anu nepi kana rongga (beuteung), éta aya tujuh pirang-pirang rupa.",
+          id: "Perkara yang tidak membatalkan (puasa) dari hal-hal yang masuk ke dalam rongga (perut) itu ada tujuh macam."
         },
         {
           ar: "مَا يَصِلُ إِلَى الْجَوْفِ بِنِسْيَانٍ",
-          sd: "(Anu ka-1) Nyaéta perkara anu nepi kana rongga ku lantaran poho[span_5](start_span)[span_5](end_span).",
-          id: "(Yang ke-1) Yaitu sesuatu yang masuk ke rongga karena lupa[span_6](start_span)[span_6](end_span)."
+          sd: "(Anu ka-1) Nyaéta perkara anu nepi kana rongga ku lantaran poho.",
+          id: "(Yang ke-1) Yaitu sesuatu yang masuk ke rongga karena lupa."
         },
         {
           ar: "أَوْ جَهْلٍ",
-          sd: "Atawa (anu ka-2) ku lantaran bodo[span_7](start_span)[span_7](end_span).",
-          id: "Atau (yang ke-2) karena bodoh (tidak tahu/awam)[span_8](start_span)[span_8](end_span)."
+          sd: "Atawa (anu ka-2) ku lantaran bodo.",
+          id: "Atau (yang ke-2) karena bodoh (tidak tahu/awam)."
         },
         {
           ar: "أَوْ إِكْرَاهٍ",
-          sd: "Atawa (anu ka-3) ku lantaran dipaksa[span_9](start_span)[span_9](end_span).",
-          id: "Atau (yang ke-3) karena dipaksa[span_10](start_span)[span_10](end_span)."
+          sd: "Atawa (anu ka-3) ku lantaran dipaksa.",
+          id: "Atau (yang ke-3) karena dipaksa."
         },
         {
           ar: "وَبِجَرَيَانِ رِيقٍ بِمَا بَيْنَ أَسْنَانِهِ وَقَدْ عَجَزَ عَنْ مَجِّهِ لِعُذْرِهِ",
-          sd: "Jeung (anu ka-4) ku lantaran ngocorna ciduh sarta perkara anu aya di antara huntuna (sésa kadaharan), bari temen-temen teu mampuh manéhna tina nyiduhkeunana lantaran aya uzur[span_11](start_span)[span_11](end_span).",
-          id: "Dan (yang ke-4) karena mengalirnya air liur beserta sesuatu (sisa makanan) yang berada di antara giginya, sementara ia benar-benar tidak mampu meludahkannya karena suatu uzur[span_12](start_span)[span_12](end_span)."
+          sd: "Jeung (anu ka-4) ku lantaran ngocorna ciduh sarta perkara anu aya di antara huntuna (sésa kadaharan), bari temen-temen teu mampuh manéhna tina nyiduhkeunana lantaran aya uzur.",
+          id: "Dan (yang ke-4) karena mengalirnya air liur beserta sesuatu (sisa makanan) yang berada di antara giginya, sementara ia benar-benar tidak mampu meludahkannya karena suatu uzur."
         },
         {
           ar: "وَمَا وَصَلَ إِلَى الْجَوْفِ وَكَانَ غُبَارَ طَرِيقٍ",
-          sd: "Jeung (anu ka-5) perkara anu nepi kana rongga, sarta kabuktian éta perkara téh lebu jalan[span_13](start_span)[span_13](end_span).",
-          id: "Dan (yang ke-5) sesuatu yang masuk ke rongga, dan sesuatu itu berupa debu jalan[span_14](start_span)[span_14](end_span)."
+          sd: "Jeung (anu ka-5) perkara anu nepi kana rongga, sarta kabuktian éta perkara téh lebu jalan.",
+          id: "Dan (yang ke-5) sesuatu yang masuk ke rongga, dan sesuatu itu berupa debu jalan."
         },
         {
           ar: "وَمَا وَصَلَ إِلَيْهِ وَكَانَ غَرْبَلَةَ دَقِيقٍ",
-          sd: "Jeung (anu ka-6) perkara anu nepi kana éta rongga, sarta kabuktian éta perkara téh kebul ayakan tipung[span_15](start_span)[span_15](end_span).",
-          id: "Dan (yang ke-6) sesuatu yang masuk ke dalamnya, dan sesuatu itu berupa kebul ayakan tepung[span_16](start_span)[span_16](end_span)."
+          sd: "Jeung (anu ka-6) perkara anu nepi kana éta rongga, sarta kabuktian éta perkara téh kebul ayakan tipung.",
+          id: "Dan (yang ke-6) sesuatu yang masuk ke dalamnya, dan sesuatu itu berupa kebul ayakan tepung."
         },
         {
           ar: "أَوْ ذُبَابًا طَائِرًا أَوْ نَحْوَهُ",
-          sd: "Atawa (anu ka-7) laleur anu hiber atawa nu misilna éta laleur (kawas rametuk jsb)[span_17](start_span)[span_17](end_span).",
-          id: "Atau (yang ke-7) lalat yang terbang atau sesamanya (seperti nyamuk)[span_18](start_span)[span_18](end_span)."
+          sd: "Atawa (anu ka-7) laleur anu hiber atawa nu misilna (kawas rametuk jsb).",
+          id: "Atau (yang ke-7) lalat yang terbang atau sesamanya (seperti nyamuk)."
         }
       ]
     },
@@ -3232,51 +3218,50 @@
       judul: "Khatimah (Doa Penutup)",
       ar:    "خَاتِمَةٌ",
       lat:   "khatimah doa penutup muallif pangarang",
-
       lines: [
         {
           ar: "وَاللهُ أَعْلَمُ بِالصَّوَابِ، نَسْأَلُ اللهَ الْكَرِيمَ بِجَاهِ نَبِيِّهِ الْوَسِيمِ",
-          sd: "Jeung ari Allah éta leuwih uninga kana nu benerna. Mugi abdi sadaya neda ka Allah Anu Maha Béréhan, ku lantaran darajat Nabi-Na anu kasép[span_19](start_span)[span_19](end_span).",
-          id: "Dan Allah lebih mengetahui kebenarannya. Kami memohon kepada Allah Yang Maha Dermawan, dengan perantara derajat Nabi-Nya yang rupawan[span_20](start_span)[span_20](end_span)."
+          sd: "Jeung ari Allah éta leuwih uninga kana nu benerna. Mugi abdi sadaya neda ka Allah Anu Maha Béréhan, ku lantaran darajat Nabi-Na anu kasép.",
+          id: "Dan Allah lebih mengetahui kebenarannya. Kami memohon kepada Allah Yang Maha Dermawan, dengan perantara derajat Nabi-Nya yang rupawan."
         },
         {
           ar: "أَنْ يُخْرِجَنِي مِنَ الدُّنْيَا مُسْلِمًا",
-          sd: "Mugi (Allah) ngaluarkeun abdi tina dunya (maot) dina kaayaan Islam[span_21](start_span)[span_21](end_span).",
-          id: "Agar (Allah) mengeluarkan aku dari dunia (wafat) dalam keadaan Islam[span_22](start_span)[span_22](end_span)."
+          sd: "Mugi Allah ngaluarkeun abdi tina dunya (maot) dina kaayaan Islam.",
+          id: "Agar (Allah) mengeluarkan aku dari dunia (wafat) dalam keadaan Islam."
         },
         {
           ar: "وَوَالِدَيَّ وَأَحِبَّائِي وَمَنْ إِلَيَّ انْتَمَى",
-          sd: "Sarta (mugi maotkeun Islam) ka dua kolot abdi, jeung pirang-pirang anu mikanyaah abdi, jeung ka jalma anu kumawula (nasab/ngelmu) ka abdi[span_23](start_span)[span_23](end_span).",
-          id: "Dan (mewafatkan Islam) kedua orang tuaku, orang-orang yang kucintai, serta orang-orang yang bernasab/berguru kepadaku[span_24](start_span)[span_24](end_span)."
+          sd: "Sarta mugi maotkeun Islam ka dua kolot abdi, jeung pirang-pirang anu mikanyaah abdi, jeung ka jalma anu kumawula ka abdi.",
+          id: "Dan (mewafatkan Islam) kedua orang tuaku, orang-orang yang kucintai, serta orang-orang yang bernasab/berguru kepadaku."
         },
         {
           ar: "وَأَنْ يَغْفِرَ لِي وَلَهُمْ مُقْحِمَاتٍ وَلَمَمًا",
-          sd: "Jeung mugi (Allah) ngahampura ka abdi sarta ka maranéhna, kana pirang-pirang dosa badag jeung dosa leutik[span_25](start_span)[span_25](end_span).",
-          id: "Dan agar (Allah) mengampuniku serta mereka, dari dosa-dosa besar dan dosa-dosa kecil[span_26](start_span)[span_26](end_span)."
+          sd: "Jeung mugi Allah ngahampura ka abdi sarta ka maranéhna, kana pirang-pirang dosa badag jeung dosa leutik.",
+          id: "Dan agar (Allah) mengampuniku serta mereka, dari dosa-dosa besar dan dosa-dosa kecil."
         },
         {
           ar: "وَصَلَّى اللهُ عَلَى سَيِّدِنَا مُحَمَّدِ بْنِ عَبْدِ اللهِ بْنِ عَبْدِ الْمُطَّلِبِ بْنِ هَاشِمِ بْنِ عَبْدِ مَنَافٍ",
-          sd: "Jeung muga Allah maparin rahmat ta'zhim ka dunungan urang sadaya, Nabi Muhammad, putrana Abdullah, putrana Abdul Muthalib, putrana Hasyim, putrana Abdu Manaf[span_27](start_span)[span_27](end_span).",
-          id: "Dan semoga Allah memberikan rahmat ta'zim kepada junjungan kita, Nabi Muhammad putra Abdullah, putra Abdul Muthalib, putra Hasyim, putra Abdu Manaf[span_28](start_span)[span_28](end_span)."
+          sd: "Jeung muga Allah maparin rahmat ta'zhim ka dunungan urang sadaya, Nabi Muhammad, putrana Abdullah, putrana Abdul Muthalib, putrana Hasyim, putrana Abdu Manaf.",
+          id: "Dan semoga Allah memberikan rahmat ta'zim kepada junjungan kita, Nabi Muhammad putra Abdullah, putra Abdul Muthalib, putra Hasyim, putra Abdu Manaf."
         },
         {
           ar: "رَسُولِ اللهِ إِلَى كَافَّةِ الْخَلْقِ، رَسُولِ الْمَلَاحِمِ",
-          sd: "Anu jadi utusan Allah ka sakabéh mahluk, tur utusan dina pirang-pirang peperangan[span_29](start_span)[span_29](end_span).",
-          id: "Utusan Allah untuk seluruh makhluk, utusan pada berbagai peperangan (akhir zaman)[span_30](start_span)[span_30](end_span)."
+          sd: "Anu jadi utusan Allah ka sakabéh mahluk, tur utusan dina pirang-pirang peperangan.",
+          id: "Utusan Allah untuk seluruh makhluk, utusan pada berbagai peperangan (akhir zaman)."
         },
         {
           ar: "حَبِيبِ اللهِ الْفَاتِحِ الْخَاتِمِ",
-          sd: "Nu jadi kakasih Allah, anu muka (kahadéan), tur anu nutup (pamungkas para nabi)[span_31](start_span)[span_31](end_span).",
-          id: "Kekasih Allah, yang menjadi pembuka (kebaikan) dan penutup (para nabi)[span_32](start_span)[span_32](end_span)."
+          sd: "Nu jadi kakasih Allah, anu muka kahadéan, tur anu nutup (pamungkas para nabi).",
+          id: "Kekasih Allah, yang menjadi pembuka (kebaikan) dan penutup (para nabi)."
         },
         {
           ar: "وَآلِهِ وَصَحْبِهِ أَجْمَعِينَ، وَالْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِينَ",
-          sd: "Sarta muga (rahmat-Na kucur) ka kulawargana, jeung sahabatna sadayana. Jeung ari sadaya puji, éta tetep kagungan Allah, Pangéran nu murbéng alam[span_33](start_span)[span_33](end_span).",
-          id: "Dan (semoga rahmat tercurah) kepada keluarganya, dan sahabatnya semua. Dan segala puji hanya milik Allah, Tuhan semesta alam[span_34](start_span)[span_34](end_span)."
+          sd: "Sarta muga rahmat kucur ka kulawargana, jeung sahabatna sadayana. Jeung ari sadaya puji, éta tetep kagungan Allah, Pangéran nu murbéng alam.",
+          id: "Dan (semoga rahmat tercurah) kepada keluarganya, dan sahabatnya semua. Dan segala puji hanya milik Allah, Tuhan semesta alam."
         }
       ]
     }
-
+]
 
   ],
 });
